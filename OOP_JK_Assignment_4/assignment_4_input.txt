@@ -1,0 +1,4000 @@
+Animal        27       3    3000    Lemur    Herbivore
+Animal        37       2    2000 Squirrel    Herbivore
+Plant   Fruits        65
+Plant   Fruits        71
+Animal        33       5    5000    Raven     Omnivore
+Animal        47       2    2000 Squirrel    Herbivore
+Plant   Leaves        96
+Animal        38      19   19000    Lemur    Herbivore
+Animal        24       9    9000    Lemur    Herbivore
+Plant   Nuts          95
+Animal        16       1    1000 Squirrel    Herbivore
+Animal        25       5    5000    Raven     Omnivore
+Animal         7      24   24000    Koala    Herbivore
+Animal        33       1    1000    Raven     Omnivore
+Plant   Fruits        71
+Plant   Leaves        96
+Animal        47       1    1000 Squirrel    Herbivore
+Plant   Nuts          77
+Animal        32       1    1000    Raven     Omnivore
+Plant   Nuts          73
+Plant   Leaves        80
+Plant   Leaves        95
+Animal        27       1    1000 Squirrel    Herbivore
+Animal        11       3    3000 Squirrel    Herbivore
+Plant   Fruits        99
+Plant   Leaves        76
+Animal        29     535  535000    Tiger    Carnivore
+Animal        32       3    3000    Koala    Herbivore
+Animal        48       9    9000    Koala    Herbivore
+Animal         8       1    1000 Squirrel    Herbivore
+Animal        25       2    2000    Raven     Omnivore
+Animal        17       3    3000 Squirrel    Herbivore
+Plant   Nuts          82
+Animal        28      12   12000    Lemur    Herbivore
+Animal        15      30   30000    Tiger    Carnivore
+Animal        36      21   21000    Lemur    Herbivore
+Animal        23      13   13000    Lemur    Herbivore
+Animal         4     429  429000    Tiger    Carnivore
+Animal        45     577  577000    Tiger    Carnivore
+Animal        22       1    1000    Lemur    Herbivore
+Animal        38     357  357000    Tiger    Carnivore
+Animal        26       9    9000    Lemur    Herbivore
+Plant   Leaves        77
+Plant   Fruits        73
+Plant   Leaves        81
+Animal        42      18   18000    Koala    Herbivore
+Animal        43       1    1000 Squirrel    Herbivore
+Animal        25       1    1000 Squirrel    Herbivore
+Animal        25      14   14000    Koala    Herbivore
+Animal         4       6    6000    Lemur    Herbivore
+Animal        33       2    2000 Squirrel    Herbivore
+Plant   Fruits        93
+Animal        36       2    2000 Squirrel    Herbivore
+Animal        45     510  510000    Tiger    Carnivore
+Animal        25     287  287000    Tiger    Carnivore
+Plant   Fruits        84
+Animal        11       1    1000    Lemur    Herbivore
+Plant   Fruits        64
+Plant   Nuts          92
+Plant   Leaves        81
+Plant   Leaves        73
+Animal        22      11   11000    Koala    Herbivore
+Animal        30      30   30000    Koala    Herbivore
+Animal        35       2    2000 Squirrel    Herbivore
+Plant   Fruits        83
+Plant   Nuts          74
+Plant   Nuts          90
+Animal        17       2    2000    Koala    Herbivore
+Plant   Leaves        81
+Plant   Fruits        62
+Animal        10       1    1000    Raven     Omnivore
+Plant   Fruits        65
+Animal        40     190  190000    Tiger    Carnivore
+Animal        10       2    2000    Raven     Omnivore
+Animal        40      16   16000    Koala    Herbivore
+Plant   Leaves        72
+Animal        40      24   24000    Koala    Herbivore
+Plant   Nuts          89
+Animal        29     461  461000    Tiger    Carnivore
+Plant   Fruits        93
+Animal        38       1    1000    Raven     Omnivore
+Plant   Fruits        89
+Animal        31       2    2000 Squirrel    Herbivore
+Animal        15     328  328000    Tiger    Carnivore
+Animal        19       3    3000 Squirrel    Herbivore
+Plant   Leaves        94
+Animal         9     222  222000    Tiger    Carnivore
+Plant   Nuts          80
+Animal        24       7    7000    Lemur    Herbivore
+Animal        23       2    2000 Squirrel    Herbivore
+Animal        16     636  636000    Tiger    Carnivore
+Plant   Leaves        98
+Plant   Leaves        70
+Animal         4      11   11000    Lemur    Herbivore
+Plant   Leaves        99
+Animal        19       1    1000    Lemur    Herbivore
+Animal         9      32   32000    Koala    Herbivore
+Animal         5       4    4000    Lemur    Herbivore
+Animal        44       2    2000    Lemur    Herbivore
+Plant   Nuts          99
+Animal        18      50   50000    Tiger    Carnivore
+Plant   Fruits        83
+Plant   Fruits        97
+Animal        44       3    3000 Squirrel    Herbivore
+Animal        13     408  408000    Tiger    Carnivore
+Plant   Fruits        91
+Plant   Fruits        89
+Animal        18      10   10000    Lemur    Herbivore
+Plant   Nuts          97
+Animal        34      19   19000    Lemur    Herbivore
+Animal        35     610  610000    Tiger    Carnivore
+Animal        16      17   17000    Koala    Herbivore
+Animal        36     601  601000    Tiger    Carnivore
+Animal         9       2    2000    Raven     Omnivore
+Animal        16      10   10000    Lemur    Herbivore
+Animal        29     419  419000    Tiger    Carnivore
+Plant   Nuts          96
+Plant   Leaves        86
+Animal         6       4    4000    Raven     Omnivore
+Plant   Fruits        90
+Plant   Nuts          89
+Plant   Leaves        83
+Plant   Fruits        63
+Animal        24      26   26000    Koala    Herbivore
+Animal        24       1    1000 Squirrel    Herbivore
+Plant   Nuts          90
+Animal        40       4    4000    Raven     Omnivore
+Plant   Fruits        61
+Animal        23       5    5000    Raven     Omnivore
+Animal        26       3    3000 Squirrel    Herbivore
+Animal        20       2    2000    Raven     Omnivore
+Animal         2      13   13000    Lemur    Herbivore
+Animal         8     155  155000    Tiger    Carnivore
+Animal        35      20   20000    Lemur    Herbivore
+Plant   Leaves       100
+Animal        35     251  251000    Tiger    Carnivore
+Plant   Nuts          78
+Plant   Nuts          90
+Animal        42       3    3000    Raven     Omnivore
+Animal        40       6    6000    Koala    Herbivore
+Plant   Nuts          92
+Animal         4       2    2000    Koala    Herbivore
+Animal         8       3    3000    Lemur    Herbivore
+Animal        21       2    2000    Lemur    Herbivore
+Animal        24       3    3000    Koala    Herbivore
+Plant   Fruits        77
+Animal         4       4    4000    Raven     Omnivore
+Animal        50       1    1000    Raven     Omnivore
+Animal        46       9    9000    Koala    Herbivore
+Animal        50       4    4000    Koala    Herbivore
+Animal        16       3    3000    Raven     Omnivore
+Plant   Fruits        84
+Animal        18      28   28000    Koala    Herbivore
+Animal        46       3    3000 Squirrel    Herbivore
+Plant   Fruits        66
+Plant   Nuts          96
+Plant   Leaves        71
+Plant   Nuts          90
+Animal        30       1    1000 Squirrel    Herbivore
+Animal        29       1    1000 Squirrel    Herbivore
+Animal        34       4    4000    Raven     Omnivore
+Plant   Leaves        94
+Animal         5      12   12000    Lemur    Herbivore
+Plant   Leaves        83
+Plant   Fruits        75
+Animal        12       4    4000    Raven     Omnivore
+Animal        12       2    2000    Raven     Omnivore
+Animal        36      20   20000    Lemur    Herbivore
+Animal         7       1    1000    Raven     Omnivore
+Animal        32       3    3000    Raven     Omnivore
+Animal         7       1    1000 Squirrel    Herbivore
+Plant   Fruits        91
+Plant   Leaves        95
+Animal        15      30   30000    Koala    Herbivore
+Animal        48     369  369000    Tiger    Carnivore
+Animal        20     408  408000    Tiger    Carnivore
+Animal        12      27   27000    Koala    Herbivore
+Animal        18      28   28000    Koala    Herbivore
+Plant   Nuts          87
+Plant   Fruits        98
+Plant   Leaves        93
+Animal        45      15   15000    Lemur    Herbivore
+Plant   Leaves        67
+Plant   Fruits        69
+Animal        15     134  134000    Tiger    Carnivore
+Animal        14     287  287000    Tiger    Carnivore
+Plant   Leaves        68
+Plant   Fruits        95
+Animal        38     665  665000    Tiger    Carnivore
+Animal        11       1    1000 Squirrel    Herbivore
+Plant   Nuts          85
+Animal        46       3    3000    Raven     Omnivore
+Plant   Fruits        68
+Plant   Leaves        79
+Plant   Fruits        61
+Plant   Nuts          92
+Animal        37       4    4000    Raven     Omnivore
+Animal        35     576  576000    Tiger    Carnivore
+Plant   Leaves        96
+Plant   Fruits        76
+Animal         3      65   65000    Tiger    Carnivore
+Animal        50      29   29000    Koala    Herbivore
+Plant   Fruits        70
+Animal        37       3    3000 Squirrel    Herbivore
+Plant   Nuts          96
+Plant   Fruits        93
+Animal         5       3    3000    Raven     Omnivore
+Animal        45       5    5000    Raven     Omnivore
+Plant   Fruits        60
+Animal        10       5    5000    Raven     Omnivore
+Animal         5     489  489000    Tiger    Carnivore
+Plant   Fruits        93
+Animal        29     147  147000    Tiger    Carnivore
+Plant   Nuts          89
+Plant   Fruits       100
+Animal        15       6    6000    Koala    Herbivore
+Plant   Leaves        83
+Animal        48      33   33000    Koala    Herbivore
+Animal        20      15   15000    Koala    Herbivore
+Animal        49      10   10000    Koala    Herbivore
+Plant   Leaves        61
+Plant   Fruits        89
+Plant   Leaves        81
+Animal        44      28   28000    Koala    Herbivore
+Animal        18       3    3000 Squirrel    Herbivore
+Animal        26      21   21000    Koala    Herbivore
+Animal        44       4    4000    Raven     Omnivore
+Animal        35      27   27000    Koala    Herbivore
+Animal        10       3    3000 Squirrel    Herbivore
+Plant   Fruits        66
+Plant   Fruits        77
+Animal        22       5    5000    Raven     Omnivore
+Animal        22      20   20000    Tiger    Carnivore
+Plant   Fruits        93
+Animal        37       2    2000    Raven     Omnivore
+Plant   Nuts          73
+Animal        42       3    3000    Raven     Omnivore
+Plant   Nuts          86
+Animal        36       1    1000    Raven     Omnivore
+Animal        39       5    5000    Koala    Herbivore
+Plant   Nuts          95
+Plant   Nuts          94
+Plant   Leaves        86
+Plant   Nuts          64
+Animal        17       4    4000    Raven     Omnivore
+Plant   Leaves        88
+Animal        31       1    1000 Squirrel    Herbivore
+Plant   Nuts          66
+Animal        18      22   22000    Koala    Herbivore
+Plant   Nuts          96
+Animal        16       4    4000    Raven     Omnivore
+Plant   Fruits        97
+Plant   Fruits        66
+Animal        39       9    9000    Koala    Herbivore
+Plant   Leaves        74
+Animal        31       4    4000    Raven     Omnivore
+Animal        17       3    3000 Squirrel    Herbivore
+Animal        33       2    2000 Squirrel    Herbivore
+Plant   Fruits        88
+Plant   Leaves        95
+Animal        31      14   14000    Koala    Herbivore
+Animal        34       1    1000 Squirrel    Herbivore
+Animal        37       1    1000 Squirrel    Herbivore
+Animal         8       3    3000 Squirrel    Herbivore
+Plant   Nuts          74
+Animal        30       6    6000    Koala    Herbivore
+Animal        19       2    2000    Raven     Omnivore
+Animal        47       3    3000    Raven     Omnivore
+Animal        26      64   64000    Tiger    Carnivore
+Animal        34      23   23000    Koala    Herbivore
+Animal        49       3    3000 Squirrel    Herbivore
+Animal         5       2    2000 Squirrel    Herbivore
+Animal         3       2    2000 Squirrel    Herbivore
+Animal        33       7    7000    Koala    Herbivore
+Animal        42      33   33000    Koala    Herbivore
+Plant   Nuts          93
+Plant   Fruits        80
+Animal        49      16   16000    Lemur    Herbivore
+Animal         8      31   31000    Koala    Herbivore
+Plant   Leaves        72
+Plant   Fruits        71
+Animal        39      54   54000    Tiger    Carnivore
+Plant   Fruits        64
+Animal        36     504  504000    Tiger    Carnivore
+Plant   Leaves        62
+Animal        21       4    4000    Raven     Omnivore
+Plant   Leaves        75
+Animal        24      31   31000    Koala    Herbivore
+Animal        49       3    3000 Squirrel    Herbivore
+Plant   Fruits        65
+Animal        34       2    2000 Squirrel    Herbivore
+Animal         5      14   14000    Lemur    Herbivore
+Plant   Fruits        70
+Plant   Nuts          87
+Plant   Fruits        86
+Animal         2       9    9000    Lemur    Herbivore
+Animal        33      24   24000    Koala    Herbivore
+Animal        17      87   87000    Tiger    Carnivore
+Animal        33      12   12000    Lemur    Herbivore
+Animal        11       1    1000 Squirrel    Herbivore
+Animal        38       3    3000 Squirrel    Herbivore
+Plant   Leaves        82
+Plant   Nuts          67
+Animal        14       1    1000    Koala    Herbivore
+Animal        13     625  625000    Tiger    Carnivore
+Animal        30       2    2000 Squirrel    Herbivore
+Animal        23       2    2000    Raven     Omnivore
+Animal        38       5    5000    Raven     Omnivore
+Animal        50     182  182000    Tiger    Carnivore
+Animal         7       3    3000 Squirrel    Herbivore
+Plant   Leaves        80
+Plant   Nuts          96
+Animal        29      11   11000    Koala    Herbivore
+Animal        17       3    3000 Squirrel    Herbivore
+Plant   Leaves        95
+Animal        43       2    2000 Squirrel    Herbivore
+Plant   Nuts          71
+Animal        10     669  669000    Tiger    Carnivore
+Plant   Leaves        95
+Animal        48     214  214000    Tiger    Carnivore
+Plant   Leaves        95
+Animal        45      32   32000    Koala    Herbivore
+Animal        34       3    3000    Raven     Omnivore
+Plant   Fruits        79
+Animal        22       5    5000    Raven     Omnivore
+Plant   Leaves        77
+Plant   Nuts          89
+Animal        26     373  373000    Tiger    Carnivore
+Plant   Leaves        87
+Animal         8     258  258000    Tiger    Carnivore
+Plant   Leaves        87
+Plant   Nuts          71
+Animal         3      20   20000    Lemur    Herbivore
+Plant   Fruits        88
+Animal        24       4    4000    Raven     Omnivore
+Animal        36       3    3000 Squirrel    Herbivore
+Animal         2     168  168000    Tiger    Carnivore
+Animal        10       6    6000    Lemur    Herbivore
+Plant   Leaves        75
+Animal        14       1    1000 Squirrel    Herbivore
+Animal        50       5    5000    Raven     Omnivore
+Animal        33      25   25000    Koala    Herbivore
+Animal         1      14   14000    Koala    Herbivore
+Animal        45       5    5000    Raven     Omnivore
+Animal        21      12   12000    Lemur    Herbivore
+Animal        27       3    3000    Raven     Omnivore
+Plant   Nuts          89
+Animal        25       4    4000    Lemur    Herbivore
+Animal        48       2    2000 Squirrel    Herbivore
+Plant   Nuts          64
+Animal        45     245  245000    Tiger    Carnivore
+Animal        15      10   10000    Lemur    Herbivore
+Animal         6      25   25000    Koala    Herbivore
+Plant   Fruits        71
+Animal        12       5    5000    Raven     Omnivore
+Animal        35       2    2000    Koala    Herbivore
+Plant   Nuts          61
+Plant   Leaves        71
+Animal        26       5    5000    Raven     Omnivore
+Animal        47       3    3000 Squirrel    Herbivore
+Animal        32     351  351000    Tiger    Carnivore
+Animal        18       1    1000 Squirrel    Herbivore
+Plant   Fruits        65
+Plant   Fruits        85
+Animal         6      10   10000    Lemur    Herbivore
+Animal        38       3    3000 Squirrel    Herbivore
+Animal         3       5    5000    Raven     Omnivore
+Animal        15       3    3000 Squirrel    Herbivore
+Plant   Nuts          88
+Animal        42     394  394000    Tiger    Carnivore
+Animal        46       1    1000 Squirrel    Herbivore
+Plant   Nuts          94
+Plant   Leaves        69
+Animal         5       8    8000    Koala    Herbivore
+Plant   Fruits        79
+Plant   Nuts          84
+Plant   Nuts          99
+Animal        45       1    1000    Koala    Herbivore
+Plant   Leaves        77
+Animal        49      15   15000    Lemur    Herbivore
+Animal        12       6    6000    Koala    Herbivore
+Animal        18     420  420000    Tiger    Carnivore
+Plant   Fruits        79
+Plant   Nuts          81
+Animal         3      18   18000    Koala    Herbivore
+Animal         4       4    4000    Raven     Omnivore
+Plant   Leaves        77
+Plant   Fruits        91
+Plant   Nuts          91
+Animal        19     640  640000    Tiger    Carnivore
+Animal        48       2    2000    Raven     Omnivore
+Animal         7      15   15000    Koala    Herbivore
+Animal        43       2    2000 Squirrel    Herbivore
+Animal         4     307  307000    Tiger    Carnivore
+Animal        20     404  404000    Tiger    Carnivore
+Animal         7       2    2000 Squirrel    Herbivore
+Plant   Fruits        80
+Plant   Leaves        96
+Animal        32     482  482000    Tiger    Carnivore
+Plant   Leaves        76
+Animal        38       3    3000    Raven     Omnivore
+Animal        20       4    4000    Koala    Herbivore
+Animal        48      30   30000    Koala    Herbivore
+Animal        40      30   30000    Koala    Herbivore
+Animal        28      16   16000    Lemur    Herbivore
+Plant   Fruits        88
+Animal        49     410  410000    Tiger    Carnivore
+Plant   Nuts          60
+Plant   Leaves        83
+Plant   Leaves        75
+Plant   Fruits       100
+Animal        20       5    5000    Lemur    Herbivore
+Animal        30      31   31000    Tiger    Carnivore
+Animal        20      26   26000    Koala    Herbivore
+Animal        34       3    3000    Raven     Omnivore
+Plant   Leaves        82
+Animal        42      20   20000    Koala    Herbivore
+Animal        18       5    5000    Raven     Omnivore
+Animal        24       4    4000    Raven     Omnivore
+Animal        27     377  377000    Tiger    Carnivore
+Animal        12       3    3000 Squirrel    Herbivore
+Plant   Nuts          72
+Plant   Nuts          98
+Plant   Leaves        61
+Animal        40       5    5000    Raven     Omnivore
+Animal        34       3    3000    Raven     Omnivore
+Animal        10      16   16000    Koala    Herbivore
+Animal        42       2    2000 Squirrel    Herbivore
+Plant   Nuts          92
+Animal        36     207  207000    Tiger    Carnivore
+Animal        13       1    1000 Squirrel    Herbivore
+Animal         5       5    5000    Raven     Omnivore
+Animal        40      29   29000    Koala    Herbivore
+Plant   Leaves        82
+Plant   Leaves        94
+Animal        22     269  269000    Tiger    Carnivore
+Animal        33       3    3000 Squirrel    Herbivore
+Animal        12     140  140000    Tiger    Carnivore
+Animal        12       5    5000    Raven     Omnivore
+Plant   Leaves        89
+Animal        21      16   16000    Koala    Herbivore
+Animal         9      10   10000    Lemur    Herbivore
+Animal         4       1    1000 Squirrel    Herbivore
+Animal        37      14   14000    Lemur    Herbivore
+Plant   Leaves        81
+Animal        15       5    5000    Koala    Herbivore
+Animal        30      20   20000    Koala    Herbivore
+Animal        32       3    3000    Raven     Omnivore
+Animal        12       3    3000 Squirrel    Herbivore
+Plant   Nuts          63
+Plant   Fruits        69
+Plant   Fruits        87
+Animal        16     169  169000    Tiger    Carnivore
+Animal        19      72   72000    Tiger    Carnivore
+Animal        44      14   14000    Lemur    Herbivore
+Animal        28      19   19000    Koala    Herbivore
+Animal        37      27   27000    Koala    Herbivore
+Plant   Fruits        61
+Animal        38      15   15000    Koala    Herbivore
+Animal        28       3    3000 Squirrel    Herbivore
+Animal        17       1    1000 Squirrel    Herbivore
+Animal        17       4    4000    Raven     Omnivore
+Animal        50       3    3000    Lemur    Herbivore
+Plant   Nuts          96
+Plant   Fruits        77
+Animal        35       3    3000 Squirrel    Herbivore
+Animal        45      21   21000    Lemur    Herbivore
+Plant   Nuts          85
+Plant   Fruits        67
+Animal        49       2    2000 Squirrel    Herbivore
+Plant   Fruits        87
+Animal        22      15   15000    Koala    Herbivore
+Plant   Leaves        64
+Plant   Nuts          78
+Animal        31       3    3000 Squirrel    Herbivore
+Plant   Nuts          97
+Plant   Nuts          65
+Plant   Fruits        80
+Animal        34      15   15000    Lemur    Herbivore
+Animal        49       2    2000    Raven     Omnivore
+Plant   Leaves        72
+Animal        15     382  382000    Tiger    Carnivore
+Plant   Fruits        75
+Plant   Nuts          89
+Animal         4      14   14000    Koala    Herbivore
+Animal        27       8    8000    Lemur    Herbivore
+Animal        32       9    9000    Lemur    Herbivore
+Plant   Leaves        79
+Animal        26       4    4000    Raven     Omnivore
+Animal         2       3    3000 Squirrel    Herbivore
+Animal        34      52   52000    Tiger    Carnivore
+Animal        31      17   17000    Lemur    Herbivore
+Plant   Nuts          66
+Animal         3      30   30000    Koala    Herbivore
+Animal         2      34   34000    Tiger    Carnivore
+Animal        24       3    3000    Raven     Omnivore
+Plant   Leaves        68
+Animal        40      11   11000    Lemur    Herbivore
+Animal        41     563  563000    Tiger    Carnivore
+Animal         1       3    3000 Squirrel    Herbivore
+Animal        31      17   17000    Lemur    Herbivore
+Animal        13     376  376000    Tiger    Carnivore
+Animal        26      12   12000    Koala    Herbivore
+Plant   Fruits        68
+Animal        17      19   19000    Koala    Herbivore
+Animal        43       2    2000 Squirrel    Herbivore
+Animal         9       2    2000 Squirrel    Herbivore
+Animal        12       3    3000    Raven     Omnivore
+Animal        25       2    2000    Raven     Omnivore
+Animal        43       6    6000    Lemur    Herbivore
+Animal        47      10   10000    Koala    Herbivore
+Plant   Fruits        96
+Animal        32       2    2000    Raven     Omnivore
+Animal        43      29   29000    Koala    Herbivore
+Animal        50     566  566000    Tiger    Carnivore
+Animal        12      29   29000    Koala    Herbivore
+Animal        46     539  539000    Tiger    Carnivore
+Plant   Fruits        67
+Plant   Leaves        69
+Animal        30       5    5000    Raven     Omnivore
+Animal        24     428  428000    Tiger    Carnivore
+Animal         3       3    3000 Squirrel    Herbivore
+Plant   Fruits        79
+Plant   Nuts          63
+Animal        49      20   20000    Lemur    Herbivore
+Plant   Leaves        80
+Animal         9       3    3000 Squirrel    Herbivore
+Animal        46     460  460000    Tiger    Carnivore
+Animal        34      18   18000    Lemur    Herbivore
+Animal        44       6    6000    Lemur    Herbivore
+Animal        26      17   17000    Lemur    Herbivore
+Plant   Nuts          64
+Plant   Leaves        96
+Plant   Leaves        70
+Plant   Leaves        61
+Animal        11      18   18000    Koala    Herbivore
+Plant   Leaves        93
+Plant   Leaves        78
+Animal        37       1    1000 Squirrel    Herbivore
+Animal        32       3    3000    Raven     Omnivore
+Animal        39       2    2000    Koala    Herbivore
+Plant   Leaves        95
+Plant   Leaves        60
+Animal         4       1    1000    Raven     Omnivore
+Plant   Leaves        62
+Animal        13      19   19000    Koala    Herbivore
+Plant   Fruits        91
+Animal        26       5    5000    Lemur    Herbivore
+Plant   Leaves        80
+Plant   Leaves        90
+Plant   Nuts          79
+Animal        39       4    4000    Raven     Omnivore
+Animal        23       3    3000    Koala    Herbivore
+Animal        36       8    8000    Lemur    Herbivore
+Animal        46       5    5000    Koala    Herbivore
+Plant   Leaves        99
+Animal        26     451  451000    Tiger    Carnivore
+Plant   Nuts          89
+Animal        29       1    1000 Squirrel    Herbivore
+Plant   Leaves        94
+Plant   Leaves        94
+Animal        32       3    3000    Raven     Omnivore
+Animal         7       1    1000    Lemur    Herbivore
+Plant   Leaves        89
+Plant   Fruits        72
+Plant   Leaves        70
+Animal        50       2    2000 Squirrel    Herbivore
+Animal         5      88   88000    Tiger    Carnivore
+Animal        42       3    3000    Raven     Omnivore
+Plant   Leaves        88
+Plant   Leaves        98
+Plant   Nuts          63
+Animal        26      21   21000    Koala    Herbivore
+Animal        10       3    3000    Raven     Omnivore
+Plant   Leaves        61
+Plant   Nuts          70
+Animal        36       2    2000 Squirrel    Herbivore
+Animal        32      24   24000    Koala    Herbivore
+Plant   Leaves        79
+Animal        46       3    3000    Raven     Omnivore
+Animal         8     501  501000    Tiger    Carnivore
+Plant   Nuts          99
+Plant   Nuts          94
+Animal        30     380  380000    Tiger    Carnivore
+Animal        28       5    5000    Lemur    Herbivore
+Animal        24       3    3000    Raven     Omnivore
+Animal        28       5    5000    Raven     Omnivore
+Plant   Nuts          76
+Animal        39       5    5000    Lemur    Herbivore
+Animal        37      16   16000    Koala    Herbivore
+Animal        23     219  219000    Tiger    Carnivore
+Animal        39      18   18000    Lemur    Herbivore
+Animal         8       1    1000 Squirrel    Herbivore
+Animal        14       3    3000    Lemur    Herbivore
+Animal        20      13   13000    Lemur    Herbivore
+Plant   Leaves        75
+Animal        36       5    5000    Raven     Omnivore
+Animal        12       3    3000 Squirrel    Herbivore
+Animal        27       1    1000 Squirrel    Herbivore
+Animal        46      28   28000    Koala    Herbivore
+Animal        13     585  585000    Tiger    Carnivore
+Animal        48     153  153000    Tiger    Carnivore
+Animal        20      18   18000    Koala    Herbivore
+Animal        41     158  158000    Tiger    Carnivore
+Animal        33       7    7000    Lemur    Herbivore
+Animal        26      10   10000    Tiger    Carnivore
+Animal         9       5    5000    Raven     Omnivore
+Animal        31       1    1000    Raven     Omnivore
+Animal        49       8    8000    Koala    Herbivore
+Animal         9      17   17000    Lemur    Herbivore
+Animal        40       1    1000    Raven     Omnivore
+Animal        13       3    3000 Squirrel    Herbivore
+Animal        19      13   13000    Koala    Herbivore
+Animal         8      29   29000    Koala    Herbivore
+Animal        10       6    6000    Lemur    Herbivore
+Plant   Leaves        88
+Animal        25       8    8000    Koala    Herbivore
+Plant   Nuts          91
+Plant   Fruits        80
+Animal        23       1    1000    Koala    Herbivore
+Animal        20      11   11000    Lemur    Herbivore
+Animal        16       2    2000 Squirrel    Herbivore
+Plant   Nuts          66
+Plant   Fruits        73
+Plant   Fruits        73
+Animal        40       6    6000    Koala    Herbivore
+Plant   Nuts          69
+Animal        36      10   10000    Koala    Herbivore
+Plant   Fruits        67
+Animal        33      25   25000    Koala    Herbivore
+Plant   Leaves        60
+Plant   Nuts          66
+Plant   Leaves        73
+Animal        22       2    2000 Squirrel    Herbivore
+Animal        25      17   17000    Koala    Herbivore
+Animal        11       5    5000    Raven     Omnivore
+Animal        45       5    5000    Raven     Omnivore
+Plant   Nuts          62
+Plant   Leaves        69
+Plant   Fruits        69
+Animal        12      14   14000    Lemur    Herbivore
+Animal        25       1    1000    Raven     Omnivore
+Animal        17       6    6000    Lemur    Herbivore
+Plant   Nuts          92
+Plant   Leaves        97
+Animal        30      12   12000    Koala    Herbivore
+Animal        29      16   16000    Lemur    Herbivore
+Animal        47      29   29000    Koala    Herbivore
+Animal        23       1    1000 Squirrel    Herbivore
+Plant   Nuts          77
+Plant   Nuts          63
+Plant   Nuts          90
+Plant   Leaves        90
+Animal        40       2    2000 Squirrel    Herbivore
+Animal        28       8    8000    Lemur    Herbivore
+Animal        33       2    2000 Squirrel    Herbivore
+Plant   Leaves        88
+Animal        40      16   16000    Koala    Herbivore
+Animal         3     134  134000    Tiger    Carnivore
+Animal         5      26   26000    Koala    Herbivore
+Animal        17       3    3000    Raven     Omnivore
+Animal        14       2    2000 Squirrel    Herbivore
+Plant   Leaves        81
+Animal        29      15   15000    Koala    Herbivore
+Animal        38      31   31000    Koala    Herbivore
+Animal        42      10   10000    Koala    Herbivore
+Animal         9       1    1000    Raven     Omnivore
+Plant   Fruits        70
+Animal        49      21   21000    Lemur    Herbivore
+Plant   Leaves        83
+Plant   Nuts          96
+Animal        47      15   15000    Koala    Herbivore
+Plant   Leaves        88
+Animal        24       2    2000    Raven     Omnivore
+Animal        50       3    3000 Squirrel    Herbivore
+Animal        25     541  541000    Tiger    Carnivore
+Animal         2       8    8000    Koala    Herbivore
+Plant   Nuts          83
+Animal        28       3    3000 Squirrel    Herbivore
+Animal         9       2    2000    Lemur    Herbivore
+Animal        25       4    4000    Raven     Omnivore
+Plant   Leaves        88
+Plant   Nuts          65
+Plant   Leaves        78
+Animal         1       2    2000    Raven     Omnivore
+Plant   Nuts          61
+Animal        50       2    2000    Raven     Omnivore
+Animal        45       7    7000    Lemur    Herbivore
+Animal        13      21   21000    Koala    Herbivore
+Plant   Fruits        90
+Animal        47       1    1000    Raven     Omnivore
+Animal        23       7    7000    Lemur    Herbivore
+Plant   Nuts          68
+Plant   Nuts          75
+Animal        48       1    1000 Squirrel    Herbivore
+Animal        12       1    1000 Squirrel    Herbivore
+Animal        18       5    5000    Raven     Omnivore
+Animal        44      13   13000    Koala    Herbivore
+Plant   Nuts          74
+Plant   Leaves        84
+Plant   Leaves        61
+Plant   Leaves        64
+Plant   Leaves        66
+Plant   Fruits        75
+Plant   Nuts          67
+Animal        37       1    1000    Raven     Omnivore
+Plant   Leaves        89
+Animal        41      12   12000    Lemur    Herbivore
+Plant   Nuts          66
+Animal        44       2    2000 Squirrel    Herbivore
+Animal        15      17   17000    Lemur    Herbivore
+Plant   Leaves        67
+Plant   Fruits        82
+Plant   Fruits        63
+Animal        42       5    5000    Koala    Herbivore
+Animal         9       5    5000    Raven     Omnivore
+Plant   Nuts          86
+Plant   Leaves        77
+Animal        34     113  113000    Tiger    Carnivore
+Animal        12      28   28000    Koala    Herbivore
+Animal        26       4    4000    Koala    Herbivore
+Animal        30       2    2000 Squirrel    Herbivore
+Animal        28      72   72000    Tiger    Carnivore
+Animal        47      31   31000    Koala    Herbivore
+Plant   Leaves        74
+Animal        34       4    4000    Raven     Omnivore
+Plant   Fruits        71
+Animal        49      21   21000    Koala    Herbivore
+Animal        10       3    3000 Squirrel    Herbivore
+Animal        31       4    4000    Lemur    Herbivore
+Animal         6      11   11000    Lemur    Herbivore
+Animal        48      28   28000    Koala    Herbivore
+Animal        14       2    2000    Raven     Omnivore
+Plant   Fruits        94
+Animal        20     181  181000    Tiger    Carnivore
+Animal        47      12   12000    Lemur    Herbivore
+Plant   Fruits        75
+Animal         3      10   10000    Lemur    Herbivore
+Animal         2     343  343000    Tiger    Carnivore
+Animal        21     501  501000    Tiger    Carnivore
+Animal        32      10   10000    Koala    Herbivore
+Plant   Leaves        93
+Animal        22       2    2000    Raven     Omnivore
+Animal        49     371  371000    Tiger    Carnivore
+Animal        13     316  316000    Tiger    Carnivore
+Plant   Fruits        74
+Animal        25       3    3000    Raven     Omnivore
+Animal         1     274  274000    Tiger    Carnivore
+Animal        26       3    3000 Squirrel    Herbivore
+Animal        33     469  469000    Tiger    Carnivore
+Plant   Fruits        83
+Animal         9       6    6000    Koala    Herbivore
+Animal        27       3    3000    Raven     Omnivore
+Plant   Nuts          90
+Animal         5     106  106000    Tiger    Carnivore
+Animal        10      29   29000    Koala    Herbivore
+Animal        28      21   21000    Lemur    Herbivore
+Plant   Leaves        98
+Animal         8       6    6000    Lemur    Herbivore
+Plant   Fruits        74
+Animal        47       3    3000    Koala    Herbivore
+Animal        27       3    3000 Squirrel    Herbivore
+Plant   Fruits        77
+Plant   Fruits        68
+Animal        24      32   32000    Koala    Herbivore
+Animal        26       2    2000 Squirrel    Herbivore
+Animal         2      11   11000    Koala    Herbivore
+Animal        21      92   92000    Tiger    Carnivore
+Animal        40       1    1000 Squirrel    Herbivore
+Animal         7     189  189000    Tiger    Carnivore
+Animal         8      19   19000    Lemur    Herbivore
+Animal        37       5    5000    Lemur    Herbivore
+Animal        16     316  316000    Tiger    Carnivore
+Animal        18      21   21000    Koala    Herbivore
+Animal        31       2    2000 Squirrel    Herbivore
+Animal        21     616  616000    Tiger    Carnivore
+Plant   Leaves        92
+Animal        10      44   44000    Tiger    Carnivore
+Plant   Nuts          68
+Plant   Fruits        62
+Animal         1       3    3000    Raven     Omnivore
+Plant   Nuts          78
+Animal        10       9    9000    Lemur    Herbivore
+Plant   Fruits        83
+Animal        14       5    5000    Raven     Omnivore
+Animal        19       1    1000    Raven     Omnivore
+Animal        46      11   11000    Lemur    Herbivore
+Animal        22       2    2000    Raven     Omnivore
+Animal         4       5    5000    Raven     Omnivore
+Animal        16     525  525000    Tiger    Carnivore
+Plant   Leaves        82
+Plant   Leaves       100
+Plant   Fruits        98
+Plant   Fruits        77
+Plant   Nuts          76
+Animal         6     150  150000    Tiger    Carnivore
+Animal        11       1    1000    Raven     Omnivore
+Animal        21       3    3000    Raven     Omnivore
+Plant   Nuts          80
+Animal        10       1    1000    Lemur    Herbivore
+Plant   Fruits        67
+Animal        45       1    1000    Raven     Omnivore
+Plant   Fruits        71
+Animal        44       4    4000    Raven     Omnivore
+Plant   Fruits        70
+Plant   Nuts          82
+Animal        24      14   14000    Koala    Herbivore
+Animal        14       3    3000 Squirrel    Herbivore
+Plant   Leaves        78
+Plant   Leaves        93
+Animal        17       4    4000    Raven     Omnivore
+Animal        35       7    7000    Lemur    Herbivore
+Animal        19      22   22000    Koala    Herbivore
+Animal        35     627  627000    Tiger    Carnivore
+Plant   Leaves        67
+Plant   Nuts          87
+Plant   Nuts          86
+Animal        36      16   16000    Lemur    Herbivore
+Plant   Fruits        64
+Animal        26       1    1000    Koala    Herbivore
+Animal        40       1    1000 Squirrel    Herbivore
+Plant   Nuts          70
+Animal        24      18   18000    Lemur    Herbivore
+Animal        43      15   15000    Koala    Herbivore
+Plant   Fruits        69
+Animal        31       1    1000 Squirrel    Herbivore
+Animal        15       1    1000    Raven     Omnivore
+Plant   Fruits        80
+Plant   Nuts          71
+Animal        50       3    3000 Squirrel    Herbivore
+Animal         3       2    2000 Squirrel    Herbivore
+Animal        42       2    2000    Raven     Omnivore
+Animal        20     516  516000    Tiger    Carnivore
+Animal        26      27   27000    Koala    Herbivore
+Plant   Fruits       100
+Plant   Leaves        67
+Plant   Fruits        94
+Animal        13     419  419000    Tiger    Carnivore
+Animal        34     386  386000    Tiger    Carnivore
+Animal        33       1    1000 Squirrel    Herbivore
+Plant   Nuts          90
+Plant   Nuts          67
+Animal        31     284  284000    Tiger    Carnivore
+Animal        42      12   12000    Koala    Herbivore
+Plant   Fruits        83
+Animal        45     415  415000    Tiger    Carnivore
+Plant   Nuts          63
+Animal         2       1    1000 Squirrel    Herbivore
+Animal        14       8    8000    Lemur    Herbivore
+Animal         5       3    3000 Squirrel    Herbivore
+Animal         4       3    3000 Squirrel    Herbivore
+Animal        12       2    2000 Squirrel    Herbivore
+Animal        32       3    3000 Squirrel    Herbivore
+Plant   Fruits        80
+Animal        47       2    2000    Lemur    Herbivore
+Animal        14       4    4000    Raven     Omnivore
+Animal        38       4    4000    Lemur    Herbivore
+Plant   Leaves        83
+Animal        35     278  278000    Tiger    Carnivore
+Animal         1       7    7000    Lemur    Herbivore
+Animal        15       1    1000 Squirrel    Herbivore
+Plant   Nuts          69
+Animal        17     406  406000    Tiger    Carnivore
+Animal        33     368  368000    Tiger    Carnivore
+Animal         1       1    1000 Squirrel    Herbivore
+Plant   Leaves        74
+Animal        25       4    4000    Raven     Omnivore
+Plant   Leaves        78
+Animal        22       3    3000 Squirrel    Herbivore
+Animal        29       3    3000    Raven     Omnivore
+Animal        21     554  554000    Tiger    Carnivore
+Animal        34      14   14000    Lemur    Herbivore
+Animal        22       3    3000 Squirrel    Herbivore
+Plant   Nuts          74
+Plant   Leaves        73
+Plant   Nuts          78
+Animal        27       2    2000 Squirrel    Herbivore
+Plant   Leaves        65
+Animal        28       2    2000    Koala    Herbivore
+Animal        41     491  491000    Tiger    Carnivore
+Animal        30       1    1000 Squirrel    Herbivore
+Plant   Fruits        93
+Animal         8       5    5000    Raven     Omnivore
+Animal         6      17   17000    Lemur    Herbivore
+Plant   Nuts          94
+Plant   Fruits        70
+Animal        30       5    5000    Lemur    Herbivore
+Animal        34      13   13000    Lemur    Herbivore
+Animal        15      17   17000    Lemur    Herbivore
+Animal         4      17   17000    Lemur    Herbivore
+Plant   Fruits        61
+Plant   Fruits        92
+Animal         8       1    1000 Squirrel    Herbivore
+Animal        40      21   21000    Koala    Herbivore
+Animal        10       1    1000 Squirrel    Herbivore
+Animal        16      30   30000    Koala    Herbivore
+Plant   Leaves        60
+Plant   Fruits        68
+Animal        37      14   14000    Lemur    Herbivore
+Plant   Leaves        75
+Plant   Fruits        61
+Plant   Leaves        85
+Animal        41     584  584000    Tiger    Carnivore
+Plant   Leaves        69
+Animal        10       4    4000    Raven     Omnivore
+Animal        45       3    3000    Lemur    Herbivore
+Animal        37     234  234000    Tiger    Carnivore
+Plant   Leaves        83
+Plant   Leaves        82
+Animal        27      93   93000    Tiger    Carnivore
+Animal        40       5    5000    Lemur    Herbivore
+Animal        12       2    2000 Squirrel    Herbivore
+Animal        28       2    2000    Raven     Omnivore
+Plant   Fruits        94
+Plant   Nuts          89
+Animal        40     499  499000    Tiger    Carnivore
+Animal         8       3    3000    Raven     Omnivore
+Animal        36     637  637000    Tiger    Carnivore
+Plant   Fruits        65
+Plant   Nuts          72
+Animal        29       2    2000 Squirrel    Herbivore
+Animal         1       4    4000    Raven     Omnivore
+Plant   Nuts          73
+Plant   Leaves        71
+Plant   Fruits        97
+Animal         3       6    6000    Lemur    Herbivore
+Plant   Fruits        86
+Animal        21      13   13000    Lemur    Herbivore
+Animal        17       3    3000    Raven     Omnivore
+Animal         7      15   15000    Lemur    Herbivore
+Plant   Leaves        78
+Plant   Fruits        73
+Animal        45       3    3000    Raven     Omnivore
+Animal        44     303  303000    Tiger    Carnivore
+Animal        50       1    1000    Koala    Herbivore
+Animal        22       5    5000    Raven     Omnivore
+Plant   Leaves        87
+Plant   Fruits        80
+Plant   Nuts          88
+Plant   Fruits        71
+Animal        34     212  212000    Tiger    Carnivore
+Animal        34       3    3000    Raven     Omnivore
+Plant   Nuts          77
+Animal        16      26   26000    Koala    Herbivore
+Animal        48       1    1000 Squirrel    Herbivore
+Animal        27       1    1000 Squirrel    Herbivore
+Animal         2       1    1000 Squirrel    Herbivore
+Plant   Leaves        87
+Animal        20       2    2000 Squirrel    Herbivore
+Animal         3       2    2000    Raven     Omnivore
+Animal        25      16   16000    Koala    Herbivore
+Animal        31       4    4000    Koala    Herbivore
+Plant   Fruits        93
+Plant   Leaves        97
+Animal        48      24   24000    Koala    Herbivore
+Animal        27      11   11000    Koala    Herbivore
+Animal        44       1    1000    Raven     Omnivore
+Animal        47      12   12000    Koala    Herbivore
+Animal        16     278  278000    Tiger    Carnivore
+Plant   Nuts          85
+Plant   Leaves        73
+Animal         6       3    3000 Squirrel    Herbivore
+Plant   Leaves        96
+Animal        27       7    7000    Lemur    Herbivore
+Animal        15       1    1000 Squirrel    Herbivore
+Animal        48     476  476000    Tiger    Carnivore
+Animal        47      24   24000    Tiger    Carnivore
+Animal        25     316  316000    Tiger    Carnivore
+Animal        10      18   18000    Lemur    Herbivore
+Animal        47       2    2000 Squirrel    Herbivore
+Plant   Nuts          89
+Animal        14       5    5000    Raven     Omnivore
+Plant   Leaves        99
+Animal        10       4    4000    Raven     Omnivore
+Animal        21       1    1000 Squirrel    Herbivore
+Animal        27       7    7000    Koala    Herbivore
+Animal         4       3    3000 Squirrel    Herbivore
+Animal         8     144  144000    Tiger    Carnivore
+Animal        46      15   15000    Koala    Herbivore
+Animal         1       4    4000    Koala    Herbivore
+Plant   Fruits        62
+Animal        17     546  546000    Tiger    Carnivore
+Animal        23       7    7000    Lemur    Herbivore
+Animal        45       3    3000    Raven     Omnivore
+Animal        40       5    5000    Koala    Herbivore
+Animal        49      21   21000    Lemur    Herbivore
+Animal        49     471  471000    Tiger    Carnivore
+Animal         4       2    2000    Raven     Omnivore
+Animal        36       1    1000    Koala    Herbivore
+Animal        35       2    2000    Lemur    Herbivore
+Animal        31       2    2000 Squirrel    Herbivore
+Animal        12       1    1000 Squirrel    Herbivore
+Animal        29       7    7000    Lemur    Herbivore
+Plant   Fruits        81
+Animal        41      12   12000    Lemur    Herbivore
+Plant   Fruits        80
+Plant   Leaves        85
+Plant   Leaves        92
+Plant   Leaves        97
+Animal        48     449  449000    Tiger    Carnivore
+Animal        15     219  219000    Tiger    Carnivore
+Animal        29       3    3000    Raven     Omnivore
+Plant   Nuts          78
+Plant   Leaves        74
+Animal        19       1    1000    Raven     Omnivore
+Plant   Nuts          74
+Plant   Nuts          67
+Animal        27      37   37000    Tiger    Carnivore
+Animal        29      15   15000    Lemur    Herbivore
+Animal        48       1    1000 Squirrel    Herbivore
+Animal         6       5    5000    Raven     Omnivore
+Plant   Leaves        96
+Animal        40      11   11000    Lemur    Herbivore
+Animal        32      33   33000    Koala    Herbivore
+Plant   Nuts          69
+Animal        27     178  178000    Tiger    Carnivore
+Plant   Fruits        78
+Animal         9       1    1000    Raven     Omnivore
+Animal         3       1    1000 Squirrel    Herbivore
+Animal        30       5    5000    Raven     Omnivore
+Animal        25       3    3000    Tiger    Carnivore
+Animal        37      18   18000    Lemur    Herbivore
+Animal        43      18   18000    Lemur    Herbivore
+Plant   Fruits        96
+Plant   Fruits        62
+Animal        40     336  336000    Tiger    Carnivore
+Animal        15      21   21000    Lemur    Herbivore
+Plant   Nuts          81
+Animal        49     234  234000    Tiger    Carnivore
+Animal        41      33   33000    Koala    Herbivore
+Animal        27     409  409000    Tiger    Carnivore
+Animal        29       1    1000    Raven     Omnivore
+Animal        37      78   78000    Tiger    Carnivore
+Plant   Nuts          89
+Animal        24       2    2000 Squirrel    Herbivore
+Animal        13      18   18000    Lemur    Herbivore
+Animal        10       1    1000    Raven     Omnivore
+Animal        37       5    5000    Lemur    Herbivore
+Animal        35       5    5000    Raven     Omnivore
+Plant   Nuts          63
+Plant   Leaves        69
+Plant   Nuts          63
+Animal        13      32   32000    Koala    Herbivore
+Animal        17       4    4000    Raven     Omnivore
+Plant   Leaves       100
+Animal        11       5    5000    Raven     Omnivore
+Plant   Nuts          61
+Animal        42     196  196000    Tiger    Carnivore
+Animal         8     404  404000    Tiger    Carnivore
+Animal         2       2    2000    Koala    Herbivore
+Animal        19       3    3000 Squirrel    Herbivore
+Plant   Fruits        85
+Plant   Nuts          95
+Animal        22       9    9000    Lemur    Herbivore
+Plant   Nuts          72
+Animal        11       3    3000 Squirrel    Herbivore
+Plant   Leaves        83
+Animal        46     247  247000    Tiger    Carnivore
+Animal        24       7    7000    Lemur    Herbivore
+Animal        28      79   79000    Tiger    Carnivore
+Animal        21      29   29000    Koala    Herbivore
+Animal        44       5    5000    Raven     Omnivore
+Plant   Fruits        79
+Animal        15       2    2000    Raven     Omnivore
+Animal         5       4    4000    Lemur    Herbivore
+Animal        47       7    7000    Koala    Herbivore
+Animal        42       1    1000 Squirrel    Herbivore
+Animal         3       4    4000    Raven     Omnivore
+Animal        15      14   14000    Lemur    Herbivore
+Plant   Fruits        64
+Animal        12       2    2000    Raven     Omnivore
+Plant   Nuts          66
+Animal        49       3    3000 Squirrel    Herbivore
+Plant   Leaves        88
+Animal        44       6    6000    Lemur    Herbivore
+Plant   Leaves        63
+Animal        13      20   20000    Lemur    Herbivore
+Plant   Nuts          76
+Animal         5       4    4000    Raven     Omnivore
+Animal         6       1    1000 Squirrel    Herbivore
+Animal        33       4    4000    Raven     Omnivore
+Animal        44      15   15000    Lemur    Herbivore
+Animal        24       2    2000 Squirrel    Herbivore
+Animal        33      12   12000    Lemur    Herbivore
+Animal        39     516  516000    Tiger    Carnivore
+Plant   Nuts          75
+Animal         6       1    1000    Lemur    Herbivore
+Animal        20       3    3000 Squirrel    Herbivore
+Animal        32       2    2000    Raven     Omnivore
+Plant   Nuts          62
+Animal        11      11   11000    Lemur    Herbivore
+Animal        17       2    2000 Squirrel    Herbivore
+Animal        20     354  354000    Tiger    Carnivore
+Plant   Nuts          62
+Animal        39       2    2000 Squirrel    Herbivore
+Animal        38      29   29000    Koala    Herbivore
+Plant   Fruits        92
+Plant   Leaves        84
+Animal        43     646  646000    Tiger    Carnivore
+Plant   Nuts          61
+Animal        11      24   24000    Koala    Herbivore
+Animal         2       4    4000    Raven     Omnivore
+Animal        35       2    2000    Lemur    Herbivore
+Animal         1       7    7000    Lemur    Herbivore
+Animal        13       3    3000 Squirrel    Herbivore
+Animal        39       1    1000    Raven     Omnivore
+Animal        30      24   24000    Koala    Herbivore
+Plant   Fruits        92
+Animal        28     518  518000    Tiger    Carnivore
+Animal        28       2    2000 Squirrel    Herbivore
+Animal        10       5    5000    Raven     Omnivore
+Animal        30       7    7000    Koala    Herbivore
+Animal        45       4    4000    Raven     Omnivore
+Animal         6      31   31000    Koala    Herbivore
+Animal        13       3    3000    Raven     Omnivore
+Animal        38       1    1000    Raven     Omnivore
+Plant   Fruits        88
+Plant   Leaves       100
+Plant   Fruits        63
+Animal        12       2    2000    Lemur    Herbivore
+Animal        29       2    2000    Raven     Omnivore
+Animal        30      11   11000    Tiger    Carnivore
+Animal        30       5    5000    Lemur    Herbivore
+Animal        11     187  187000    Tiger    Carnivore
+Animal         4       6    6000    Lemur    Herbivore
+Animal         4       4    4000    Raven     Omnivore
+Animal        36       4    4000    Koala    Herbivore
+Plant   Nuts          69
+Plant   Leaves       100
+Animal        44       3    3000 Squirrel    Herbivore
+Plant   Nuts          91
+Plant   Leaves        95
+Animal         4       2    2000 Squirrel    Herbivore
+Plant   Fruits        93
+Animal        32       3    3000    Raven     Omnivore
+Plant   Leaves       100
+Animal        11       4    4000    Raven     Omnivore
+Animal        13       4    4000    Lemur    Herbivore
+Animal        24       2    2000 Squirrel    Herbivore
+Plant   Nuts          69
+Plant   Leaves        88
+Animal        47       1    1000    Raven     Omnivore
+Plant   Nuts          61
+Plant   Nuts          73
+Animal         5     420  420000    Tiger    Carnivore
+Animal        41      27   27000    Koala    Herbivore
+Animal        34       1    1000    Raven     Omnivore
+Animal        38     510  510000    Tiger    Carnivore
+Animal        12       3    3000    Raven     Omnivore
+Plant   Leaves        73
+Plant   Leaves        77
+Animal         4       3    3000 Squirrel    Herbivore
+Plant   Nuts          65
+Animal        45      12   12000    Koala    Herbivore
+Plant   Fruits        68
+Animal        27      14   14000    Koala    Herbivore
+Animal        46       1    1000 Squirrel    Herbivore
+Animal        39     100  100000    Tiger    Carnivore
+Plant   Leaves        99
+Plant   Leaves        77
+Plant   Fruits        97
+Plant   Fruits        97
+Animal        48     164  164000    Tiger    Carnivore
+Animal         2       1    1000    Raven     Omnivore
+Animal        18     538  538000    Tiger    Carnivore
+Plant   Fruits        80
+Plant   Leaves        77
+Animal        44     366  366000    Tiger    Carnivore
+Plant   Fruits        73
+Animal         7      15   15000    Lemur    Herbivore
+Animal        49       1    1000    Raven     Omnivore
+Plant   Fruits        99
+Plant   Nuts          99
+Animal        25       3    3000 Squirrel    Herbivore
+Plant   Leaves        82
+Animal        40     564  564000    Tiger    Carnivore
+Animal        21       4    4000    Lemur    Herbivore
+Animal         4       3    3000 Squirrel    Herbivore
+Animal         2       1    1000 Squirrel    Herbivore
+Plant   Nuts          83
+Plant   Nuts          71
+Animal         6       6    6000    Koala    Herbivore
+Animal        48       1    1000    Raven     Omnivore
+Plant   Nuts          85
+Animal        27       3    3000    Raven     Omnivore
+Animal        14       1    1000 Squirrel    Herbivore
+Plant   Nuts          66
+Animal        28      14   14000    Koala    Herbivore
+Plant   Fruits        69
+Animal        48     500  500000    Tiger    Carnivore
+Animal        39       9    9000    Lemur    Herbivore
+Animal        45       5    5000    Raven     Omnivore
+Animal        45       3    3000    Raven     Omnivore
+Plant   Nuts          99
+Plant   Leaves        92
+Plant   Nuts          61
+Animal         7       6    6000    Lemur    Herbivore
+Plant   Fruits        73
+Plant   Fruits        68
+Animal        12     415  415000    Tiger    Carnivore
+Animal        45     286  286000    Tiger    Carnivore
+Plant   Leaves        90
+Animal        39       2    2000    Raven     Omnivore
+Animal        50      16   16000    Lemur    Herbivore
+Plant   Nuts          90
+Animal        47     483  483000    Tiger    Carnivore
+Animal        36       2    2000    Raven     Omnivore
+Plant   Nuts          86
+Plant   Nuts          81
+Animal         5      20   20000    Koala    Herbivore
+Plant   Fruits        99
+Animal        38       2    2000    Raven     Omnivore
+Animal        20     333  333000    Tiger    Carnivore
+Animal        14       3    3000    Koala    Herbivore
+Animal         7      16   16000    Lemur    Herbivore
+Animal        17       3    3000 Squirrel    Herbivore
+Animal         4       9    9000    Koala    Herbivore
+Animal        47       2    2000 Squirrel    Herbivore
+Plant   Fruits        89
+Animal        42       1    1000 Squirrel    Herbivore
+Plant   Leaves        68
+Animal        34      28   28000    Koala    Herbivore
+Animal         5       9    9000    Lemur    Herbivore
+Plant   Leaves        89
+Plant   Nuts          78
+Animal        23       2    2000    Raven     Omnivore
+Plant   Leaves        67
+Animal        31     497  497000    Tiger    Carnivore
+Animal         2       2    2000 Squirrel    Herbivore
+Animal        12      26   26000    Koala    Herbivore
+Plant   Nuts          63
+Animal        10       2    2000    Lemur    Herbivore
+Plant   Fruits        64
+Plant   Leaves        93
+Animal        46       4    4000    Raven     Omnivore
+Animal         1       5    5000    Lemur    Herbivore
+Plant   Leaves        76
+Plant   Nuts          84
+Plant   Fruits        71
+Animal        32       3    3000    Raven     Omnivore
+Animal        36       5    5000    Raven     Omnivore
+Animal        29     491  491000    Tiger    Carnivore
+Plant   Nuts          92
+Plant   Fruits        84
+Animal        48       1    1000 Squirrel    Herbivore
+Animal        23     470  470000    Tiger    Carnivore
+Animal         1       8    8000    Koala    Herbivore
+Animal        40       1    1000    Raven     Omnivore
+Animal        19       1    1000    Raven     Omnivore
+Plant   Leaves        79
+Plant   Leaves        82
+Plant   Leaves        89
+Plant   Leaves        90
+Plant   Nuts          66
+Plant   Nuts          85
+Animal        35      19   19000    Koala    Herbivore
+Plant   Leaves        76
+Animal         2       4    4000    Raven     Omnivore
+Animal        12     138  138000    Tiger    Carnivore
+Animal         2      18   18000    Lemur    Herbivore
+Animal        18       1    1000 Squirrel    Herbivore
+Animal        40      14   14000    Koala    Herbivore
+Animal         8       1    1000    Raven     Omnivore
+Animal        17      19   19000    Lemur    Herbivore
+Plant   Fruits        89
+Plant   Leaves        84
+Animal        15     422  422000    Tiger    Carnivore
+Plant   Leaves        81
+Animal        41     259  259000    Tiger    Carnivore
+Plant   Leaves        86
+Plant   Nuts          62
+Animal        10      31   31000    Koala    Herbivore
+Plant   Fruits        68
+Animal        36       2    2000 Squirrel    Herbivore
+Animal        39       3    3000 Squirrel    Herbivore
+Animal         8       1    1000    Raven     Omnivore
+Plant   Fruits        64
+Plant   Fruits        94
+Animal        10     269  269000    Tiger    Carnivore
+Animal        36       1    1000    Lemur    Herbivore
+Animal        27       8    8000    Lemur    Herbivore
+Plant   Nuts          78
+Animal        19       2    2000 Squirrel    Herbivore
+Plant   Nuts          84
+Animal        14     274  274000    Tiger    Carnivore
+Animal        30     272  272000    Tiger    Carnivore
+Animal        47       2    2000    Raven     Omnivore
+Animal        30       3    3000 Squirrel    Herbivore
+Plant   Leaves        60
+Plant   Fruits        73
+Animal        22       3    3000 Squirrel    Herbivore
+Animal        34       4    4000    Lemur    Herbivore
+Plant   Nuts          62
+Animal        15     428  428000    Tiger    Carnivore
+Animal        34      14   14000    Lemur    Herbivore
+Animal        43      26   26000    Koala    Herbivore
+Animal         6      14   14000    Lemur    Herbivore
+Plant   Nuts          98
+Plant   Leaves        72
+Animal        28      33   33000    Koala    Herbivore
+Animal         4      15   15000    Koala    Herbivore
+Animal         6       5    5000    Raven     Omnivore
+Plant   Fruits        95
+Plant   Fruits        94
+Animal         1      32   32000    Koala    Herbivore
+Animal         1     111  111000    Tiger    Carnivore
+Animal        19       2    2000 Squirrel    Herbivore
+Animal        11      20   20000    Koala    Herbivore
+Animal        36      10   10000    Lemur    Herbivore
+Plant   Leaves        98
+Animal         4       4    4000    Raven     Omnivore
+Animal        11       1    1000 Squirrel    Herbivore
+Animal        11     639  639000    Tiger    Carnivore
+Plant   Leaves        66
+Animal        49       3    3000    Raven     Omnivore
+Animal        14      11   11000    Koala    Herbivore
+Animal        32       3    3000    Raven     Omnivore
+Animal        48       1    1000    Raven     Omnivore
+Animal        43       3    3000    Raven     Omnivore
+Plant   Nuts          83
+Plant   Fruits        85
+Animal        43       2    2000    Raven     Omnivore
+Plant   Nuts          89
+Animal        10       4    4000    Koala    Herbivore
+Animal        19     233  233000    Tiger    Carnivore
+Plant   Nuts          87
+Animal        43       3    3000    Raven     Omnivore
+Animal        39       4    4000    Koala    Herbivore
+Plant   Leaves        96
+Plant   Nuts          81
+Animal        18     588  588000    Tiger    Carnivore
+Animal        41      13   13000    Koala    Herbivore
+Animal        26       1    1000 Squirrel    Herbivore
+Animal        12       4    4000    Raven     Omnivore
+Plant   Fruits        97
+Animal        24     652  652000    Tiger    Carnivore
+Animal        41      19   19000    Tiger    Carnivore
+Plant   Nuts          66
+Animal        39     584  584000    Tiger    Carnivore
+Plant   Nuts          73
+Plant   Leaves        87
+Animal        40       5    5000    Raven     Omnivore
+Animal        25     586  586000    Tiger    Carnivore
+Plant   Leaves        83
+Animal        45     128  128000    Tiger    Carnivore
+Animal        24     455  455000    Tiger    Carnivore
+Animal        39       1    1000 Squirrel    Herbivore
+Animal        20       3    3000    Koala    Herbivore
+Animal        23       6    6000    Koala    Herbivore
+Plant   Fruits        98
+Animal        43     214  214000    Tiger    Carnivore
+Plant   Fruits        63
+Animal         3     357  357000    Tiger    Carnivore
+Animal         3       5    5000    Lemur    Herbivore
+Animal        26       2    2000 Squirrel    Herbivore
+Plant   Nuts          73
+Animal        33       7    7000    Lemur    Herbivore
+Animal        13     512  512000    Tiger    Carnivore
+Plant   Leaves        79
+Plant   Nuts          91
+Animal        45       1    1000    Raven     Omnivore
+Animal        42       4    4000    Raven     Omnivore
+Animal        12       2    2000    Raven     Omnivore
+Plant   Fruits        69
+Plant   Fruits        98
+Animal        12     390  390000    Tiger    Carnivore
+Animal        37      19   19000    Koala    Herbivore
+Animal        21      15   15000    Lemur    Herbivore
+Animal        41       1    1000    Raven     Omnivore
+Animal        13       2    2000 Squirrel    Herbivore
+Animal        42       3    3000 Squirrel    Herbivore
+Animal         5     620  620000    Tiger    Carnivore
+Animal        39      16   16000    Lemur    Herbivore
+Animal         3       3    3000    Raven     Omnivore
+Animal        42       2    2000 Squirrel    Herbivore
+Plant   Leaves        96
+Plant   Nuts          73
+Animal        14      19   19000    Koala    Herbivore
+Plant   Leaves        80
+Animal        15       1    1000    Raven     Omnivore
+Animal        44     647  647000    Tiger    Carnivore
+Plant   Nuts          81
+Plant   Nuts          67
+Animal        24       1    1000 Squirrel    Herbivore
+Animal         4     600  600000    Tiger    Carnivore
+Animal        23      12   12000    Lemur    Herbivore
+Plant   Leaves        64
+Plant   Leaves        81
+Animal         3      10   10000    Lemur    Herbivore
+Animal         1      13   13000    Koala    Herbivore
+Plant   Fruits        68
+Plant   Leaves        70
+Animal         5     341  341000    Tiger    Carnivore
+Animal        29       7    7000    Koala    Herbivore
+Plant   Fruits        77
+Animal        41     609  609000    Tiger    Carnivore
+Animal        43       3    3000 Squirrel    Herbivore
+Animal        46       1    1000 Squirrel    Herbivore
+Animal        40     180  180000    Tiger    Carnivore
+Plant   Fruits        85
+Animal        37     356  356000    Tiger    Carnivore
+Plant   Nuts          92
+Plant   Fruits        61
+Plant   Leaves        76
+Animal        11       2    2000    Raven     Omnivore
+Animal         4       1    1000 Squirrel    Herbivore
+Animal        11       1    1000    Raven     Omnivore
+Plant   Fruits        84
+Plant   Leaves        95
+Animal        23     468  468000    Tiger    Carnivore
+Plant   Fruits        83
+Animal        34       2    2000    Raven     Omnivore
+Animal        36       9    9000    Koala    Herbivore
+Plant   Leaves        87
+Plant   Fruits        60
+Animal         2      32   32000    Koala    Herbivore
+Plant   Fruits        85
+Animal        44       3    3000    Raven     Omnivore
+Plant   Leaves        97
+Animal        21       6    6000    Koala    Herbivore
+Plant   Nuts          75
+Animal        43       2    2000    Raven     Omnivore
+Animal        25      16   16000    Lemur    Herbivore
+Plant   Nuts          74
+Animal         4       2    2000    Raven     Omnivore
+Animal        48       4    4000    Koala    Herbivore
+Animal        45       9    9000    Koala    Herbivore
+Animal        35       4    4000    Raven     Omnivore
+Plant   Fruits        70
+Plant   Fruits        91
+Animal        20       2    2000    Raven     Omnivore
+Animal        28     341  341000    Tiger    Carnivore
+Animal        49      27   27000    Koala    Herbivore
+Animal        11       4    4000    Lemur    Herbivore
+Animal         9     547  547000    Tiger    Carnivore
+Animal        24      24   24000    Koala    Herbivore
+Animal        50     576  576000    Tiger    Carnivore
+Plant   Leaves        91
+Animal        48       4    4000    Raven     Omnivore
+Animal        29       2    2000    Raven     Omnivore
+Animal        20       7    7000    Lemur    Herbivore
+Plant   Fruits        95
+Animal        24       2    2000    Koala    Herbivore
+Animal        28     432  432000    Tiger    Carnivore
+Plant   Nuts          78
+Animal         5       5    5000    Raven     Omnivore
+Plant   Leaves        68
+Animal         6      21   21000    Lemur    Herbivore
+Plant   Fruits        82
+Animal        48      14   14000    Lemur    Herbivore
+Animal        35      24   24000    Koala    Herbivore
+Plant   Fruits        73
+Plant   Leaves        95
+Animal        11       3    3000    Raven     Omnivore
+Animal        16      12   12000    Lemur    Herbivore
+Plant   Leaves        79
+Animal         1       2    2000    Koala    Herbivore
+Animal        30       3    3000 Squirrel    Herbivore
+Animal        22       3    3000    Raven     Omnivore
+Plant   Nuts          77
+Animal        25       3    3000    Koala    Herbivore
+Animal        31     581  581000    Tiger    Carnivore
+Animal        38     638  638000    Tiger    Carnivore
+Animal        11      12   12000    Lemur    Herbivore
+Animal        11       2    2000 Squirrel    Herbivore
+Plant   Nuts          76
+Plant   Fruits        94
+Animal         3       4    4000    Raven     Omnivore
+Animal        41     601  601000    Tiger    Carnivore
+Plant   Fruits        88
+Animal        23       1    1000 Squirrel    Herbivore
+Plant   Fruits        85
+Animal        38     539  539000    Tiger    Carnivore
+Animal        38       1    1000    Lemur    Herbivore
+Plant   Leaves        67
+Animal         1     623  623000    Tiger    Carnivore
+Plant   Nuts          74
+Animal        16       1    1000 Squirrel    Herbivore
+Plant   Fruits        93
+Plant   Nuts          90
+Plant   Fruits        87
+Plant   Nuts          94
+Animal        28       2    2000    Lemur    Herbivore
+Animal         3       3    3000    Koala    Herbivore
+Plant   Nuts          82
+Animal        24      16   16000    Lemur    Herbivore
+Animal        40      31   31000    Koala    Herbivore
+Plant   Nuts          89
+Plant   Fruits        67
+Plant   Nuts          91
+Plant   Leaves        62
+Animal        12      12   12000    Lemur    Herbivore
+Animal        47       7    7000    Lemur    Herbivore
+Animal        22       1    1000 Squirrel    Herbivore
+Animal        43       1    1000 Squirrel    Herbivore
+Animal         2     175  175000    Tiger    Carnivore
+Plant   Nuts          61
+Plant   Leaves        62
+Animal        34       3    3000    Raven     Omnivore
+Animal        45      30   30000    Koala    Herbivore
+Plant   Leaves        80
+Plant   Fruits        65
+Animal        23     287  287000    Tiger    Carnivore
+Animal        33       5    5000    Raven     Omnivore
+Animal        13       4    4000    Raven     Omnivore
+Plant   Leaves        66
+Plant   Nuts          68
+Plant   Nuts          72
+Plant   Fruits        72
+Animal         5       2    2000    Raven     Omnivore
+Animal        11     291  291000    Tiger    Carnivore
+Animal         4     492  492000    Tiger    Carnivore
+Animal        42     435  435000    Tiger    Carnivore
+Animal        48       1    1000 Squirrel    Herbivore
+Plant   Leaves        61
+Plant   Leaves        82
+Animal        19      27   27000    Koala    Herbivore
+Animal         4      17   17000    Koala    Herbivore
+Animal        34     176  176000    Tiger    Carnivore
+Animal        18       6    6000    Koala    Herbivore
+Plant   Leaves        96
+Animal        12      25   25000    Koala    Herbivore
+Animal        17       3    3000    Lemur    Herbivore
+Animal        33       1    1000    Lemur    Herbivore
+Plant   Nuts          92
+Animal        33      36   36000    Tiger    Carnivore
+Plant   Leaves        99
+Animal         4      22   22000    Koala    Herbivore
+Animal        30      11   11000    Lemur    Herbivore
+Plant   Nuts          65
+Animal         5       4    4000    Lemur    Herbivore
+Animal        26     541  541000    Tiger    Carnivore
+Animal        47       1    1000    Raven     Omnivore
+Animal        33      18   18000    Lemur    Herbivore
+Plant   Fruits        69
+Animal        41      11   11000    Tiger    Carnivore
+Plant   Fruits        79
+Animal         2      27   27000    Koala    Herbivore
+Animal        22       4    4000    Raven     Omnivore
+Animal        24     402  402000    Tiger    Carnivore
+Animal        11       2    2000    Raven     Omnivore
+Plant   Leaves        81
+Plant   Fruits        85
+Animal        45       3    3000 Squirrel    Herbivore
+Animal         8      21   21000    Koala    Herbivore
+Animal        24     658  658000    Tiger    Carnivore
+Animal        43      20   20000    Koala    Herbivore
+Plant   Fruits        83
+Animal        26      21   21000    Lemur    Herbivore
+Animal        47      17   17000    Koala    Herbivore
+Animal        50       3    3000 Squirrel    Herbivore
+Plant   Leaves        92
+Animal        35       1    1000 Squirrel    Herbivore
+Animal        11     328  328000    Tiger    Carnivore
+Plant   Leaves        72
+Plant   Leaves        74
+Animal         8       4    4000    Raven     Omnivore
+Animal        23      17   17000    Lemur    Herbivore
+Plant   Fruits        66
+Animal        31      16   16000    Lemur    Herbivore
+Plant   Leaves       100
+Animal        47      42   42000    Tiger    Carnivore
+Plant   Leaves        85
+Animal        50      10   10000    Koala    Herbivore
+Plant   Leaves        79
+Animal        40       3    3000 Squirrel    Herbivore
+Plant   Leaves        78
+Animal        32     506  506000    Tiger    Carnivore
+Plant   Leaves        76
+Animal        36      20   20000    Koala    Herbivore
+Plant   Fruits        78
+Animal        10       3    3000    Raven     Omnivore
+Animal        31     301  301000    Tiger    Carnivore
+Animal        28       3    3000 Squirrel    Herbivore
+Animal        22      18   18000    Lemur    Herbivore
+Animal        47       3    3000 Squirrel    Herbivore
+Animal        36       4    4000    Raven     Omnivore
+Animal        36       2    2000 Squirrel    Herbivore
+Plant   Leaves        80
+Plant   Fruits        78
+Animal        15      30   30000    Koala    Herbivore
+Plant   Nuts          84
+Animal        38      29   29000    Koala    Herbivore
+Plant   Leaves        73
+Animal        16     114  114000    Tiger    Carnivore
+Animal        46       3    3000 Squirrel    Herbivore
+Animal        26       4    4000    Raven     Omnivore
+Animal        12       6    6000    Lemur    Herbivore
+Plant   Leaves        61
+Animal        15       1    1000 Squirrel    Herbivore
+Plant   Leaves        96
+Animal        23       4    4000    Raven     Omnivore
+Plant   Leaves        60
+Animal        22       2    2000    Lemur    Herbivore
+Plant   Fruits        73
+Plant   Leaves        77
+Animal        27       6    6000    Koala    Herbivore
+Plant   Fruits        74
+Animal        12     534  534000    Tiger    Carnivore
+Animal         3       3    3000 Squirrel    Herbivore
+Plant   Fruits        81
+Animal        45       2    2000    Raven     Omnivore
+Animal        14       3    3000 Squirrel    Herbivore
+Animal         4       3    3000 Squirrel    Herbivore
+Animal        49       3    3000 Squirrel    Herbivore
+Animal        25       2    2000 Squirrel    Herbivore
+Animal        47       3    3000    Koala    Herbivore
+Plant   Fruits        92
+Plant   Fruits        92
+Plant   Leaves        93
+Animal        45       3    3000    Raven     Omnivore
+Plant   Fruits        82
+Animal        49     633  633000    Tiger    Carnivore
+Animal         5      10   10000    Koala    Herbivore
+Plant   Fruits        96
+Plant   Leaves        77
+Animal        26       8    8000    Lemur    Herbivore
+Plant   Leaves        93
+Plant   Fruits        67
+Animal        17     409  409000    Tiger    Carnivore
+Animal        32       2    2000 Squirrel    Herbivore
+Animal        41     416  416000    Tiger    Carnivore
+Animal         6      18   18000    Koala    Herbivore
+Animal        44       3    3000 Squirrel    Herbivore
+Animal        35       8    8000    Lemur    Herbivore
+Animal        24     250  250000    Tiger    Carnivore
+Animal        23       7    7000    Lemur    Herbivore
+Animal         5      23   23000    Koala    Herbivore
+Plant   Nuts          95
+Animal        11       5    5000    Raven     Omnivore
+Plant   Nuts          94
+Animal        37     349  349000    Tiger    Carnivore
+Animal        31     462  462000    Tiger    Carnivore
+Plant   Leaves        74
+Plant   Fruits        96
+Plant   Fruits        69
+Plant   Fruits        73
+Animal        21      33   33000    Koala    Herbivore
+Animal        19       2    2000 Squirrel    Herbivore
+Plant   Leaves        92
+Plant   Leaves        87
+Animal        47     162  162000    Tiger    Carnivore
+Animal        50       9    9000    Koala    Herbivore
+Animal         7      12   12000    Koala    Herbivore
+Animal        23      14   14000    Lemur    Herbivore
+Animal        44      16   16000    Koala    Herbivore
+Animal        11       4    4000    Raven     Omnivore
+Animal        28      18   18000    Koala    Herbivore
+Plant   Fruits        76
+Animal        17       2    2000 Squirrel    Herbivore
+Animal        21       9    9000    Lemur    Herbivore
+Animal        47      21   21000    Koala    Herbivore
+Plant   Fruits        67
+Animal        43       1    1000 Squirrel    Herbivore
+Animal        25     621  621000    Tiger    Carnivore
+Animal        10       1    1000 Squirrel    Herbivore
+Animal        11       2    2000 Squirrel    Herbivore
+Plant   Fruits        82
+Plant   Nuts          84
+Animal        13       4    4000    Raven     Omnivore
+Animal        41     112  112000    Tiger    Carnivore
+Plant   Leaves        72
+Plant   Leaves        75
+Animal        28       4    4000    Raven     Omnivore
+Animal        25      20   20000    Lemur    Herbivore
+Animal        19       2    2000 Squirrel    Herbivore
+Plant   Leaves        87
+Animal        15       2    2000    Raven     Omnivore
+Animal         5       2    2000    Raven     Omnivore
+Animal        29      13   13000    Koala    Herbivore
+Plant   Fruits        61
+Animal        37       4    4000    Raven     Omnivore
+Plant   Leaves        97
+Animal        13     206  206000    Tiger    Carnivore
+Animal        19      18   18000    Lemur    Herbivore
+Animal        34      13   13000    Lemur    Herbivore
+Animal        18      11   11000    Koala    Herbivore
+Animal        50     406  406000    Tiger    Carnivore
+Animal        23       5    5000    Raven     Omnivore
+Animal        45      13   13000    Lemur    Herbivore
+Animal        32      32   32000    Koala    Herbivore
+Animal        41       4    4000    Raven     Omnivore
+Plant   Fruits        94
+Plant   Leaves        62
+Animal        34     296  296000    Tiger    Carnivore
+Animal         4       1    1000    Koala    Herbivore
+Animal        18       2    2000    Raven     Omnivore
+Animal        45      11   11000    Lemur    Herbivore
+Animal        40     505  505000    Tiger    Carnivore
+Animal        40       1    1000 Squirrel    Herbivore
+Animal         4     358  358000    Tiger    Carnivore
+Plant   Nuts          94
+Animal        49      17   17000    Lemur    Herbivore
+Plant   Nuts          65
+Animal        27       4    4000    Raven     Omnivore
+Animal        39      19   19000    Lemur    Herbivore
+Animal         4     131  131000    Tiger    Carnivore
+Plant   Fruits        84
+Animal        15     387  387000    Tiger    Carnivore
+Animal        27       3    3000 Squirrel    Herbivore
+Plant   Fruits        72
+Plant   Leaves        89
+Animal        30       4    4000    Raven     Omnivore
+Animal         5       1    1000    Raven     Omnivore
+Animal        21       3    3000    Koala    Herbivore
+Animal        16       5    5000    Raven     Omnivore
+Animal        31       5    5000    Lemur    Herbivore
+Animal        42      12   12000    Koala    Herbivore
+Plant   Nuts          67
+Animal         4     558  558000    Tiger    Carnivore
+Animal        22      20   20000    Lemur    Herbivore
+Plant   Nuts          74
+Plant   Nuts          89
+Animal        13       1    1000    Koala    Herbivore
+Plant   Leaves        71
+Animal        40     497  497000    Tiger    Carnivore
+Animal        12       1    1000    Koala    Herbivore
+Animal        10       2    2000    Raven     Omnivore
+Animal         4       2    2000 Squirrel    Herbivore
+Animal        22       4    4000    Koala    Herbivore
+Animal        30       1    1000    Koala    Herbivore
+Plant   Fruits        75
+Animal        11       2    2000    Raven     Omnivore
+Animal        31       1    1000    Lemur    Herbivore
+Animal        30       3    3000    Raven     Omnivore
+Animal        15       9    9000    Lemur    Herbivore
+Plant   Fruits        66
+Animal        47      25   25000    Koala    Herbivore
+Plant   Leaves        98
+Animal        18      11   11000    Lemur    Herbivore
+Plant   Nuts          85
+Plant   Nuts          94
+Animal        24       1    1000 Squirrel    Herbivore
+Plant   Fruits        71
+Plant   Leaves        91
+Plant   Fruits        70
+Plant   Fruits        84
+Animal        39      22   22000    Koala    Herbivore
+Plant   Nuts          77
+Plant   Fruits        60
+Plant   Nuts          68
+Plant   Nuts          88
+Plant   Leaves        91
+Plant   Leaves        68
+Animal        35       1    1000 Squirrel    Herbivore
+Plant   Leaves        81
+Plant   Fruits        87
+Animal        36      18   18000    Koala    Herbivore
+Plant   Fruits        94
+Animal        22       2    2000 Squirrel    Herbivore
+Animal        32      74   74000    Tiger    Carnivore
+Animal         4      20   20000    Koala    Herbivore
+Animal        17       2    2000 Squirrel    Herbivore
+Animal         5       2    2000    Lemur    Herbivore
+Plant   Nuts          70
+Animal        30      11   11000    Koala    Herbivore
+Plant   Nuts         100
+Animal        26     513  513000    Tiger    Carnivore
+Animal        22       1    1000    Lemur    Herbivore
+Animal         5      15   15000    Koala    Herbivore
+Animal        41     325  325000    Tiger    Carnivore
+Plant   Leaves        82
+Animal        43       6    6000    Lemur    Herbivore
+Animal        18      12   12000    Lemur    Herbivore
+Animal        20       4    4000    Raven     Omnivore
+Animal        50      18   18000    Lemur    Herbivore
+Animal        44      20   20000    Koala    Herbivore
+Animal        46       5    5000    Raven     Omnivore
+Animal        33       2    2000 Squirrel    Herbivore
+Plant   Fruits        78
+Animal        29     386  386000    Tiger    Carnivore
+Plant   Nuts          91
+Plant   Leaves        74
+Plant   Fruits        67
+Animal        45       1    1000 Squirrel    Herbivore
+Plant   Nuts          72
+Plant   Nuts          81
+Animal        37       7    7000    Koala    Herbivore
+Animal        14       1    1000 Squirrel    Herbivore
+Plant   Nuts          81
+Plant   Nuts          79
+Animal        27      32   32000    Koala    Herbivore
+Plant   Leaves        87
+Plant   Leaves        78
+Plant   Leaves        68
+Animal         6      50   50000    Tiger    Carnivore
+Plant   Nuts          74
+Plant   Nuts          73
+Plant   Leaves        94
+Animal        29     363  363000    Tiger    Carnivore
+Animal         6       2    2000    Raven     Omnivore
+Animal        50       2    2000 Squirrel    Herbivore
+Plant   Leaves        86
+Animal        31      27   27000    Koala    Herbivore
+Plant   Leaves        87
+Animal        44       4    4000    Koala    Herbivore
+Plant   Fruits        73
+Plant   Fruits        96
+Animal         1       1    1000    Raven     Omnivore
+Plant   Fruits        71
+Plant   Leaves        84
+Animal         6       1    1000 Squirrel    Herbivore
+Plant   Leaves        63
+Animal        24       1    1000 Squirrel    Herbivore
+Plant   Fruits        75
+Animal         4      22   22000    Koala    Herbivore
+Animal        17      19   19000    Lemur    Herbivore
+Animal        29       2    2000 Squirrel    Herbivore
+Animal        32       2    2000    Raven     Omnivore
+Animal        21     597  597000    Tiger    Carnivore
+Animal        17       1    1000 Squirrel    Herbivore
+Animal        18      11   11000    Lemur    Herbivore
+Animal        32       3    3000 Squirrel    Herbivore
+Plant   Fruits        78
+Animal        37       1    1000    Koala    Herbivore
+Animal        47      14   14000    Lemur    Herbivore
+Animal        31       2    2000 Squirrel    Herbivore
+Plant   Fruits        62
+Plant   Nuts          75
+Animal         7      22   22000    Koala    Herbivore
+Plant   Nuts          64
+Animal        25       6    6000    Koala    Herbivore
+Animal        39      31   31000    Koala    Herbivore
+Animal        37       1    1000 Squirrel    Herbivore
+Plant   Leaves        91
+Animal        26       4    4000    Lemur    Herbivore
+Plant   Leaves        83
+Plant   Leaves        95
+Animal        42      31   31000    Koala    Herbivore
+Animal         1      18   18000    Lemur    Herbivore
+Animal        15       2    2000 Squirrel    Herbivore
+Animal        31     568  568000    Tiger    Carnivore
+Plant   Nuts          65
+Plant   Fruits        73
+Plant   Leaves        64
+Animal        30       1    1000 Squirrel    Herbivore
+Plant   Leaves        90
+Animal        10       5    5000    Raven     Omnivore
+Animal        45     652  652000    Tiger    Carnivore
+Animal         7       6    6000    Tiger    Carnivore
+Plant   Fruits        82
+Animal        13      18   18000    Koala    Herbivore
+Animal        40      28   28000    Koala    Herbivore
+Animal        41     139  139000    Tiger    Carnivore
+Plant   Fruits        76
+Animal        27       5    5000    Raven     Omnivore
+Animal         4       2    2000    Raven     Omnivore
+Animal        21       7    7000    Lemur    Herbivore
+Animal         4       5    5000    Raven     Omnivore
+Plant   Leaves        91
+Plant   Fruits        74
+Plant   Nuts          77
+Plant   Nuts          92
+Plant   Fruits        85
+Plant   Nuts          95
+Animal         1     354  354000    Tiger    Carnivore
+Animal        39      14   14000    Lemur    Herbivore
+Animal        43       5    5000    Lemur    Herbivore
+Plant   Leaves        63
+Animal        47     509  509000    Tiger    Carnivore
+Plant   Leaves        79
+Animal        22      18   18000    Lemur    Herbivore
+Animal        15       3    3000    Raven     Omnivore
+Plant   Leaves        65
+Animal        46     546  546000    Tiger    Carnivore
+Plant   Nuts          60
+Plant   Nuts          95
+Plant   Nuts          97
+Plant   Leaves        60
+Animal         6     569  569000    Tiger    Carnivore
+Plant   Leaves        60
+Plant   Nuts         100
+Plant   Nuts          75
+Animal        44      27   27000    Koala    Herbivore
+Animal        34       1    1000 Squirrel    Herbivore
+Animal        28       3    3000    Raven     Omnivore
+Plant   Nuts          72
+Animal         7       3    3000    Lemur    Herbivore
+Animal         8       1    1000    Raven     Omnivore
+Animal         7       4    4000    Lemur    Herbivore
+Animal        24     496  496000    Tiger    Carnivore
+Animal        25      12   12000    Koala    Herbivore
+Plant   Leaves        92
+Animal        31       2    2000    Raven     Omnivore
+Animal        30     366  366000    Tiger    Carnivore
+Animal        46       3    3000 Squirrel    Herbivore
+Plant   Leaves        86
+Animal        29       8    8000    Lemur    Herbivore
+Animal        21       3    3000 Squirrel    Herbivore
+Plant   Nuts          80
+Plant   Fruits        80
+Animal        45     218  218000    Tiger    Carnivore
+Plant   Fruits        73
+Animal        28       1    1000 Squirrel    Herbivore
+Animal        46       9    9000    Lemur    Herbivore
+Animal        48      32   32000    Koala    Herbivore
+Plant   Fruits        93
+Animal        23       1    1000 Squirrel    Herbivore
+Animal        45       9    9000    Koala    Herbivore
+Plant   Leaves        69
+Plant   Fruits        78
+Animal         8       8    8000    Lemur    Herbivore
+Animal        26      11   11000    Koala    Herbivore
+Animal        28       2    2000 Squirrel    Herbivore
+Plant   Leaves        63
+Animal        38       9    9000    Koala    Herbivore
+Animal         6       2    2000 Squirrel    Herbivore
+Animal        33      12   12000    Lemur    Herbivore
+Plant   Fruits        88
+Plant   Leaves        76
+Animal        11       1    1000    Raven     Omnivore
+Animal        30      21   21000    Lemur    Herbivore
+Animal         8      81   81000    Tiger    Carnivore
+Animal         1      32   32000    Koala    Herbivore
+Animal        22       4    4000    Raven     Omnivore
+Plant   Nuts          80
+Animal        48       9    9000    Koala    Herbivore
+Plant   Fruits        73
+Animal         9      15   15000    Koala    Herbivore
+Animal        19       8    8000    Lemur    Herbivore
+Plant   Fruits        98
+Plant   Fruits        79
+Animal         7      26   26000    Koala    Herbivore
+Plant   Leaves        66
+Animal        17       1    1000 Squirrel    Herbivore
+Plant   Leaves        87
+Plant   Fruits        75
+Animal         3       1    1000 Squirrel    Herbivore
+Animal        41      25   25000    Koala    Herbivore
+Plant   Fruits        79
+Animal        30       1    1000 Squirrel    Herbivore
+Animal        34       2    2000 Squirrel    Herbivore
+Animal         7       5    5000    Lemur    Herbivore
+Plant   Nuts          84
+Animal        27       9    9000    Koala    Herbivore
+Animal         1       3    3000 Squirrel    Herbivore
+Plant   Leaves        95
+Plant   Nuts          65
+Plant   Nuts          68
+Animal        11      13   13000    Lemur    Herbivore
+Animal        36      20   20000    Lemur    Herbivore
+Animal        11      11   11000    Koala    Herbivore
+Animal        18       3    3000 Squirrel    Herbivore
+Animal        21     303  303000    Tiger    Carnivore
+Plant   Fruits        98
+Animal        11       6    6000    Lemur    Herbivore
+Animal        21       3    3000 Squirrel    Herbivore
+Animal        32      10   10000    Lemur    Herbivore
+Animal        32     285  285000    Tiger    Carnivore
+Animal        21      15   15000    Koala    Herbivore
+Animal        10      11   11000    Lemur    Herbivore
+Animal        44      20   20000    Lemur    Herbivore
+Plant   Leaves        81
+Animal        44      27   27000    Koala    Herbivore
+Plant   Nuts          61
+Animal        21       2    2000    Lemur    Herbivore
+Animal        17       5    5000    Lemur    Herbivore
+Plant   Fruits        60
+Animal         7       1    1000    Raven     Omnivore
+Plant   Fruits        87
+Animal        15     171  171000    Tiger    Carnivore
+Plant   Fruits        92
+Animal        43       1    1000    Raven     Omnivore
+Plant   Fruits        96
+Animal        21      10   10000    Lemur    Herbivore
+Animal        24      24   24000    Koala    Herbivore
+Plant   Fruits        88
+Animal        10       2    2000 Squirrel    Herbivore
+Plant   Fruits        80
+Animal        20     196  196000    Tiger    Carnivore
+Plant   Nuts          79
+Animal         4     522  522000    Tiger    Carnivore
+Plant   Nuts          99
+Animal        42       2    2000 Squirrel    Herbivore
+Animal        48      23   23000    Koala    Herbivore
+Plant   Nuts          81
+Plant   Leaves        96
+Animal        30      28   28000    Koala    Herbivore
+Plant   Fruits        68
+Animal        36     669  669000    Tiger    Carnivore
+Animal        27      12   12000    Koala    Herbivore
+Animal        47      12   12000    Lemur    Herbivore
+Animal        22       3    3000 Squirrel    Herbivore
+Plant   Fruits        66
+Animal         8       3    3000 Squirrel    Herbivore
+Animal        38     580  580000    Tiger    Carnivore
+Plant   Nuts          98
+Animal        41     651  651000    Tiger    Carnivore
+Animal        23       9    9000    Lemur    Herbivore
+Plant   Fruits        65
+Plant   Nuts          99
+Animal        30       5    5000    Raven     Omnivore
+Animal        35       2    2000 Squirrel    Herbivore
+Animal         8     558  558000    Tiger    Carnivore
+Animal        28       3    3000 Squirrel    Herbivore
+Animal        14     412  412000    Tiger    Carnivore
+Animal         2       5    5000    Raven     Omnivore
+Animal        38       3    3000    Raven     Omnivore
+Animal        33       2    2000 Squirrel    Herbivore
+Plant   Fruits       100
+Animal         8     669  669000    Tiger    Carnivore
+Plant   Fruits        65
+Plant   Fruits        98
+Plant   Fruits        77
+Animal        12       4    4000    Raven     Omnivore
+Animal        33       4    4000    Raven     Omnivore
+Animal        27      18   18000    Koala    Herbivore
+Animal         9       3    3000 Squirrel    Herbivore
+Plant   Leaves        92
+Animal        24      22   22000    Koala    Herbivore
+Animal        36     449  449000    Tiger    Carnivore
+Animal         4      21   21000    Lemur    Herbivore
+Plant   Leaves        74
+Animal        28       2    2000    Raven     Omnivore
+Animal        38       1    1000 Squirrel    Herbivore
+Animal        19      18   18000    Koala    Herbivore
+Plant   Nuts          99
+Animal        25       3    3000 Squirrel    Herbivore
+Animal        15       1    1000 Squirrel    Herbivore
+Plant   Fruits        98
+Plant   Leaves        84
+Animal        27       2    2000    Raven     Omnivore
+Animal        34     620  620000    Tiger    Carnivore
+Animal        27       1    1000    Raven     Omnivore
+Plant   Fruits        85
+Animal        11       1    1000 Squirrel    Herbivore
+Animal        14     615  615000    Tiger    Carnivore
+Animal        11       5    5000    Raven     Omnivore
+Plant   Fruits        88
+Animal        18      77   77000    Tiger    Carnivore
+Animal        32       2    2000    Raven     Omnivore
+Plant   Nuts          73
+Animal        11     532  532000    Tiger    Carnivore
+Plant   Nuts          96
+Plant   Leaves        73
+Animal         4      10   10000    Lemur    Herbivore
+Animal        10      17   17000    Koala    Herbivore
+Animal        33      12   12000    Tiger    Carnivore
+Plant   Nuts          78
+Animal        14       8    8000    Koala    Herbivore
+Plant   Fruits        84
+Animal        41     302  302000    Tiger    Carnivore
+Animal         7       1    1000    Raven     Omnivore
+Plant   Leaves        98
+Plant   Fruits        64
+Animal        36       2    2000 Squirrel    Herbivore
+Plant   Fruits        92
+Animal        29      13   13000    Lemur    Herbivore
+Animal        41      10   10000    Lemur    Herbivore
+Plant   Nuts          84
+Plant   Leaves        63
+Animal        40       2    2000    Raven     Omnivore
+Animal        36      51   51000    Tiger    Carnivore
+Animal         3     559  559000    Tiger    Carnivore
+Plant   Nuts          78
+Plant   Nuts          87
+Plant   Fruits       100
+Animal        21       1    1000    Lemur    Herbivore
+Animal        45     140  140000    Tiger    Carnivore
+Animal        48      19   19000    Lemur    Herbivore
+Plant   Leaves        64
+Animal        16       3    3000    Lemur    Herbivore
+Plant   Nuts          97
+Animal        43       2    2000 Squirrel    Herbivore
+Animal        35       4    4000    Koala    Herbivore
+Animal        24       1    1000    Raven     Omnivore
+Animal        25       1    1000 Squirrel    Herbivore
+Animal        13       5    5000    Lemur    Herbivore
+Animal        15      29   29000    Koala    Herbivore
+Plant   Leaves        89
+Animal        24      13   13000    Koala    Herbivore
+Plant   Leaves        74
+Plant   Fruits        97
+Animal        36       3    3000 Squirrel    Herbivore
+Animal        37     509  509000    Tiger    Carnivore
+Animal         4     389  389000    Tiger    Carnivore
+Animal         7       5    5000    Raven     Omnivore
+Animal         3       5    5000    Lemur    Herbivore
+Animal        27     568  568000    Tiger    Carnivore
+Plant   Leaves        63
+Animal        15      67   67000    Tiger    Carnivore
+Animal         5      12   12000    Koala    Herbivore
+Plant   Fruits        99
+Animal        16       1    1000 Squirrel    Herbivore
+Animal        11     426  426000    Tiger    Carnivore
+Plant   Nuts         100
+Animal        25      23   23000    Koala    Herbivore
+Animal         2       4    4000    Raven     Omnivore
+Plant   Nuts          88
+Animal        35       6    6000    Lemur    Herbivore
+Plant   Fruits        85
+Animal        36      29   29000    Koala    Herbivore
+Animal        11      17   17000    Koala    Herbivore
+Animal         4      18   18000    Koala    Herbivore
+Plant   Fruits        90
+Plant   Fruits        76
+Animal        13      18   18000    Koala    Herbivore
+Animal        13       3    3000    Raven     Omnivore
+Plant   Leaves        88
+Animal        46      12   12000    Koala    Herbivore
+Plant   Nuts          72
+Animal        36     643  643000    Tiger    Carnivore
+Animal         8      31   31000    Koala    Herbivore
+Animal        26      16   16000    Koala    Herbivore
+Animal        25       4    4000    Raven     Omnivore
+Animal         2      47   47000    Tiger    Carnivore
+Animal        50       3    3000 Squirrel    Herbivore
+Plant   Fruits        89
+Plant   Nuts          66
+Animal        45       1    1000    Koala    Herbivore
+Animal         2       4    4000    Raven     Omnivore
+Animal        22      26   26000    Koala    Herbivore
+Animal        45       4    4000    Raven     Omnivore
+Animal        29      10   10000    Koala    Herbivore
+Animal        46       4    4000    Raven     Omnivore
+Plant   Leaves        79
+Animal        35     204  204000    Tiger    Carnivore
+Animal        33       3    3000    Raven     Omnivore
+Plant   Leaves        68
+Animal        43       2    2000    Raven     Omnivore
+Plant   Nuts          75
+Animal        19     196  196000    Tiger    Carnivore
+Animal        19     482  482000    Tiger    Carnivore
+Animal        30     306  306000    Tiger    Carnivore
+Animal        14     440  440000    Tiger    Carnivore
+Plant   Leaves        93
+Animal         6      22   22000    Koala    Herbivore
+Plant   Leaves        80
+Plant   Fruits        75
+Animal        28       1    1000 Squirrel    Herbivore
+Plant   Nuts          75
+Animal         3       6    6000    Lemur    Herbivore
+Animal        10      13   13000    Lemur    Herbivore
+Animal        47     555  555000    Tiger    Carnivore
+Plant   Leaves        60
+Animal        17      22   22000    Koala    Herbivore
+Animal        25       1    1000    Raven     Omnivore
+Plant   Fruits        97
+Animal        47      33   33000    Koala    Herbivore
+Animal        50      19   19000    Koala    Herbivore
+Animal         9       2    2000 Squirrel    Herbivore
+Plant   Leaves        82
+Animal        38       2    2000    Raven     Omnivore
+Animal         3     183  183000    Tiger    Carnivore
+Animal        46       8    8000    Lemur    Herbivore
+Animal        24      11   11000    Lemur    Herbivore
+Animal        44       4    4000    Lemur    Herbivore
+Animal        28       3    3000 Squirrel    Herbivore
+Animal        39       1    1000    Raven     Omnivore
+Plant   Nuts          62
+Plant   Leaves        61
+Animal        12      11   11000    Koala    Herbivore
+Plant   Leaves        95
+Animal        43       2    2000 Squirrel    Herbivore
+Plant   Fruits        81
+Plant   Nuts          62
+Animal        29       1    1000 Squirrel    Herbivore
+Animal        48       5    5000    Koala    Herbivore
+Animal        32       3    3000 Squirrel    Herbivore
+Animal        26       4    4000    Raven     Omnivore
+Plant   Nuts          66
+Animal         3      16   16000    Lemur    Herbivore
+Animal        16      14   14000    Koala    Herbivore
+Animal         9       3    3000 Squirrel    Herbivore
+Plant   Fruits        79
+Plant   Fruits        73
+Animal        11      24   24000    Koala    Herbivore
+Plant   Nuts          60
+Plant   Leaves        69
+Animal        25     334  334000    Tiger    Carnivore
+Animal        41       2    2000 Squirrel    Herbivore
+Plant   Fruits        81
+Plant   Nuts          94
+Plant   Nuts          72
+Plant   Leaves        89
+Plant   Leaves        81
+Animal         6       1    1000 Squirrel    Herbivore
+Animal        49       3    3000    Lemur    Herbivore
+Animal        16       1    1000 Squirrel    Herbivore
+Plant   Fruits        63
+Animal        18      12   12000    Lemur    Herbivore
+Animal        50     301  301000    Tiger    Carnivore
+Animal        48      17   17000    Lemur    Herbivore
+Plant   Nuts          95
+Animal        40       1    1000    Raven     Omnivore
+Animal        12       1    1000    Raven     Omnivore
+Animal         1       3    3000 Squirrel    Herbivore
+Plant   Leaves        71
+Animal        11       1    1000    Raven     Omnivore
+Animal        27      19   19000    Tiger    Carnivore
+Plant   Fruits        71
+Animal        42       3    3000 Squirrel    Herbivore
+Plant   Fruits        65
+Plant   Nuts          65
+Animal        38       1    1000    Lemur    Herbivore
+Animal        49       1    1000 Squirrel    Herbivore
+Plant   Nuts          83
+Animal         7       3    3000 Squirrel    Herbivore
+Plant   Leaves        80
+Animal        20       3    3000 Squirrel    Herbivore
+Plant   Nuts          65
+Animal        29      17   17000    Koala    Herbivore
+Plant   Fruits        71
+Animal        40     144  144000    Tiger    Carnivore
+Animal        49      16   16000    Lemur    Herbivore
+Animal        40       3    3000    Raven     Omnivore
+Animal        34      11   11000    Lemur    Herbivore
+Animal        29       2    2000    Raven     Omnivore
+Animal        11     622  622000    Tiger    Carnivore
+Animal        33      21   21000    Lemur    Herbivore
+Animal         1      27   27000    Koala    Herbivore
+Plant   Leaves        66
+Plant   Nuts          86
+Animal        38     375  375000    Tiger    Carnivore
+Animal         9      29   29000    Koala    Herbivore
+Plant   Fruits        71
+Animal        30      17   17000    Tiger    Carnivore
+Animal        22      16   16000    Koala    Herbivore
+Animal        30     170  170000    Tiger    Carnivore
+Animal        25     485  485000    Tiger    Carnivore
+Animal        21     447  447000    Tiger    Carnivore
+Animal        39      23   23000    Koala    Herbivore
+Animal        29       3    3000 Squirrel    Herbivore
+Plant   Nuts          84
+Plant   Fruits        85
+Animal        39     317  317000    Tiger    Carnivore
+Plant   Nuts          98
+Animal        36      20   20000    Koala    Herbivore
+Plant   Fruits       100
+Plant   Nuts          86
+Animal         1       1    1000 Squirrel    Herbivore
+Animal        50       7    7000    Lemur    Herbivore
+Plant   Fruits        70
+Plant   Nuts          66
+Animal        25      18   18000    Lemur    Herbivore
+Animal        26      12   12000    Lemur    Herbivore
+Animal         8     415  415000    Tiger    Carnivore
+Animal        27       1    1000 Squirrel    Herbivore
+Plant   Nuts          85
+Plant   Fruits        90
+Plant   Nuts          72
+Plant   Fruits        91
+Animal        34       1    1000 Squirrel    Herbivore
+Animal        44       5    5000    Raven     Omnivore
+Plant   Fruits        62
+Animal        45       5    5000    Koala    Herbivore
+Animal        39       1    1000    Lemur    Herbivore
+Animal        13      83   83000    Tiger    Carnivore
+Plant   Fruits        61
+Animal         6     407  407000    Tiger    Carnivore
+Plant   Leaves        97
+Plant   Leaves        71
+Animal        27       2    2000 Squirrel    Herbivore
+Plant   Leaves        70
+Animal        34     177  177000    Tiger    Carnivore
+Plant   Nuts          63
+Animal        24     419  419000    Tiger    Carnivore
+Animal        14     508  508000    Tiger    Carnivore
+Animal        15     594  594000    Tiger    Carnivore
+Animal        49     223  223000    Tiger    Carnivore
+Animal        22     296  296000    Tiger    Carnivore
+Animal        14       3    3000    Raven     Omnivore
+Plant   Leaves        81
+Plant   Nuts          72
+Plant   Fruits        63
+Animal        16       2    2000 Squirrel    Herbivore
+Animal        19     247  247000    Tiger    Carnivore
+Plant   Fruits        65
+Animal         4     487  487000    Tiger    Carnivore
+Animal        47     105  105000    Tiger    Carnivore
+Animal         1      15   15000    Koala    Herbivore
+Plant   Nuts          90
+Animal        32      31   31000    Koala    Herbivore
+Animal        32      15   15000    Koala    Herbivore
+Plant   Nuts          99
+Animal        17       1    1000    Lemur    Herbivore
+Animal        17      27   27000    Koala    Herbivore
+Animal        42       5    5000    Raven     Omnivore
+Plant   Fruits        93
+Animal        13       6    6000    Koala    Herbivore
+Animal        21      97   97000    Tiger    Carnivore
+Animal         6      18   18000    Koala    Herbivore
+Plant   Leaves        78
+Plant   Leaves        86
+Animal        30       3    3000    Raven     Omnivore
+Animal        23      12   12000    Koala    Herbivore
+Animal        11       3    3000 Squirrel    Herbivore
+Animal        34       3    3000    Raven     Omnivore
+Animal         1       5    5000    Raven     Omnivore
+Animal        10       6    6000    Lemur    Herbivore
+Plant   Fruits        65
+Animal        21       2    2000    Koala    Herbivore
+Animal        23       3    3000    Lemur    Herbivore
+Animal        46       1    1000 Squirrel    Herbivore
+Plant   Fruits        97
+Plant   Fruits        60
+Plant   Leaves        88
+Animal        35      29   29000    Koala    Herbivore
+Plant   Nuts          96
+Animal        42      10   10000    Lemur    Herbivore
+Plant   Nuts          69
+Animal        20       3    3000 Squirrel    Herbivore
+Animal        22       1    1000 Squirrel    Herbivore
+Plant   Fruits        97
+Plant   Leaves        89
+Animal        10       1    1000    Raven     Omnivore
+Animal        21     131  131000    Tiger    Carnivore
+Animal        14       2    2000    Raven     Omnivore
+Animal         2       1    1000 Squirrel    Herbivore
+Animal         2      30   30000    Koala    Herbivore
+Plant   Nuts          95
+Plant   Nuts          98
+Animal        13      22   22000    Koala    Herbivore
+Animal        13       5    5000    Raven     Omnivore
+Plant   Nuts          99
+Animal        14       3    3000    Raven     Omnivore
+Animal        35       4    4000    Koala    Herbivore
+Animal        24       3    3000    Raven     Omnivore
+Plant   Fruits        92
+Animal        26       3    3000    Raven     Omnivore
+Animal        49       5    5000    Raven     Omnivore
+Plant   Nuts          78
+Plant   Nuts          96
+Plant   Nuts          63
+Animal        34      13   13000    Lemur    Herbivore
+Animal        16       1    1000 Squirrel    Herbivore
+Animal        18       9    9000    Lemur    Herbivore
+Plant   Leaves        70
+Plant   Nuts          93
+Animal         1       7    7000    Koala    Herbivore
+Animal        45       2    2000    Lemur    Herbivore
+Animal        42     206  206000    Tiger    Carnivore
+Animal        12      11   11000    Lemur    Herbivore
+Plant   Leaves        83
+Animal        15      18   18000    Lemur    Herbivore
+Plant   Leaves        68
+Animal        43       1    1000    Raven     Omnivore
+Plant   Fruits        88
+Plant   Leaves        83
+Animal        18       1    1000    Raven     Omnivore
+Plant   Nuts          86
+Plant   Nuts          88
+Animal        11      24   24000    Koala    Herbivore
+Plant   Fruits        90
+Plant   Leaves        78
+Plant   Nuts          63
+Plant   Nuts          69
+Plant   Leaves        86
+Animal        26      89   89000    Tiger    Carnivore
+Animal        25       2    2000 Squirrel    Herbivore
+Animal         3      45   45000    Tiger    Carnivore
+Plant   Fruits        90
+Animal        46       3    3000    Lemur    Herbivore
+Plant   Nuts         100
+Animal        23       2    2000    Raven     Omnivore
+Plant   Fruits        85
+Plant   Fruits        93
+Animal        18       2    2000    Lemur    Herbivore
+Animal        43       6    6000    Lemur    Herbivore
+Animal        24     216  216000    Tiger    Carnivore
+Plant   Fruits        98
+Plant   Fruits        75
+Plant   Nuts          80
+Animal        29       3    3000    Raven     Omnivore
+Plant   Leaves        61
+Animal        23       1    1000 Squirrel    Herbivore
+Animal        24     167  167000    Tiger    Carnivore
+Plant   Leaves        83
+Plant   Nuts          61
+Animal         8       3    3000 Squirrel    Herbivore
+Animal         1      81   81000    Tiger    Carnivore
+Animal        43       2    2000    Raven     Omnivore
+Plant   Fruits        97
+Animal        48       3    3000    Raven     Omnivore
+Plant   Leaves        71
+Animal         1     311  311000    Tiger    Carnivore
+Animal        39      12   12000    Lemur    Herbivore
+Plant   Nuts          65
+Animal        43       9    9000    Lemur    Herbivore
+Animal        13      10   10000    Lemur    Herbivore
+Animal        11       3    3000 Squirrel    Herbivore
+Plant   Nuts          64
+Animal        14      76   76000    Tiger    Carnivore
+Animal        18       1    1000 Squirrel    Herbivore
+Animal        33       1    1000    Lemur    Herbivore
+Plant   Leaves        83
+Plant   Leaves       100
+Plant   Nuts          87
+Animal         8       3    3000    Raven     Omnivore
+Animal        49      16   16000    Lemur    Herbivore
+Plant   Leaves        63
+Animal        48       1    1000 Squirrel    Herbivore
+Plant   Fruits        88
+Animal        45     306  306000    Tiger    Carnivore
+Animal        50       2    2000 Squirrel    Herbivore
+Animal        46       2    2000    Raven     Omnivore
+Animal        50       3    3000 Squirrel    Herbivore
+Plant   Nuts          92
+Animal        10       5    5000    Lemur    Herbivore
+Animal        19       2    2000    Koala    Herbivore
+Animal         4     418  418000    Tiger    Carnivore
+Animal        32       1    1000 Squirrel    Herbivore
+Animal        50       4    4000    Raven     Omnivore
+Animal        18      11   11000    Koala    Herbivore
+Plant   Leaves        72
+Animal        16      16   16000    Koala    Herbivore
+Plant   Leaves        65
+Plant   Nuts          97
+Plant   Fruits        78
+Plant   Nuts          98
+Plant   Leaves        93
+Plant   Leaves        88
+Plant   Leaves        91
+Plant   Fruits        72
+Animal        33       2    2000 Squirrel    Herbivore
+Plant   Leaves        99
+Plant   Nuts          73
+Animal        43      11   11000    Lemur    Herbivore
+Plant   Fruits        76
+Animal        19      16   16000    Koala    Herbivore
+Animal         4      12   12000    Lemur    Herbivore
+Plant   Fruits        97
+Animal        12      27   27000    Koala    Herbivore
+Plant   Leaves        98
+Animal        38       3    3000 Squirrel    Herbivore
+Plant   Fruits        97
+Animal        46       4    4000    Raven     Omnivore
+Plant   Leaves        88
+Plant   Nuts          63
+Animal        45       1    1000    Raven     Omnivore
+Animal         6      11   11000    Koala    Herbivore
+Animal        46     289  289000    Tiger    Carnivore
+Plant   Leaves        87
+Animal        39       3    3000    Raven     Omnivore
+Plant   Nuts          72
+Plant   Leaves        89
+Animal        48       5    5000    Koala    Herbivore
+Animal        40      19   19000    Lemur    Herbivore
+Animal        25      10   10000    Koala    Herbivore
+Animal         2       7    7000    Lemur    Herbivore
+Animal        12       2    2000 Squirrel    Herbivore
+Plant   Leaves        92
+Animal        36       1    1000    Raven     Omnivore
+Animal        15      12   12000    Lemur    Herbivore
+Animal        37      17   17000    Koala    Herbivore
+Animal        31       7    7000    Koala    Herbivore
+Animal         7       1    1000    Raven     Omnivore
+Plant   Nuts          98
+Plant   Leaves        96
+Animal        43      14   14000    Lemur    Herbivore
+Plant   Nuts          68
+Animal        38       3    3000 Squirrel    Herbivore
+Plant   Nuts          74
+Plant   Fruits        85
+Plant   Leaves        76
+Plant   Leaves        91
+Animal        40     430  430000    Tiger    Carnivore
+Animal        24      20   20000    Koala    Herbivore
+Animal        17       2    2000 Squirrel    Herbivore
+Animal         3       3    3000    Lemur    Herbivore
+Animal         1       2    2000    Lemur    Herbivore
+Animal        25       7    7000    Lemur    Herbivore
+Animal        48       7    7000    Koala    Herbivore
+Animal        40     553  553000    Tiger    Carnivore
+Animal         2       3    3000    Raven     Omnivore
+Plant   Nuts          82
+Plant   Nuts          68
+Animal        50       3    3000    Raven     Omnivore
+Animal        14      40   40000    Tiger    Carnivore
+Animal        38       5    5000    Raven     Omnivore
+Plant   Leaves        87
+Plant   Fruits        95
+Plant   Leaves        98
+Animal        42       7    7000    Koala    Herbivore
+Animal        36     516  516000    Tiger    Carnivore
+Animal        12     170  170000    Tiger    Carnivore
+Animal        19     573  573000    Tiger    Carnivore
+Animal        27     625  625000    Tiger    Carnivore
+Animal        14       5    5000    Raven     Omnivore
+Animal        14       1    1000    Raven     Omnivore
+Plant   Nuts          93
+Plant   Leaves        96
+Plant   Leaves        77
+Plant   Nuts          78
+Plant   Leaves        71
+Animal         2     218  218000    Tiger    Carnivore
+Animal        31       2    2000    Lemur    Herbivore
+Animal        43      15   15000    Lemur    Herbivore
+Animal        39       3    3000 Squirrel    Herbivore
+Plant   Nuts          96
+Animal        27       1    1000    Raven     Omnivore
+Animal        50       4    4000    Raven     Omnivore
+Animal        30       3    3000 Squirrel    Herbivore
+Plant   Nuts          92
+Plant   Fruits        99
+Plant   Fruits        79
+Plant   Leaves        73
+Animal        46       1    1000    Raven     Omnivore
+Animal        39       1    1000    Raven     Omnivore
+Plant   Fruits        86
+Plant   Fruits        83
+Animal        30     459  459000    Tiger    Carnivore
+Animal        46       3    3000    Lemur    Herbivore
+Animal        20      12   12000    Koala    Herbivore
+Animal        31       1    1000 Squirrel    Herbivore
+Animal        22      14   14000    Koala    Herbivore
+Plant   Nuts          95
+Plant   Leaves        75
+Plant   Fruits        63
+Animal        14       4    4000    Raven     Omnivore
+Plant   Fruits        63
+Animal        24       2    2000 Squirrel    Herbivore
+Animal        49      21   21000    Lemur    Herbivore
+Plant   Leaves        73
+Plant   Nuts          63
+Plant   Nuts          94
+Animal        26       1    1000    Raven     Omnivore
+Animal        20      31   31000    Koala    Herbivore
+Plant   Nuts          70
+Plant   Nuts          98
+Plant   Fruits        89
+Animal        13     465  465000    Tiger    Carnivore
+Plant   Leaves        83
+Plant   Leaves        93
+Plant   Nuts          71
+Animal        31     294  294000    Tiger    Carnivore
+Animal        20       2    2000 Squirrel    Herbivore
+Plant   Nuts          96
+Plant   Fruits        87
+Animal        46      31   31000    Tiger    Carnivore
+Animal        27      17   17000    Lemur    Herbivore
+Plant   Leaves        71
+Animal        33       2    2000    Raven     Omnivore
+Animal        24       2    2000    Raven     Omnivore
+Plant   Nuts          76
+Animal        47       4    4000    Raven     Omnivore
+Animal        12       4    4000    Raven     Omnivore
+Animal        12       4    4000    Raven     Omnivore
+Animal        12       1    1000 Squirrel    Herbivore
+Plant   Nuts          63
+Plant   Nuts          67
+Plant   Nuts          87
+Plant   Nuts          65
+Plant   Fruits        72
+Animal        46       2    2000    Raven     Omnivore
+Animal        34      10   10000    Koala    Herbivore
+Animal        45      19   19000    Koala    Herbivore
+Plant   Fruits        90
+Plant   Leaves        80
+Animal         6      14   14000    Tiger    Carnivore
+Animal        13       4    4000    Raven     Omnivore
+Plant   Leaves        89
+Animal         5      20   20000    Lemur    Herbivore
+Plant   Fruits        69
+Plant   Nuts          63
+Plant   Leaves        70
+Animal        20       2    2000 Squirrel    Herbivore
+Animal        49       1    1000 Squirrel    Herbivore
+Animal        10       3    3000 Squirrel    Herbivore
+Animal         7      19   19000    Lemur    Herbivore
+Plant   Fruits        96
+Animal        20       2    2000    Lemur    Herbivore
+Plant   Leaves        82
+Plant   Fruits        94
+Animal        46       6    6000    Lemur    Herbivore
+Animal         3       1    1000 Squirrel    Herbivore
+Animal        38      17   17000    Lemur    Herbivore
+Animal        17       4    4000    Raven     Omnivore
+Animal        37       2    2000 Squirrel    Herbivore
+Animal        25       2    2000 Squirrel    Herbivore
+Plant   Leaves        66
+Animal        21       4    4000    Raven     Omnivore
+Plant   Fruits        87
+Animal        47       3    3000 Squirrel    Herbivore
+Animal        44      25   25000    Koala    Herbivore
+Plant   Fruits        96
+Animal        40       5    5000    Raven     Omnivore
+Animal        37       4    4000    Raven     Omnivore
+Plant   Nuts          81
+Animal        14       4    4000    Raven     Omnivore
+Animal        24       5    5000    Raven     Omnivore
+Animal        16     538  538000    Tiger    Carnivore
+Plant   Nuts          75
+Animal        14     168  168000    Tiger    Carnivore
+Animal         5       4    4000    Raven     Omnivore
+Plant   Fruits        74
+Animal        31      17   17000    Koala    Herbivore
+Animal         5       2    2000    Raven     Omnivore
+Plant   Leaves        93
+Plant   Fruits        70
+Animal        27       2    2000 Squirrel    Herbivore
+Animal        42       1    1000 Squirrel    Herbivore
+Animal        15       9    9000    Lemur    Herbivore
+Plant   Leaves        72
+Animal        21       1    1000    Koala    Herbivore
+Animal         9       2    2000 Squirrel    Herbivore
+Plant   Nuts          96
+Animal         2       1    1000    Lemur    Herbivore
+Animal         8      24   24000    Koala    Herbivore
+Animal        34       5    5000    Raven     Omnivore
+Animal        38       3    3000    Raven     Omnivore
+Animal        24      13   13000    Lemur    Herbivore
+Animal        43       2    2000 Squirrel    Herbivore
+Plant   Fruits        87
+Plant   Nuts          73
+Animal        26       4    4000    Raven     Omnivore
+Animal        31     548  548000    Tiger    Carnivore
+Animal        38      19   19000    Lemur    Herbivore
+Animal        40       2    2000 Squirrel    Herbivore
+Animal        33       3    3000 Squirrel    Herbivore
+Animal        15      15   15000    Lemur    Herbivore
+Plant   Leaves        89
+Animal        37      11   11000    Tiger    Carnivore
+Animal         1       1    1000    Lemur    Herbivore
+Animal        14       3    3000    Raven     Omnivore
+Animal        13       1    1000 Squirrel    Herbivore
+Animal        35       3    3000    Raven     Omnivore
+Animal        50     606  606000    Tiger    Carnivore
+Animal        10       7    7000    Koala    Herbivore
+Animal        27       1    1000 Squirrel    Herbivore
+Animal        38      23   23000    Koala    Herbivore
+Plant   Fruits        95
+Plant   Nuts          78
+Animal        34      59   59000    Tiger    Carnivore
+Animal        19       3    3000    Raven     Omnivore
+Animal        24       4    4000    Lemur    Herbivore
+Animal        46       2    2000    Raven     Omnivore
+Plant   Nuts          79
+Animal        24       1    1000    Lemur    Herbivore
+Animal         9       1    1000    Koala    Herbivore
+Animal        37     423  423000    Tiger    Carnivore
+Animal        10     116  116000    Tiger    Carnivore
+Animal        23       2    2000 Squirrel    Herbivore
+Plant   Leaves        92
+Animal         7       3    3000 Squirrel    Herbivore
+Animal         4      28   28000    Koala    Herbivore
+Animal        15       9    9000    Lemur    Herbivore
+Animal        46       3    3000 Squirrel    Herbivore
+Animal        39       3    3000 Squirrel    Herbivore
+Animal        40       3    3000 Squirrel    Herbivore
+Plant   Fruits        97
+Animal        18       2    2000 Squirrel    Herbivore
+Plant   Nuts          66
+Animal         7       3    3000 Squirrel    Herbivore
+Animal        50      10   10000    Koala    Herbivore
+Animal        46       3    3000    Raven     Omnivore
+Animal         3       5    5000    Raven     Omnivore
+Animal        12       2    2000    Lemur    Herbivore
+Animal        42       2    2000 Squirrel    Herbivore
+Plant   Fruits        60
+Plant   Nuts          74
+Animal        44      16   16000    Koala    Herbivore
+Animal        24     140  140000    Tiger    Carnivore
+Animal        29       5    5000    Lemur    Herbivore
+Animal        23      11   11000    Koala    Herbivore
+Plant   Leaves        97
+Animal        13       3    3000    Raven     Omnivore
+Plant   Fruits       100
+Animal         2       1    1000    Lemur    Herbivore
+Animal        19       7    7000    Koala    Herbivore
+Animal        30      17   17000    Lemur    Herbivore
+Animal        17       7    7000    Lemur    Herbivore
+Plant   Leaves        77
+Plant   Leaves        85
+Plant   Fruits        74
+Animal         7     612  612000    Tiger    Carnivore
+Animal        38      33   33000    Koala    Herbivore
+Animal         5       3    3000 Squirrel    Herbivore
+Animal        48       3    3000 Squirrel    Herbivore
+Plant   Nuts          75
+Animal        38       4    4000    Raven     Omnivore
+Plant   Nuts          80
+Plant   Leaves        90
+Animal        34      27   27000    Koala    Herbivore
+Plant   Leaves        77
+Plant   Nuts          96
+Plant   Fruits        85
+Plant   Nuts          77
+Animal        29       4    4000    Koala    Herbivore
+Plant   Fruits        79
+Animal        13      16   16000    Koala    Herbivore
+Animal         8       1    1000 Squirrel    Herbivore
+Plant   Nuts          86
+Plant   Nuts          86
+Animal         4       1    1000    Koala    Herbivore
+Animal        12       5    5000    Raven     Omnivore
+Animal        40       3    3000    Raven     Omnivore
+Animal        18       1    1000 Squirrel    Herbivore
+Plant   Nuts          83
+Plant   Fruits        90
+Animal        19      12   12000    Lemur    Herbivore
+Animal        47       1    1000 Squirrel    Herbivore
+Plant   Leaves        66
+Plant   Nuts          70
+Animal        47     624  624000    Tiger    Carnivore
+Animal        43       3    3000    Raven     Omnivore
+Animal         3     344  344000    Tiger    Carnivore
+Animal        25       4    4000    Raven     Omnivore
+Plant   Fruits        83
+Plant   Fruits        75
+Animal        20     567  567000    Tiger    Carnivore
+Animal         7       1    1000 Squirrel    Herbivore
+Animal         7       4    4000    Koala    Herbivore
+Animal        27     419  419000    Tiger    Carnivore
+Animal        38      38   38000    Tiger    Carnivore
+Animal        49       7    7000    Lemur    Herbivore
+Plant   Leaves        89
+Plant   Fruits        84
+Plant   Nuts          83
+Plant   Leaves        73
+Animal        24      18   18000    Lemur    Herbivore
+Animal        48       2    2000 Squirrel    Herbivore
+Animal        18       1    1000    Raven     Omnivore
+Plant   Leaves        85
+Plant   Fruits        78
+Plant   Leaves        69
+Plant   Leaves        97
+Animal        43       7    7000    Lemur    Herbivore
+Plant   Leaves        77
+Animal        31      31   31000    Koala    Herbivore
+Plant   Nuts          66
+Plant   Nuts          66
+Animal        33       2    2000 Squirrel    Herbivore
+Animal         2       6    6000    Lemur    Herbivore
+Plant   Fruits        68
+Plant   Leaves        66
+Animal        19     319  319000    Tiger    Carnivore
+Plant   Nuts          66
+Plant   Leaves        92
+Plant   Fruits        88
+Plant   Nuts         100
+Animal        13      12   12000    Koala    Herbivore
+Plant   Leaves        74
+Animal        38     465  465000    Tiger    Carnivore
+Animal        42     100  100000    Tiger    Carnivore
+Animal        16       2    2000 Squirrel    Herbivore
+Animal        36      16   16000    Koala    Herbivore
+Plant   Fruits        72
+Animal        10       5    5000    Raven     Omnivore
+Plant   Fruits        79
+Plant   Fruits        88
+Animal        36     459  459000    Tiger    Carnivore
+Animal        32      11   11000    Lemur    Herbivore
+Plant   Leaves        89
+Animal        20      17   17000    Lemur    Herbivore
+Animal         2      13   13000    Lemur    Herbivore
+Animal        15      17   17000    Lemur    Herbivore
+Animal        18       7    7000    Koala    Herbivore
+Animal         3      25   25000    Koala    Herbivore
+Plant   Fruits        65
+Animal        28      19   19000    Koala    Herbivore
+Plant   Fruits        96
+Plant   Nuts          80
+Animal        18       5    5000    Raven     Omnivore
+Plant   Leaves        60
+Animal        30      16   16000    Lemur    Herbivore
+Animal        28      14   14000    Lemur    Herbivore
+Animal         2       1    1000    Raven     Omnivore
+Animal        34     154  154000    Tiger    Carnivore
+Plant   Leaves        62
+Animal        10      15   15000    Lemur    Herbivore
+Plant   Nuts          93
+Animal        37     537  537000    Tiger    Carnivore
+Animal        40       1    1000 Squirrel    Herbivore
+Plant   Nuts          89
+Animal        12     271  271000    Tiger    Carnivore
+Animal         6      15   15000    Lemur    Herbivore
+Animal        42       5    5000    Koala    Herbivore
+Animal        11       3    3000 Squirrel    Herbivore
+Animal        43       5    5000    Raven     Omnivore
+Animal         1       5    5000    Raven     Omnivore
+Plant   Nuts          96
+Plant   Leaves        83
+Animal        23       1    1000 Squirrel    Herbivore
+Animal        11       1    1000 Squirrel    Herbivore
+Animal        50       4    4000    Raven     Omnivore
+Animal        27     154  154000    Tiger    Carnivore
+Plant   Nuts          79
+Animal        32       2    2000 Squirrel    Herbivore
+Animal        49      23   23000    Koala    Herbivore
+Animal        50       1    1000 Squirrel    Herbivore
+Plant   Fruits        96
+Animal        13       1    1000 Squirrel    Herbivore
+Animal        27     127  127000    Tiger    Carnivore
+Animal        42      36   36000    Tiger    Carnivore
+Animal         4     246  246000    Tiger    Carnivore
+Animal        10       7    7000    Lemur    Herbivore
+Plant   Nuts          92
+Plant   Fruits        89
+Plant   Nuts          84
+Animal        48      18   18000    Koala    Herbivore
+Plant   Nuts          86
+Animal        45     307  307000    Tiger    Carnivore
+Animal        50      15   15000    Lemur    Herbivore
+Animal         7      15   15000    Lemur    Herbivore
+Plant   Leaves        60
+Animal        37       4    4000    Raven     Omnivore
+Animal        34      21   21000    Koala    Herbivore
+Plant   Nuts          64
+Animal        10      17   17000    Lemur    Herbivore
+Animal        47       1    1000 Squirrel    Herbivore
+Animal        32       4    4000    Lemur    Herbivore
+Plant   Fruits        65
+Plant   Leaves        98
+Animal        10       4    4000    Raven     Omnivore
+Animal         9       7    7000    Lemur    Herbivore
+Animal        15      20   20000    Lemur    Herbivore
+Plant   Leaves        76
+Animal        26      28   28000    Koala    Herbivore
+Plant   Leaves        60
+Plant   Leaves        70
+Animal         1     397  397000    Tiger    Carnivore
+Plant   Fruits        86
+Plant   Fruits        85
+Animal        39       3    3000    Raven     Omnivore
+Plant   Fruits        76
+Animal        39     174  174000    Tiger    Carnivore
+Plant   Leaves        65
+Plant   Fruits        74
+Animal        34      21   21000    Lemur    Herbivore
+Plant   Leaves        78
+Animal        34     490  490000    Tiger    Carnivore
+Animal         5      20   20000    Koala    Herbivore
+Plant   Leaves        77
+Animal        17     667  667000    Tiger    Carnivore
+Plant   Leaves        84
+Animal        25     258  258000    Tiger    Carnivore
+Animal        39       2    2000    Lemur    Herbivore
+Animal        12      19   19000    Lemur    Herbivore
+Animal        21     384  384000    Tiger    Carnivore
+Animal         5       3    3000 Squirrel    Herbivore
+Animal         1       2    2000 Squirrel    Herbivore
+Animal        19       4    4000    Lemur    Herbivore
+Animal        26      26   26000    Koala    Herbivore
+Animal        42      12   12000    Lemur    Herbivore
+Animal        26       5    5000    Raven     Omnivore
+Plant   Nuts          89
+Animal        39     414  414000    Tiger    Carnivore
+Animal        18     182  182000    Tiger    Carnivore
+Animal         1       2    2000 Squirrel    Herbivore
+Plant   Nuts          82
+Plant   Nuts          94
+Animal         9     277  277000    Tiger    Carnivore
+Plant   Leaves        77
+Plant   Leaves        92
+Animal         7       2    2000 Squirrel    Herbivore
+Plant   Fruits        81
+Animal        31      12   12000    Lemur    Herbivore
+Plant   Fruits        81
+Plant   Fruits        75
+Plant   Fruits        61
+Animal        20     299  299000    Tiger    Carnivore
+Plant   Fruits        78
+Animal        24       5    5000    Raven     Omnivore
+Animal        37      21   21000    Koala    Herbivore
+Plant   Leaves        63
+Plant   Nuts          63
+Animal        37       2    2000 Squirrel    Herbivore
+Animal        22      77   77000    Tiger    Carnivore
+Plant   Nuts          77
+Animal        14       5    5000    Raven     Omnivore
+Plant   Leaves        85
+Plant   Nuts          84
+Plant   Nuts          91
+Plant   Nuts          85
+Animal        37      14   14000    Lemur    Herbivore
+Animal        25      15   15000    Lemur    Herbivore
+Plant   Fruits        81
+Plant   Fruits        66
+Plant   Nuts          72
+Animal        37       3    3000    Raven     Omnivore
+Plant   Fruits        84
+Animal         8      14   14000    Lemur    Herbivore
+Plant   Nuts          84
+Animal        18       5    5000    Raven     Omnivore
+Animal         6       2    2000 Squirrel    Herbivore
+Plant   Leaves        74
+Animal        19      16   16000    Koala    Herbivore
+Plant   Nuts          69
+Plant   Leaves        86
+Animal        39       3    3000    Raven     Omnivore
+Plant   Nuts          70
+Plant   Nuts          74
+Animal        49       7    7000    Lemur    Herbivore
+Animal        30      64   64000    Tiger    Carnivore
+Animal        45      16   16000    Lemur    Herbivore
+Animal        27       3    3000 Squirrel    Herbivore
+Plant   Leaves        97
+Animal        42       1    1000 Squirrel    Herbivore
+Animal         8      31   31000    Koala    Herbivore
+Plant   Fruits        67
+Animal        14      19   19000    Lemur    Herbivore
+Plant   Nuts          75
+Animal        23      14   14000    Lemur    Herbivore
+Animal        27       2    2000 Squirrel    Herbivore
+Plant   Leaves        99
+Animal         6       2    2000 Squirrel    Herbivore
+Animal        12      12   12000    Koala    Herbivore
+Animal        34       7    7000    Koala    Herbivore
+Animal        45     296  296000    Tiger    Carnivore
+Plant   Leaves        99
+Animal        10       3    3000 Squirrel    Herbivore
+Plant   Leaves        67
+Plant   Fruits        83
+Animal        26      28   28000    Koala    Herbivore
+Animal        46      18   18000    Koala    Herbivore
+Animal        39     378  378000    Tiger    Carnivore
+Plant   Fruits        76
+Plant   Nuts          62
+Animal        11       1    1000 Squirrel    Herbivore
+Plant   Leaves        79
+Plant   Nuts          98
+Animal        16      17   17000    Lemur    Herbivore
+Animal        44      33   33000    Koala    Herbivore
+Animal        47      17   17000    Koala    Herbivore
+Animal        18      28   28000    Koala    Herbivore
+Animal        16       3    3000    Koala    Herbivore
+Plant   Nuts          83
+Plant   Fruits        84
+Animal        13     667  667000    Tiger    Carnivore
+Animal        39       5    5000    Lemur    Herbivore
+Animal        37      15   15000    Lemur    Herbivore
+Animal        38     321  321000    Tiger    Carnivore
+Plant   Fruits        86
+Plant   Leaves        87
+Animal         5       4    4000    Raven     Omnivore
+Animal        24       3    3000    Raven     Omnivore
+Plant   Nuts          81
+Animal        49      19   19000    Lemur    Herbivore
+Animal        28       2    2000    Koala    Herbivore
+Animal        13       3    3000    Raven     Omnivore
+Animal        44      16   16000    Lemur    Herbivore
+Animal        22     364  364000    Tiger    Carnivore
+Plant   Leaves        64
+Animal        10     617  617000    Tiger    Carnivore
+Animal        45       1    1000 Squirrel    Herbivore
+Plant   Fruits        89
+Animal        40       1    1000    Koala    Herbivore
+Animal        33       3    3000 Squirrel    Herbivore
+Animal        50      15   15000    Koala    Herbivore
+Animal        27      18   18000    Koala    Herbivore
+Animal        35       1    1000 Squirrel    Herbivore
+Animal         7       2    2000 Squirrel    Herbivore
+Plant   Leaves        83
+Animal        35       3    3000 Squirrel    Herbivore
+Animal        32     436  436000    Tiger    Carnivore
+Plant   Leaves        87
+Animal        32      10   10000    Lemur    Herbivore
+Animal         3       4    4000    Raven     Omnivore
+Animal        41       2    2000    Raven     Omnivore
+Animal        12       2    2000    Lemur    Herbivore
+Animal        38       1    1000    Lemur    Herbivore
+Animal        28      33   33000    Koala    Herbivore
+Animal        32       4    4000    Raven     Omnivore
+Plant   Leaves        75
+Animal        26       3    3000 Squirrel    Herbivore
+Animal         3     640  640000    Tiger    Carnivore
+Animal        42      12   12000    Lemur    Herbivore
+Animal        29       2    2000 Squirrel    Herbivore
+Plant   Fruits        68
+Animal        13       3    3000    Koala    Herbivore
+Plant   Nuts          82
+Animal        37     499  499000    Tiger    Carnivore
+Plant   Nuts          63
+Animal        14       4    4000    Lemur    Herbivore
+Animal         2     427  427000    Tiger    Carnivore
+Animal        11       8    8000    Koala    Herbivore
+Plant   Fruits        97
+Plant   Fruits        68
+Plant   Nuts          74
+Animal        32     456  456000    Tiger    Carnivore
+Animal        32       4    4000    Koala    Herbivore
+Plant   Fruits        89
+Animal        40       2    2000 Squirrel    Herbivore
+Animal         4       1    1000 Squirrel    Herbivore
+Animal        33     198  198000    Tiger    Carnivore
+Animal        44     104  104000    Tiger    Carnivore
+Animal        42      18   18000    Lemur    Herbivore
+Animal        45       7    7000    Lemur    Herbivore
+Animal         6       3    3000 Squirrel    Herbivore
+Animal         3      13   13000    Lemur    Herbivore
+Plant   Nuts          76
+Animal         4     334  334000    Tiger    Carnivore
+Animal         1       3    3000 Squirrel    Herbivore
+Animal        35       6    6000    Lemur    Herbivore
+Animal        20       3    3000    Lemur    Herbivore
+Animal        14       3    3000    Raven     Omnivore
+Animal        11       3    3000 Squirrel    Herbivore
+Plant   Nuts          92
+Plant   Nuts          82
+Plant   Nuts          62
+Animal        25       5    5000    Raven     Omnivore
+Plant   Leaves        71
+Plant   Fruits        69
+Animal         6     250  250000    Tiger    Carnivore
+Animal        48       2    2000    Lemur    Herbivore
+Plant   Nuts          88
+Plant   Fruits        84
+Plant   Nuts         100
+Animal        17       7    7000    Lemur    Herbivore
+Animal        50      31   31000    Koala    Herbivore
+Plant   Nuts          90
+Plant   Leaves        93
+Animal        35       1    1000    Raven     Omnivore
+Animal         5     103  103000    Tiger    Carnivore
+Animal        36      22   22000    Koala    Herbivore
+Plant   Leaves        79
+Animal        44      21   21000    Koala    Herbivore
+Animal        15       1    1000    Raven     Omnivore
+Animal        44     595  595000    Tiger    Carnivore
+Animal        40       3    3000 Squirrel    Herbivore
+Animal        29       3    3000 Squirrel    Herbivore
+Plant   Leaves        87
+Animal        34       2    2000 Squirrel    Herbivore
+Animal        30       2    2000    Raven     Omnivore
+Animal        38      11   11000    Lemur    Herbivore
+Animal        41       2    2000    Raven     Omnivore
+Animal        12     651  651000    Tiger    Carnivore
+Plant   Nuts          93
+Plant   Nuts          98
+Animal        23       3    3000 Squirrel    Herbivore
+Animal        38      16   16000    Lemur    Herbivore
+Plant   Nuts          66
+Plant   Leaves        84
+Animal        17      18   18000    Koala    Herbivore
+Animal         8       2    2000    Raven     Omnivore
+Animal        44       1    1000 Squirrel    Herbivore
+Animal        11       2    2000    Raven     Omnivore
+Animal        12      95   95000    Tiger    Carnivore
+Animal        30       8    8000    Koala    Herbivore
+Animal        34       2    2000 Squirrel    Herbivore
+Plant   Leaves        81
+Plant   Leaves        86
+Animal        48       4    4000    Raven     Omnivore
+Animal         2      16   16000    Koala    Herbivore
+Plant   Leaves        72
+Animal        19       1    1000 Squirrel    Herbivore
+Plant   Leaves        97
+Plant   Fruits        78
+Plant   Nuts          74
+Animal        16       2    2000 Squirrel    Herbivore
+Plant   Nuts          76
+Plant   Fruits       100
+Plant   Fruits        66
+Animal        18       5    5000    Raven     Omnivore
+Animal        16      13   13000    Lemur    Herbivore
+Animal        10      20   20000    Koala    Herbivore
+Plant   Fruits        66
+Animal        17       3    3000 Squirrel    Herbivore
+Animal        39       3    3000 Squirrel    Herbivore
+Animal         3       3    3000 Squirrel    Herbivore
+Plant   Fruits       100
+Animal        46      20   20000    Lemur    Herbivore
+Animal        15       5    5000    Raven     Omnivore
+Plant   Fruits        68
+Animal        46     188  188000    Tiger    Carnivore
+Animal        13     346  346000    Tiger    Carnivore
+Animal         2       5    5000    Lemur    Herbivore
+Plant   Nuts          78
+Plant   Fruits        72
+Plant   Nuts          80
+Plant   Leaves        86
+Animal        35       4    4000    Raven     Omnivore
+Plant   Leaves        99
+Plant   Fruits        63
+Animal        14       5    5000    Raven     Omnivore
+Animal        40      50   50000    Tiger    Carnivore
+Animal         1       1    1000    Lemur    Herbivore
+Animal        15     486  486000    Tiger    Carnivore
+Animal        25      12   12000    Lemur    Herbivore
+Animal        38      10   10000    Lemur    Herbivore
+Animal        13       3    3000 Squirrel    Herbivore
+Plant   Fruits        89
+Animal        11      18   18000    Lemur    Herbivore
+Animal         6       2    2000 Squirrel    Herbivore
+Plant   Fruits        70
+Animal        29       3    3000 Squirrel    Herbivore
+Plant   Leaves        99
+Animal        30       3    3000 Squirrel    Herbivore
+Plant   Fruits        92
+Plant   Leaves        90
+Animal        40       2    2000    Raven     Omnivore
+Animal        45     587  587000    Tiger    Carnivore
+Plant   Fruits        92
+Animal        50       2    2000    Lemur    Herbivore
+Plant   Nuts          62
+Animal        27      14   14000    Lemur    Herbivore
+Animal        39      17   17000    Koala    Herbivore
+Animal         8      11   11000    Koala    Herbivore
+Plant   Fruits        87
+Plant   Fruits       100
+Plant   Nuts          69
+Animal         2      20   20000    Koala    Herbivore
+Plant   Nuts          96
+Plant   Nuts          79
+Plant   Fruits        73
+Animal        18     273  273000    Tiger    Carnivore
+Animal        31      12   12000    Koala    Herbivore
+Plant   Nuts          91
+Animal         4       2    2000    Raven     Omnivore
+Animal        40       5    5000    Raven     Omnivore
+Animal        35       2    2000 Squirrel    Herbivore
+Animal        45       5    5000    Lemur    Herbivore
+Plant   Fruits        87
+Animal        24       5    5000    Raven     Omnivore
+Animal        29       2    2000 Squirrel    Herbivore
+Animal        33       3    3000 Squirrel    Herbivore
+Animal        14       3    3000    Raven     Omnivore
+Plant   Nuts          63
+Plant   Leaves        94
+Animal         4       2    2000 Squirrel    Herbivore
+Plant   Fruits        72
+Animal        16       4    4000    Lemur    Herbivore
+Plant   Fruits        93
+Animal        36       1    1000    Raven     Omnivore
+Animal        45      14   14000    Lemur    Herbivore
+Animal        15       9    9000    Lemur    Herbivore
+Animal        36      19   19000    Lemur    Herbivore
+Animal        26      10   10000    Koala    Herbivore
+Animal        34     401  401000    Tiger    Carnivore
+Plant   Leaves        70
+Animal        19      17   17000    Lemur    Herbivore
+Animal        38      16   16000    Lemur    Herbivore
+Plant   Nuts          76
+Animal        29       9    9000    Lemur    Herbivore
+Animal        48       2    2000 Squirrel    Herbivore
+Animal        45       2    2000    Koala    Herbivore
+Plant   Nuts          76
+Plant   Nuts          95
+Plant   Fruits        76
+Plant   Leaves       100
+Animal         6       1    1000 Squirrel    Herbivore
+Plant   Fruits        67
+Animal         8      15   15000    Koala    Herbivore
+Animal        12      10   10000    Lemur    Herbivore
+Animal        29       1    1000 Squirrel    Herbivore
+Plant   Nuts          98
+Plant   Leaves        75
+Plant   Fruits        94
+Animal        37     335  335000    Tiger    Carnivore
+Animal         1       2    2000 Squirrel    Herbivore
+Plant   Fruits        64
+Animal        38       5    5000    Koala    Herbivore
+Animal        18     313  313000    Tiger    Carnivore
+Animal        21       3    3000 Squirrel    Herbivore
+Plant   Fruits        60
+Animal        14      33   33000    Koala    Herbivore
+Animal        17     570  570000    Tiger    Carnivore
+Animal        39      10   10000    Lemur    Herbivore
+Animal        16      33   33000    Koala    Herbivore
+Plant   Fruits        67
+Animal         2      11   11000    Lemur    Herbivore
+Animal        26       2    2000    Raven     Omnivore
+Plant   Nuts          94
+Plant   Fruits        81
+Animal        16       1    1000 Squirrel    Herbivore
+Plant   Nuts          66
+Animal        34     493  493000    Tiger    Carnivore
+Animal        11      21   21000    Lemur    Herbivore
+Plant   Fruits        65
+Animal        19       1    1000 Squirrel    Herbivore
+Plant   Fruits        85
+Animal        12       3    3000    Raven     Omnivore
+Animal        49       1    1000 Squirrel    Herbivore
+Plant   Nuts          97
+Plant   Nuts          60
+Plant   Fruits        69
+Animal        24     628  628000    Tiger    Carnivore
+Animal        16     309  309000    Tiger    Carnivore
+Animal        12       1    1000 Squirrel    Herbivore
+Plant   Leaves        60
+Animal        25      14   14000    Koala    Herbivore
+Animal        30       5    5000    Raven     Omnivore
+Animal        16     638  638000    Tiger    Carnivore
+Animal         4      18   18000    Koala    Herbivore
+Plant   Fruits        81
+Animal         4     640  640000    Tiger    Carnivore
+Plant   Nuts          87
+Animal        23     325  325000    Tiger    Carnivore
+Animal        36      13   13000    Koala    Herbivore
+Animal        35      19   19000    Lemur    Herbivore
+Animal        17      26   26000    Koala    Herbivore
+Animal        34       3    3000 Squirrel    Herbivore
+Animal        16      15   15000    Lemur    Herbivore
+Animal        20      19   19000    Koala    Herbivore
+Plant   Nuts          95
+Animal        28      17   17000    Koala    Herbivore
+Plant   Fruits        90
+Animal        38     475  475000    Tiger    Carnivore
+Plant   Leaves        77
+Animal        44       5    5000    Raven     Omnivore
+Plant   Leaves        84
+Plant   Leaves        78
+Animal         3       3    3000    Raven     Omnivore
+Animal        13      17   17000    Koala    Herbivore
+Plant   Leaves        76
+Plant   Nuts          77
+Plant   Nuts          84
+Plant   Leaves        64
+Animal        18       9    9000    Lemur    Herbivore
+Animal        41     119  119000    Tiger    Carnivore
+Animal        29      21   21000    Lemur    Herbivore
+Animal        14       3    3000 Squirrel    Herbivore
+Plant   Leaves        62
+Animal        23      12   12000    Lemur    Herbivore
+Animal        19      32   32000    Koala    Herbivore
+Animal        28       3    3000    Koala    Herbivore
+Plant   Leaves        69
+Plant   Nuts          89
+Animal        14     263  263000    Tiger    Carnivore
+Animal        25      12   12000    Lemur    Herbivore
+Plant   Fruits        67
+Animal        35       1    1000 Squirrel    Herbivore
+Animal        24       1    1000 Squirrel    Herbivore
+Plant   Nuts          86
+Animal        38       3    3000    Lemur    Herbivore
+Animal        32      13   13000    Lemur    Herbivore
+Animal        46       5    5000    Lemur    Herbivore
+Animal        16       2    2000    Raven     Omnivore
+Animal        14       8    8000    Koala    Herbivore
+Animal        46       8    8000    Lemur    Herbivore
+Plant   Leaves        66
+Plant   Leaves        78
+Plant   Leaves        98
+Plant   Fruits        72
+Plant   Fruits        83
+Animal        48       5    5000    Raven     Omnivore
+Animal        32     503  503000    Tiger    Carnivore
+Animal        33      15   15000    Lemur    Herbivore
+Animal        40       1    1000 Squirrel    Herbivore
+Plant   Fruits        71
+Plant   Nuts          74
+Animal        31       3    3000    Raven     Omnivore
+Animal        29      31   31000    Koala    Herbivore
+Animal        40       6    6000    Lemur    Herbivore
+Animal        30     360  360000    Tiger    Carnivore
+Animal        43     288  288000    Tiger    Carnivore
+Animal        26      14   14000    Lemur    Herbivore
+Plant   Fruits        61
+Animal         2       3    3000    Raven     Omnivore
+Animal         2       1    1000 Squirrel    Herbivore
+Plant   Nuts          79
+Animal        19       4    4000    Koala    Herbivore
+Animal        39      14   14000    Lemur    Herbivore
+Plant   Fruits        80
+Plant   Nuts          99
+Animal        35       2    2000 Squirrel    Herbivore
+Animal        16       1    1000 Squirrel    Herbivore
+Plant   Nuts          81
+Plant   Leaves        99
+Animal        24       1    1000 Squirrel    Herbivore
+Plant   Fruits        94
+Animal        12      15   15000    Tiger    Carnivore
+Animal        21       5    5000    Raven     Omnivore
+Animal         4       2    2000 Squirrel    Herbivore
+Animal        47      23   23000    Koala    Herbivore
+Animal        19       7    7000    Lemur    Herbivore
+Animal        32       2    2000 Squirrel    Herbivore
+Animal        36       3    3000 Squirrel    Herbivore
+Plant   Nuts          67
+Animal        42       1    1000 Squirrel    Herbivore
+Plant   Leaves        87
+Animal        12       5    5000    Raven     Omnivore
+Animal         3      20   20000    Koala    Herbivore
+Animal        36      18   18000    Koala    Herbivore
+Animal        13       3    3000    Lemur    Herbivore
+Animal         2       3    3000 Squirrel    Herbivore
+Plant   Leaves        83
+Animal        48       1    1000    Raven     Omnivore
+Animal        49      14   14000    Lemur    Herbivore
+Animal         7      22   22000    Koala    Herbivore
+Plant   Fruits        80
+Plant   Fruits        74
+Animal        44      33   33000    Tiger    Carnivore
+Plant   Leaves        83
+Animal        10       2    2000    Koala    Herbivore
+Animal        35      13   13000    Koala    Herbivore
+Animal         6      13   13000    Lemur    Herbivore
+Animal         8       1    1000    Raven     Omnivore
+Animal        18       1    1000    Raven     Omnivore
+Animal        27      62   62000    Tiger    Carnivore
+Plant   Leaves        64
+Animal        30       2    2000    Lemur    Herbivore
+Animal        34       3    3000    Raven     Omnivore
+Animal        41     415  415000    Tiger    Carnivore
+Animal        10       3    3000 Squirrel    Herbivore
+Plant   Leaves       100
+Plant   Leaves        73
+Plant   Nuts          74
+Animal        13      16   16000    Koala    Herbivore
+Plant   Nuts          65
+Plant   Leaves        86
+Animal        43     364  364000    Tiger    Carnivore
+Animal        50     354  354000    Tiger    Carnivore
+Animal        48     355  355000    Tiger    Carnivore
+Animal        17      17   17000    Lemur    Herbivore
+Animal        49      29   29000    Koala    Herbivore
+Animal        25       2    2000    Raven     Omnivore
+Plant   Fruits        66
+Animal        30      53   53000    Tiger    Carnivore
+Animal         6      17   17000    Koala    Herbivore
+Animal        37      10   10000    Lemur    Herbivore
+Animal        10       4    4000    Raven     Omnivore
+Plant   Fruits        84
+Animal        38       2    2000    Raven     Omnivore
+Animal        37      20   20000    Lemur    Herbivore
+Plant   Nuts          74
+Animal        17       2    2000    Raven     Omnivore
+Plant   Fruits        93
+Animal        33     239  239000    Tiger    Carnivore
+Plant   Leaves        91
+Animal        46      15   15000    Lemur    Herbivore
+Plant   Leaves        78
+Animal         5       2    2000    Raven     Omnivore
+Animal        43     427  427000    Tiger    Carnivore
+Plant   Nuts          82
+Plant   Leaves        93
+Animal         3       1    1000 Squirrel    Herbivore
+Plant   Nuts          88
+Plant   Leaves        71
+Animal        47      10   10000    Lemur    Herbivore
+Animal        31       4    4000    Raven     Omnivore
+Animal         2     116  116000    Tiger    Carnivore
+Animal         8       2    2000 Squirrel    Herbivore
+Plant   Nuts          82
+Plant   Nuts          70
+Animal        38       8    8000    Lemur    Herbivore
+Plant   Leaves        88
+Plant   Leaves        98
+Animal         5      69   69000    Tiger    Carnivore
+Plant   Nuts          72
+Plant   Leaves        69
+Animal        31       2    2000    Lemur    Herbivore
+Plant   Leaves        96
+Animal        49       5    5000    Raven     Omnivore
+Plant   Leaves        66
+Animal        26       7    7000    Lemur    Herbivore
+Plant   Fruits        94
+Plant   Nuts          74
+Animal         4       3    3000 Squirrel    Herbivore
+Animal        39       1    1000 Squirrel    Herbivore
+Animal        22     123  123000    Tiger    Carnivore
+Plant   Nuts          82
+Animal        37       2    2000 Squirrel    Herbivore
+Animal        28     294  294000    Tiger    Carnivore
+Plant   Fruits        79
+Plant   Leaves        88
+Plant   Fruits        86
+Animal        11       3    3000    Raven     Omnivore
+Plant   Nuts          75
+Plant   Leaves        66
+Animal        33     357  357000    Tiger    Carnivore
+Plant   Nuts          62
+Plant   Fruits        90
+Animal        49       8    8000    Lemur    Herbivore
+Plant   Nuts         100
+Animal        17       1    1000 Squirrel    Herbivore
+Plant   Nuts          88
+Plant   Leaves        91
+Plant   Fruits        74
+Animal        39       3    3000    Raven     Omnivore
+Animal        44     404  404000    Tiger    Carnivore
+Plant   Leaves        71
+Animal        48       1    1000    Koala    Herbivore
+Animal         5     594  594000    Tiger    Carnivore
+Animal        30       3    3000 Squirrel    Herbivore
+Plant   Fruits        70
+Plant   Nuts         100
+Animal        12      30   30000    Koala    Herbivore
+Plant   Nuts          81
+Plant   Leaves        64
+Animal        20       2    2000 Squirrel    Herbivore
+Animal        37       5    5000    Raven     Omnivore
+Animal        10       2    2000 Squirrel    Herbivore
+Animal        38       2    2000    Raven     Omnivore
+Animal        43      23   23000    Koala    Herbivore
+Animal        12     571  571000    Tiger    Carnivore
+Animal        14      26   26000    Koala    Herbivore
+Animal        29      14   14000    Lemur    Herbivore
+Plant   Fruits        72
+Plant   Fruits        87
+Plant   Nuts          94
+Animal         7       3    3000 Squirrel    Herbivore
+Animal        15       5    5000    Raven     Omnivore
+Animal        38       1    1000    Raven     Omnivore
+Animal        21       6    6000    Koala    Herbivore
+Plant   Fruits        92
+Animal        43       3    3000    Raven     Omnivore
+Plant   Nuts          66
+Animal        40       3    3000    Lemur    Herbivore
+Plant   Nuts          78
+Plant   Nuts          80
+Animal        35       1    1000    Raven     Omnivore
+Animal        32       7    7000    Koala    Herbivore
+Animal         1      20   20000    Lemur    Herbivore
+Animal        26      58   58000    Tiger    Carnivore
+Plant   Nuts         100
+Animal        23       2    2000 Squirrel    Herbivore
+Plant   Fruits        80
+Animal        41       2    2000    Raven     Omnivore
+Animal        35       2    2000 Squirrel    Herbivore
+Animal        27     655  655000    Tiger    Carnivore
+Animal        39       6    6000    Lemur    Herbivore
+Animal        16      20   20000    Lemur    Herbivore
+Animal         1       1    1000 Squirrel    Herbivore
+Plant   Leaves        85
+Plant   Fruits        89
+Animal        35     605  605000    Tiger    Carnivore
+Animal        17      10   10000    Lemur    Herbivore
+Animal        41     595  595000    Tiger    Carnivore
+Animal        27      21   21000    Lemur    Herbivore
+Animal         6       2    2000 Squirrel    Herbivore
+Animal         6     117  117000    Tiger    Carnivore
+Animal        17       2    2000 Squirrel    Herbivore
+Animal        42       2    2000    Raven     Omnivore
+Plant   Fruits        70
+Plant   Leaves        70
+Animal        33       3    3000    Raven     Omnivore
+Plant   Fruits        93
+Plant   Nuts          99
+Plant   Fruits        64
+Animal        18       2    2000 Squirrel    Herbivore
+Animal        20       3    3000 Squirrel    Herbivore
+Plant   Nuts          76
+Animal        21     666  666000    Tiger    Carnivore
+Animal         8      31   31000    Koala    Herbivore
+Animal        50      14   14000    Lemur    Herbivore
+Animal        10       2    2000    Raven     Omnivore
+Plant   Nuts         100
+Plant   Leaves        80
+Animal        38      13   13000    Lemur    Herbivore
+Animal         2       2    2000 Squirrel    Herbivore
+Animal         3      31   31000    Koala    Herbivore
+Plant   Fruits        79
+Animal         9       4    4000    Raven     Omnivore
+Animal        34      19   19000    Lemur    Herbivore
+Plant   Fruits        72
+Animal        27      32   32000    Koala    Herbivore
+Plant   Nuts          68
+Animal        34       1    1000    Lemur    Herbivore
+Animal        45       2    2000 Squirrel    Herbivore
+Plant   Nuts          64
+Animal         8      15   15000    Tiger    Carnivore
+Plant   Fruits        64
+Plant   Fruits        70
+Animal        33       1    1000 Squirrel    Herbivore
+Animal         6       3    3000 Squirrel    Herbivore
+Animal        17       1    1000    Raven     Omnivore
+Animal         5       1    1000 Squirrel    Herbivore
+Animal        30       3    3000 Squirrel    Herbivore
+Animal        13     339  339000    Tiger    Carnivore
+Animal        16       5    5000    Lemur    Herbivore
+Animal        13       5    5000    Lemur    Herbivore
+Animal        40      32   32000    Koala    Herbivore
+Plant   Fruits        80
+Animal        40      21   21000    Koala    Herbivore
+Animal        14      13   13000    Lemur    Herbivore
+Animal        44      19   19000    Lemur    Herbivore
+Animal        27     147  147000    Tiger    Carnivore
+Animal        16      14   14000    Koala    Herbivore
+Animal         3       2    2000    Raven     Omnivore
+Plant   Nuts          72
+Animal        10       1    1000 Squirrel    Herbivore
+Animal         9     575  575000    Tiger    Carnivore
+Animal        23      10   10000    Koala    Herbivore
+Plant   Leaves        67
+Animal        49      14   14000    Lemur    Herbivore
+Animal        35       5    5000    Raven     Omnivore
+Plant   Nuts          83
+Plant   Nuts          62
+Plant   Leaves        84
+Animal         2       1    1000    Raven     Omnivore
+Animal        43     564  564000    Tiger    Carnivore
+Animal        20      32   32000    Koala    Herbivore
+Animal         5       3    3000    Raven     Omnivore
+Animal        33      11   11000    Lemur    Herbivore
+Plant   Leaves        78
+Animal         7       1    1000 Squirrel    Herbivore
+Animal        12      18   18000    Koala    Herbivore
+Animal        11      21   21000    Lemur    Herbivore
+Plant   Fruits        77
+Animal        50       8    8000    Lemur    Herbivore
+Animal        42       3    3000    Lemur    Herbivore
+Animal        39      20   20000    Koala    Herbivore
+Plant   Nuts          74
+Animal         9      14   14000    Lemur    Herbivore
+Animal        25       7    7000    Koala    Herbivore
+Animal         2       2    2000 Squirrel    Herbivore
+Animal        26       2    2000 Squirrel    Herbivore
+Plant   Leaves        79
+Animal        45       3    3000 Squirrel    Herbivore
+Animal         8     128  128000    Tiger    Carnivore
+Animal        17       4    4000    Raven     Omnivore
+Animal        50       6    6000    Lemur    Herbivore
+Animal        41      33   33000    Koala    Herbivore
+Animal         4       4    4000    Koala    Herbivore
+Animal        47       8    8000    Lemur    Herbivore
+Animal        34     468  468000    Tiger    Carnivore
+Plant   Leaves        82
+Animal        31      18   18000    Koala    Herbivore
+Animal        26       3    3000 Squirrel    Herbivore
+Animal        26      20   20000    Lemur    Herbivore
+Animal        43       5    5000    Lemur    Herbivore
+Plant   Leaves        61
+Animal        24     143  143000    Tiger    Carnivore
+Animal        50      16   16000    Lemur    Herbivore
+Animal        27       7    7000    Koala    Herbivore
+Animal         7       3    3000    Raven     Omnivore
+Plant   Leaves        86
+Plant   Leaves        87
+Plant   Fruits        81
+Plant   Fruits        60
+Animal        11       2    2000 Squirrel    Herbivore
+Animal        32      27   27000    Koala    Herbivore
+Animal        27       8    8000    Koala    Herbivore
+Animal         4       2    2000    Raven     Omnivore
+Animal        42       3    3000    Raven     Omnivore
+Animal        14       2    2000    Lemur    Herbivore
+Animal        40       4    4000    Koala    Herbivore
+Plant   Fruits        64
+Animal         5       5    5000    Raven     Omnivore
+Animal        34       3    3000    Lemur    Herbivore
+Plant   Leaves        84
+Plant   Nuts          80
+Plant   Fruits       100
+Plant   Nuts          82
+Plant   Leaves        70
+Plant   Nuts          83
+Plant   Nuts          93
+Animal        12       4    4000    Raven     Omnivore
+Animal        11      13   13000    Lemur    Herbivore
+Animal        49       2    2000 Squirrel    Herbivore
+Plant   Fruits        80
+Animal        44       3    3000 Squirrel    Herbivore
+Plant   Nuts          65
+Animal        18       5    5000    Raven     Omnivore
+Animal        16       4    4000    Raven     Omnivore
+Plant   Leaves        91
+Animal        40       3    3000    Lemur    Herbivore
+Animal        24     567  567000    Tiger    Carnivore
+Animal        42       1    1000    Lemur    Herbivore
+Animal        23     417  417000    Tiger    Carnivore
+Animal        17      27   27000    Koala    Herbivore
+Plant   Nuts          75
+Animal        50      23   23000    Koala    Herbivore
+Animal        39       3    3000    Koala    Herbivore
+Animal         5       1    1000 Squirrel    Herbivore
+Plant   Fruits        79
+Plant   Fruits        71
+Animal        26       2    2000 Squirrel    Herbivore
+Animal        34       2    2000    Lemur    Herbivore
+Plant   Fruits        77
+Animal        24      33   33000    Koala    Herbivore
+Plant   Leaves        95
+Animal        49      24   24000    Koala    Herbivore
+Plant   Leaves        76
+Plant   Fruits        79
+Animal        26       3    3000    Raven     Omnivore
+Plant   Fruits        84
+Animal        50       2    2000 Squirrel    Herbivore
+Animal         7       2    2000    Raven     Omnivore
+Animal        46     235  235000    Tiger    Carnivore
+Plant   Fruits        62
+Animal        27       1    1000 Squirrel    Herbivore
+Animal        35     330  330000    Tiger    Carnivore
+Plant   Fruits        76
+Animal        34       5    5000    Raven     Omnivore
+Animal        29      26   26000    Koala    Herbivore
+Animal         8       3    3000 Squirrel    Herbivore
+Plant   Nuts          62
+Plant   Fruits        96
+Animal        13       5    5000    Raven     Omnivore
+Animal        37       2    2000    Koala    Herbivore
+Plant   Fruits        70
+Animal        32       3    3000 Squirrel    Herbivore
+Animal        28       4    4000    Raven     Omnivore
+Plant   Fruits        82
+Animal         2      12   12000    Lemur    Herbivore
+Animal        29      17   17000    Lemur    Herbivore
+Plant   Fruits        62
+Animal        25      59   59000    Tiger    Carnivore
+Plant   Nuts          88
+Plant   Nuts          91
+Plant   Nuts          81
+Plant   Leaves        86
+Animal        35      17   17000    Lemur    Herbivore
+Plant   Leaves        85
+Plant   Leaves        78
+Animal        27       1    1000 Squirrel    Herbivore
+Animal        37       2    2000 Squirrel    Herbivore
+Plant   Nuts          68
+Plant   Fruits        89
+Animal        22       3    3000    Raven     Omnivore
+Animal        45       3    3000 Squirrel    Herbivore
+Animal         7      28   28000    Koala    Herbivore
+Plant   Nuts          88
+Animal         5      19   19000    Lemur    Herbivore
+Animal        47       2    2000 Squirrel    Herbivore
+Plant   Nuts          93
+Plant   Nuts          81
+Animal        10     254  254000    Tiger    Carnivore
+Plant   Nuts          87
+Animal        33     390  390000    Tiger    Carnivore
+Animal        13       2    2000    Lemur    Herbivore
+Animal        22       4    4000    Raven     Omnivore
+Plant   Nuts          67
+Animal        29      92   92000    Tiger    Carnivore
+Animal        26      17   17000    Koala    Herbivore
+Plant   Leaves        97
+Animal        15     173  173000    Tiger    Carnivore
+Animal         6      24   24000    Koala    Herbivore
+Animal        46       2    2000    Lemur    Herbivore
+Plant   Nuts          66
+Plant   Nuts          91
+Animal         4       4    4000    Raven     Omnivore
+Animal        48     565  565000    Tiger    Carnivore
+Animal         1     513  513000    Tiger    Carnivore
+Plant   Fruits        66
+Animal        43     342  342000    Tiger    Carnivore
+Animal        21       5    5000    Tiger    Carnivore
+Animal         7       2    2000    Lemur    Herbivore
+Animal        50       3    3000 Squirrel    Herbivore
+Plant   Fruits        69
+Animal        42      31   31000    Koala    Herbivore
+Animal        42       3    3000 Squirrel    Herbivore
+Animal         4       5    5000    Raven     Omnivore
+Animal        37      39   39000    Tiger    Carnivore
+Animal        41       2    2000 Squirrel    Herbivore
+Plant   Nuts          96
+Animal        17      20   20000    Lemur    Herbivore
+Animal        39       1    1000 Squirrel    Herbivore
+Plant   Fruits        76
+Plant   Nuts          63
+Plant   Fruits        98
+Plant   Nuts          77
+Animal        27       1    1000 Squirrel    Herbivore
+Plant   Fruits        71
+Plant   Nuts          63
+Animal        33      21   21000    Lemur    Herbivore
+Plant   Fruits        86
+Animal        10       1    1000 Squirrel    Herbivore
+Plant   Nuts          99
+Animal        21       3    3000 Squirrel    Herbivore
+Plant   Leaves        85
+Animal        30     588  588000    Tiger    Carnivore
+Plant   Leaves        77
+Animal        43       3    3000    Koala    Herbivore
+Animal        50     438  438000    Tiger    Carnivore
+Animal        39      33   33000    Koala    Herbivore
+Plant   Nuts          70
+Animal        33      20   20000    Koala    Herbivore
+Animal        47      12   12000    Lemur    Herbivore
+Plant   Fruits        81
+Animal        18       3    3000    Lemur    Herbivore
+Animal        29       4    4000    Lemur    Herbivore
+Animal        37       3    3000 Squirrel    Herbivore
+Animal        13       1    1000 Squirrel    Herbivore
+Animal        37      66   66000    Tiger    Carnivore
+Animal        18       5    5000    Lemur    Herbivore
+Animal        32      31   31000    Koala    Herbivore
+Plant   Nuts          61
+Animal        47     402  402000    Tiger    Carnivore
+Plant   Fruits        80
+Plant   Nuts          78
+Animal        25      14   14000    Lemur    Herbivore
+Animal        10      13   13000    Lemur    Herbivore
+Plant   Leaves        84
+Plant   Leaves        74
+Animal        28       1    1000    Raven     Omnivore
+Plant   Leaves        91
+Plant   Nuts          83
+Plant   Nuts          93
+Plant   Leaves        87
+Animal         2       3    3000    Raven     Omnivore
+Animal        37       4    4000    Raven     Omnivore
+Animal        33      29   29000    Koala    Herbivore
+Animal        41     292  292000    Tiger    Carnivore
+Animal        30       1    1000    Lemur    Herbivore
+Animal        26       8    8000    Lemur    Herbivore
+Animal        41       6    6000    Koala    Herbivore
+Plant   Fruits        95
+Animal         5       3    3000 Squirrel    Herbivore
+Plant   Fruits        94
+Animal        31      10   10000    Lemur    Herbivore
+Animal        21      17   17000    Lemur    Herbivore
+Animal        21      25   25000    Koala    Herbivore
+Plant   Fruits        80
+Animal        35      17   17000    Koala    Herbivore
+Plant   Nuts          84
+Animal        36       4    4000    Raven     Omnivore
+Animal         4       2    2000 Squirrel    Herbivore
+Animal        26       4    4000    Koala    Herbivore
+Animal        24      28   28000    Koala    Herbivore
+Animal        17      13   13000    Koala    Herbivore
+Plant   Leaves        94
+Animal        25       2    2000    Raven     Omnivore
+Plant   Fruits        80
+Plant   Leaves        66
+Animal        31       5    5000    Raven     Omnivore
+Plant   Nuts          83
+Animal        38      18   18000    Tiger    Carnivore
+Animal        38       3    3000    Raven     Omnivore
+Plant   Nuts          87
+Plant   Nuts          89
+Animal        11      13   13000    Lemur    Herbivore
+Plant   Leaves        68
+Plant   Nuts          71
+Plant   Nuts          83
+Animal        44       4    4000    Raven     Omnivore
+Animal         5     648  648000    Tiger    Carnivore
+Animal        46       1    1000    Lemur    Herbivore
+Animal        21       1    1000    Raven     Omnivore
+Animal        16     447  447000    Tiger    Carnivore
+Animal        33     570  570000    Tiger    Carnivore
+Animal         2      24   24000    Koala    Herbivore
+Animal        16       2    2000 Squirrel    Herbivore
+Animal        44       3    3000    Raven     Omnivore
+Plant   Nuts          69
+Animal        43       4    4000    Koala    Herbivore
+Plant   Nuts         100
+Plant   Leaves        61
+Plant   Leaves        70
+Animal         4      10   10000    Lemur    Herbivore
+Animal        14       4    4000    Raven     Omnivore
+Animal        49      18   18000    Lemur    Herbivore
+Animal         7      19   19000    Lemur    Herbivore
+Animal        21      29   29000    Koala    Herbivore
+Plant   Nuts          84
+Animal        11       2    2000    Raven     Omnivore
+Animal        32      21   21000    Lemur    Herbivore
+Animal        16      13   13000    Lemur    Herbivore
+Plant   Fruits        77
+Animal        10     294  294000    Tiger    Carnivore
+Plant   Leaves        84
+Plant   Nuts          75
+Animal        31      25   25000    Koala    Herbivore
+Animal        25     440  440000    Tiger    Carnivore
+Plant   Nuts          72
+Animal         7      19   19000    Koala    Herbivore
+Plant   Nuts          64
+Plant   Nuts          65
+Plant   Nuts          93
+Animal        20       4    4000    Lemur    Herbivore
+Plant   Leaves        68
+Animal        45       4    4000    Raven     Omnivore
+Plant   Nuts          92
+Plant   Nuts          61
+Animal        42     549  549000    Tiger    Carnivore
+Animal        17      25   25000    Koala    Herbivore
+Animal        45       8    8000    Lemur    Herbivore
+Animal        21      69   69000    Tiger    Carnivore
+Animal        22       1    1000 Squirrel    Herbivore
+Plant   Nuts          60
+Animal        25      17   17000    Lemur    Herbivore
+Plant   Nuts          84
+Plant   Nuts          75
+Animal         7       4    4000    Raven     Omnivore
+Plant   Leaves        85
+Animal        43      18   18000    Koala    Herbivore
+Animal         6     485  485000    Tiger    Carnivore
+Plant   Fruits        78
+Animal        50       7    7000    Koala    Herbivore
+Animal        16       7    7000    Koala    Herbivore
+Animal        19      33   33000    Koala    Herbivore
+Plant   Fruits        89
+Animal        50     100  100000    Tiger    Carnivore
+Animal        22       4    4000    Lemur    Herbivore
+Animal        20       2    2000    Raven     Omnivore
+Plant   Fruits       100
+Animal        12       3    3000 Squirrel    Herbivore
+Plant   Fruits        91
+Animal        44     572  572000    Tiger    Carnivore
+Animal        32     394  394000    Tiger    Carnivore
+Animal         8       2    2000    Raven     Omnivore
+Animal         9     218  218000    Tiger    Carnivore
+Animal        43       7    7000    Lemur    Herbivore
+Plant   Leaves        69
+Plant   Fruits        89
+Plant   Leaves        92
+Plant   Nuts          61
+Animal        46       4    4000    Raven     Omnivore
+Plant   Nuts          86
+Animal        50     130  130000    Tiger    Carnivore
+Animal        35       5    5000    Raven     Omnivore
+Animal        11      32   32000    Koala    Herbivore
+Animal        35       3    3000 Squirrel    Herbivore
+Plant   Fruits        97
+Plant   Leaves        63
+Animal        44       1    1000    Lemur    Herbivore
+Animal        15       3    3000 Squirrel    Herbivore
+Plant   Nuts          60
+Animal        27       2    2000 Squirrel    Herbivore
+Animal        48      20   20000    Lemur    Herbivore
+Animal        11     641  641000    Tiger    Carnivore
+Plant   Fruits        60
+Animal         3     195  195000    Tiger    Carnivore
+Animal        32      18   18000    Lemur    Herbivore
+Plant   Leaves        93
+Plant   Fruits        84
+Animal         1       4    4000    Raven     Omnivore
+Plant   Fruits        80
+Plant   Nuts          73
+Animal        31      13   13000    Koala    Herbivore
+Animal        12       3    3000    Raven     Omnivore
+Animal         9       1    1000 Squirrel    Herbivore
+Animal        19       3    3000    Raven     Omnivore
+Animal        44      20   20000    Tiger    Carnivore
+Animal        48       2    2000    Raven     Omnivore
+Animal        44      13   13000    Koala    Herbivore
+Plant   Fruits        60
+Animal        32       2    2000 Squirrel    Herbivore
+Animal        37      14   14000    Lemur    Herbivore
+Plant   Fruits        60
+Plant   Fruits        61
+Animal        23      11   11000    Koala    Herbivore
+Plant   Nuts          76
+Plant   Fruits        75
+Animal        34       3    3000    Raven     Omnivore
+Animal         1     591  591000    Tiger    Carnivore
+Animal        38       2    2000 Squirrel    Herbivore
+Animal        11      16   16000    Lemur    Herbivore
+Animal         5       4    4000    Koala    Herbivore
+Animal        24       1    1000 Squirrel    Herbivore
+Animal         2       3    3000    Raven     Omnivore
+Animal        39      26   26000    Koala    Herbivore
+Animal         2      22   22000    Koala    Herbivore
+Animal        21       3    3000    Raven     Omnivore
+Animal        35       1    1000    Koala    Herbivore
+Animal        27      24   24000    Koala    Herbivore
+Animal        15       1    1000 Squirrel    Herbivore
+Plant   Leaves        78
+Plant   Leaves        96
+Animal        30       2    2000 Squirrel    Herbivore
+Animal        31      33   33000    Koala    Herbivore
+Animal        15       1    1000 Squirrel    Herbivore
+Animal         3       4    4000    Raven     Omnivore
+Animal        18       7    7000    Lemur    Herbivore
+Animal        38      17   17000    Lemur    Herbivore
+Animal         8       3    3000 Squirrel    Herbivore
+Animal        34      11   11000    Koala    Herbivore
+Animal        27       2    2000 Squirrel    Herbivore
+Animal        24     170  170000    Tiger    Carnivore
+Animal        38       4    4000    Raven     Omnivore
+Plant   Fruits        89
+Animal        34       3    3000 Squirrel    Herbivore
+Animal        24      13   13000    Koala    Herbivore
+Plant   Leaves        92
+Plant   Nuts          74
+Plant   Fruits        69
+Plant   Fruits        93
+Plant   Nuts          64
+Animal        46      10   10000    Lemur    Herbivore
+Animal        35       7    7000    Lemur    Herbivore
+Animal        31       3    3000 Squirrel    Herbivore
+Plant   Fruits        90
+Plant   Nuts          91
+Animal        35      16   16000    Lemur    Herbivore
+Plant   Nuts          94
+Animal         8       3    3000    Raven     Omnivore
+Plant   Fruits        83
+Animal        19       2    2000    Raven     Omnivore
+Animal        41       2    2000    Raven     Omnivore
+Animal        29     384  384000    Tiger    Carnivore
+Animal        47     516  516000    Tiger    Carnivore
+Animal        33      10   10000    Lemur    Herbivore
+Animal        37      32   32000    Koala    Herbivore
+Animal        32      48   48000    Tiger    Carnivore
+Animal        17      83   83000    Tiger    Carnivore
+Plant   Fruits        97
+Animal        43       1    1000 Squirrel    Herbivore
+Plant   Fruits        75
+Animal        29       1    1000    Raven     Omnivore
+Animal        38      26   26000    Koala    Herbivore
+Animal        42       2    2000 Squirrel    Herbivore
+Animal        43       2    2000    Raven     Omnivore
+Animal        48      28   28000    Koala    Herbivore
+Animal        48      16   16000    Lemur    Herbivore
+Animal         5       2    2000 Squirrel    Herbivore
+Plant   Fruits        74
+Animal        23     534  534000    Tiger    Carnivore
+Plant   Leaves        89
+Animal        20     308  308000    Tiger    Carnivore
+Plant   Nuts          91
+Animal        46     300  300000    Tiger    Carnivore
+Plant   Nuts          96
+Animal         2       4    4000    Raven     Omnivore
+Plant   Fruits        62
+Plant   Fruits        63
+Animal        45      15   15000    Koala    Herbivore
+Plant   Leaves        77
+Animal        37       3    3000 Squirrel    Herbivore
+Animal        50      18   18000    Lemur    Herbivore
+Plant   Nuts          80
+Plant   Fruits        99
+Plant   Leaves        97
+Plant   Fruits        95
+Plant   Nuts          61
+Plant   Fruits        69
+Animal        28     661  661000    Tiger    Carnivore
+Animal         8      18   18000    Lemur    Herbivore
+Animal        50       2    2000 Squirrel    Herbivore
+Plant   Fruits        90
+Animal        41      53   53000    Tiger    Carnivore
+Animal        46       1    1000    Raven     Omnivore
+Plant   Leaves        77
+Animal        43     600  600000    Tiger    Carnivore
+Plant   Leaves        96
+Animal        18       3    3000 Squirrel    Herbivore
+Animal        38     256  256000    Tiger    Carnivore
+Animal        24      59   59000    Tiger    Carnivore
+Animal        19     650  650000    Tiger    Carnivore
+Plant   Leaves        85
+Plant   Leaves        83
+Animal        40       3    3000 Squirrel    Herbivore
+Plant   Fruits        79
+Plant   Leaves        79
+Animal        39      18   18000    Lemur    Herbivore
+Animal        22      14   14000    Lemur    Herbivore
+Animal        14       1    1000 Squirrel    Herbivore
+Animal        35       5    5000    Raven     Omnivore
+Animal        48       8    8000    Koala    Herbivore
+Animal        31       2    2000    Raven     Omnivore
+Animal        23     475  475000    Tiger    Carnivore
+Animal         7      30   30000    Koala    Herbivore
+Animal        36       3    3000 Squirrel    Herbivore
+Animal        20     179  179000    Tiger    Carnivore
+Animal         4      13   13000    Lemur    Herbivore
+Animal         1       2    2000    Raven     Omnivore
+Animal        24       3    3000 Squirrel    Herbivore
+Plant   Nuts          84
+Animal         8      28   28000    Koala    Herbivore
+Plant   Leaves        81
+Plant   Fruits        74
+Plant   Nuts          68
+Animal        43      12   12000    Koala    Herbivore
+Animal        27       3    3000 Squirrel    Herbivore
+Animal         8       1    1000    Lemur    Herbivore
+Animal        11       3    3000    Raven     Omnivore
+Animal         3     150  150000    Tiger    Carnivore
+Animal        48      19   19000    Lemur    Herbivore
+Animal        45       1    1000    Raven     Omnivore
+Animal        38       8    8000    Koala    Herbivore
+Animal        20      12   12000    Lemur    Herbivore
+Animal        49      26   26000    Koala    Herbivore
+Animal        24     122  122000    Tiger    Carnivore
+Animal        36      24   24000    Koala    Herbivore
+Plant   Leaves        98
+Plant   Leaves        74
+Animal        22     134  134000    Tiger    Carnivore
+Animal        12      19   19000    Lemur    Herbivore
+Plant   Leaves        88
+Animal        21     236  236000    Tiger    Carnivore
+Plant   Leaves        65
+Plant   Nuts          89
+Plant   Leaves        75
+Animal        22       3    3000 Squirrel    Herbivore
+Animal        20      17   17000    Lemur    Herbivore
+Plant   Leaves        67
+Plant   Fruits        69
+Animal        34      17   17000    Lemur    Herbivore
+Animal        38       1    1000 Squirrel    Herbivore
+Animal        12       2    2000 Squirrel    Herbivore
+Animal         5       5    5000    Raven     Omnivore
+Plant   Fruits        79
+Plant   Fruits        68
+Plant   Nuts          89
+Plant   Leaves        72
+Animal        35       3    3000    Raven     Omnivore
+Animal         8     528  528000    Tiger    Carnivore
+Plant   Nuts          78
+Animal        22     517  517000    Tiger    Carnivore
+Animal        15       5    5000    Koala    Herbivore
+Animal        33     621  621000    Tiger    Carnivore
+Plant   Leaves        61
+Animal        20       2    2000 Squirrel    Herbivore
+Plant   Leaves        70
+Plant   Fruits        78
+Animal        16       1    1000    Raven     Omnivore
+Plant   Leaves        61
+Plant   Fruits        96
+Plant   Fruits        96
+Animal        17       2    2000 Squirrel    Herbivore
+Animal        31       2    2000 Squirrel    Herbivore
+Animal        34       3    3000    Raven     Omnivore
+Animal        36      17   17000    Lemur    Herbivore
+Plant   Leaves        77
+Animal        20       3    3000 Squirrel    Herbivore
+Animal        10       4    4000    Raven     Omnivore
+Animal        43       3    3000    Raven     Omnivore
+Animal        19       2    2000    Raven     Omnivore
+Plant   Fruits        78
+Animal        30       4    4000    Raven     Omnivore
+Animal        22       2    2000 Squirrel    Herbivore
+Plant   Nuts          81
+Plant   Leaves        62
+Plant   Nuts          85
+Plant   Fruits        94
+Plant   Nuts          62
+Animal         1       2    2000 Squirrel    Herbivore
+Animal        16       9    9000    Lemur    Herbivore
