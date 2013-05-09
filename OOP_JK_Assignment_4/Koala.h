@@ -31,16 +31,28 @@ class Koala : public Herbivore
 
     
 		~Koala(){}
-		bool eat(Food* food) 
+		bool eat(Food* food)
 		{
-			if ( typeid(food).name() )
-				cout << "food passed successfully" << endl;
+			cout << "koala.h eat() called" << endl;
 			return true;
-		};
-	    bool hunt() 
+		}
+
+		/*
+		static bool eat(Food* food)
 		{
-			return true;
-		};
+			string Fruits = "Fruits";
+			if (food.getName() == Fruits)
+			{
+				cout << "Animal: " << name << " ate a Plant of type: " << (food)->getName() << ". " << .size() << " Plants remain." << endl;
+				calories += food.energy;
+				delete food
+				return true;
+			}
+			else 
+				return false;
+		}
+		*/
+
 	
 		void PrintSelf()
 		{

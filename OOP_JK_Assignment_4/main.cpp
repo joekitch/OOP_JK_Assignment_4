@@ -84,6 +84,28 @@ list<Food*> Food_list;
 
 void readFile();
 
+//class thing1 {
+//public:
+//	thing1(){};
+//	~thing1(){};
+//	virtual void foo(){};
+//
+//	void bar() 
+//	{
+//		thing2 thing = new thing2();
+//		thing::foo(); 
+//	};
+//
+//};
+//
+//class thing2 : public thing1 {
+//public:
+//	thing2(){};
+//	~thing2(){};
+//	void foo () { cout << "top lel" << endl; };
+//};
+
+
 int main()
 {
 	//Animal(std::string& animal_name, int animal_age, int animal_calories, double animal_weight)
@@ -145,8 +167,8 @@ int main()
 	readFile();
 
 	list<Food*>::iterator it = Food_list.begin();
-
-	(*it)->PrintSelf();
+	Animal* temp = dynamic_cast<Animal*>(*it);
+	(temp)->PrintSelf(); // need to cast to Animal to call printself
 	
 
 	cout << "iterator thing is of the type " << typeid(**it).name() << endl;
@@ -155,19 +177,79 @@ int main()
 	//[SOLVED, use dynamic casting down (go from Food* to Herbivore*, if the tmp returns null it's false). see example below main]
 
 
-	(*it)->eat(*it);
+	//(*it)->eat(*it);
 	
 	//PROBLEM, keeps saying eat does not take one arugments [SOLVED, had to put (Food* food) in all the virtual function definitions through food to herbivore/carnivore to omnivore]
 	//technically Food* food need only be in the food class' definition
 
-	(*it)->hunt(Food_list);
+	//(*it)->hunt(Food_list);
 	//PROBLEM, error C2061: syntax error : identifier 'list' (see Food.h)
 	//error C2660: 'Food::hunt' : function does not take 1 arguments
 
 	//if i take the virtual hunt() out of Food it says hunt() is not a member of Food
 
 
+	//need to cast down to animal, and THEN call eat or hunt for it
+    
+	//Animal* temp = dynamic_cast<Carnivore*>(*it)
+	//this casts temp to the Animal* type, but only if the iterator (*it) is actually a carnivore in some form
 
+	/*
+	if ( Animal* temp = dynamic_cast<Carnivore*>(*it) ){
+		cout << "iterator thing is a carnivore " << endl;
+		temp->hunt(Food_list);}
+	else cout << "iterator is not a carnivore " << endl;
+
+	if ( Herbivore* temp = dynamic_cast<Herbivore*>(*it) ){
+		cout << "iterator thing is a Herbivore " << endl;
+		temp->hunt(Food_list);
+	cout << "iterator thing is of the type " << typeid(temp).name() << endl;}
+	else cout << "iterator is not a Herbivore " << endl;
+	*/
+
+	//IT WORKS! hunt will be called on whatever it has been cast to (in this case, animal)
+
+	//in HERBIVORE, fully define the hunt() function, look for Plant* type objects by doing a cast check
+	if ( Herbivore* temp = dynamic_cast<Herbivore*>(*it) )
+	{
+		cout << "iterator thing is a Herbivore " << endl;
+		if ( (temp)->hunt(Food_list) ){cout << "successful hunt" << endl;}
+		else
+		{
+		Animal* temp = dynamic_cast<Animal*>(*it);
+		cout << "this " << (temp)->getName() << " missed a meal..." << endl;
+		}
+	}
+	else cout << "iterator is not a Herbivore " << endl;
+
+
+
+	//PROBLEM, how do i tell hunt() which animal is to do the eating? like, in Herbivore, its going through the food list looking for a plant, and casts whatever it finds to a plant
+	//...but how do i tell the animal to actually eat the now-plant-casted variable temp? do i need to pass the pointer to what hunt() is being called for in the first place?
+	//or, since i'm calling it from say Lemur, should it just assume Lemur will be doing the eating?
+
+	//'NOTHER PROBLEM, how do i call the eat() function of a lower class within an upper class?
+	//i want to use hunt() in Herbivore, and then have that function actually call the appropriate eat() from, say, lemur, which is what the hunt() is being called for in the simulation loop...
+	//however Lemur::eat() just says "no namespace found 'Lemur'"
+
+	//'NOTHER PROBLEM, related to above. I need to call Lemur's eat() if hunt finds a fruit, how do i do that? just do three else if's to find out which animal the iterator is, and call that specific animal's eat()?
+
+	//[ALL SOLVED, it uses the eat() function of whatever the master pointer was (the thing that calls hunt() and eat() from main), so it always knows it's a lemur using lemur's eat(). 
+	//[as such i just need to find a plant, and pass the Food* type pointer to lemur's eat. MUST Be a food type pointer for it to work. lemur's eat casts it down to a fruit, and if it fails, returns false to hunt(), which will check the next thing to pass to eat() and pass that
+	//don't need to call to a lower class, it just call eat(*it) within herbivore's hunt(). since herbivore has no eat(), it'll 
+	
+	//Lemur* temp = dynamic_cast<Food*>(*it);
+
+	
+
+	//NEW PROBLEM, dynamic cast cannot "cast down" like glover said. i need EXACT SYNTAX here
+	//Lemur* temp = dynamic_cast<Food*>(*it); gives me the error "cannot convert from Food* to Lemur*.
+	//however if i do 
+	//Food* temp = dynamic_cast<Herbivore*>(*it);
+	//it works fine
+	//but if i want to check it's type, like with
+	//Carnivore* temp = dynamic_cast<Animal*>(*it);
+	//it says "cannot convert from Lemur* to Carnivore*. it's supposed to just make temp null, since its not a carnivore correct?
 
 
 
@@ -180,6 +262,7 @@ int main()
 	
 
 
+	
 
 	
 
@@ -221,8 +304,8 @@ void readFile() //function to read in file
 	
 	ifstream FileIn;
 	FileIn.open("assignment_4_input.txt"); // located in C:\Users\joseph\Documents\Visual Studio 2010\Projects\OOP_JK_Assignment1\OOP_JK_Assignment1
+	int Plants = 0;	
 	if (FileIn.is_open()) 
-		
 			{
 				while (!FileIn.eof( )) 
 					{
@@ -233,6 +316,8 @@ void readFile() //function to read in file
              		string FileIn_name = "none";            //define variables to be found in the text file
 					int FileIn_age = 0, FileIn_calories = 0;
 					double FileIn_weight = 0;
+
+					
 
 					//some loop to read in lines of text and store them as variables to be passed
 					FileIn >> FileIn_type; //read in all variables per line, terminates at end of line, and is whitespace delimited
@@ -280,7 +365,7 @@ void readFile() //function to read in file
 						}
 						else if (FileIn_type == Plant_type)
 						{
-							
+							Plants++;
 							FileIn >> FileIn_name >> FileIn_calories;
 							Food_list.push_back(new Plant (FileIn_name, FileIn_calories) );
 						}
@@ -307,6 +392,7 @@ void readFile() //function to read in file
 		//	(*it)->PrintSelf(); //for each object, call PrintSelf() from Animal object
 		//}
 		cout << "list read and stored successfully" << endl;
+		cout << "there are " << Plants << " plants." << endl;
 
 
 } //end of readFile()
@@ -351,7 +437,7 @@ void readFile() //function to read in file
 
                 //can only cast down. cast down from food* to animal* and see if its harbivore* type, if(cast) or whatever returns NULL its not
 // hunt, searches through list for casted plant type. pass to eat, cast further down to what
-//Herbivore* temp = dynamic_cast<Food*>(*itr)
+//Herbivore* temp = dynamic_cast<Food*>(*itr). what you want on the left, what you got on the right
 // if (temp)
 //			}
 //		}

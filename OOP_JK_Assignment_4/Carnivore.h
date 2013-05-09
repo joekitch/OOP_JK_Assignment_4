@@ -24,7 +24,7 @@ class Carnivore : public virtual Animal
 
     bool eat(Food* food) 
 	{ 
-		cout << name << " ate a " << food->getName()  << endl; 
+//		cout << name << " ate a " << food->getName()  << endl; 
 	    return true; 
 
 		//needs to check if the target is an animal, isn't a tiger, and weighs more than its prey

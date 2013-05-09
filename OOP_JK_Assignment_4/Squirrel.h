@@ -32,17 +32,27 @@ class Squirrel : public Herbivore
 
 
 		  
-		bool eat(Food* food) 
+		bool eat(Food* food)
 		{
-			if ( typeid(food).name() )
-				cout << "food passed successfully" << endl;
+			cout << "squirrel.h eat() called" << endl;
 			return true;
-		};
-	    bool hunt(list<Food *> &foodlist) 
+		}
+
+		/*
+		static bool eat(Food* food)
 		{
-			cout << "hunt list passed successfully" << endl;
-			return true;
-		};
+			string Fruits = "Fruits";
+			if (food.getName() == Fruits)
+			{
+				cout << "Animal: " << name << " ate a Plant of type: " << (food)->getName() << ". " << .size() << " Plants remain." << endl;
+				calories += food.energy;
+				delete food
+				return true;
+			}
+			else 
+				return false;
+		}
+		*/
 	
 	void PrintSelf()
 	{

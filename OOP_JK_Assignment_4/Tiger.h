@@ -33,10 +33,7 @@ class Tiger : public Carnivore
 		{
 			if ( typeid(food).name() )
 				cout << "food passed successfully" << endl;
-			return true;
-		};
-	    bool hunt() 
-		{
+			cout << "eat for Tiger not implemented yet" << endl;
 			return true;
 		};
 	
@@ -45,7 +42,7 @@ class Tiger : public Carnivore
 			cout << "i am a " << age << " year old, " << weight << " kilogram " << name << " with " << calories << " calories." << endl;
 		};
 
-        protected:	
+        	
         std::string name;
 		bool alive;
         int age, calories, maxcalories;

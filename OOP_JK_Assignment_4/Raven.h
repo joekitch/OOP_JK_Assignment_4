@@ -37,15 +37,13 @@ class Raven : public Omnivore
 				cout << "food passed successfully, its a " << typeid(*food).name() << endl; //need the * in front of food otherwise it things it's a class Food* type
 			return true;
 		};
-	    bool hunt() 
-		{
-			return true;
-		};
 	
 		void PrintSelf()
 		{
 			cout << "i am a " << age << " year old, " << weight << " kilogram " << name << " with " << calories << " calories." << endl;
 		};
+
+
 
         protected:	
         std::string name;

@@ -9,9 +9,14 @@
 #pragma once
 #include "Animal.h"
 #include "Herbivore.h"
+#include "Plant.h"
+#include "Fruit.h"
+#include "Leaf.h"
+#include "Nut.h"
 #include <iostream>
 #include <string>
 #include <list>
+#include <typeinfo>
 using namespace std;
 
 class Lemur : public Herbivore
@@ -30,24 +35,68 @@ class Lemur : public Herbivore
 
     
 		~Lemur(){}
+		 
 
-		bool eat(Food* food) 
+
+		bool eat(Food* food)
 		{
-			if ( typeid(*food).name() )
-				cout << "food passed successfully, its a " << typeid(*food).name() << endl; //need the * in front of food otherwise it things it's a class Food* type
-			return true;
-		};
-	   bool hunt(list<Food*>) 
+			
+			//Fruit* temp = dynamic_cast<Fruit*>(food);
+			Plant *food2 = static_cast<Plant*>(food);
+			if (Fruit* temp = dynamic_cast<Fruit*>(food2))
+			{
+				//PROBLEM, it sees every plant as a fruit in this case. so the temp is always NULL when it encounters a fruit?
+				cout << "it's a fruit" << endl;
+				return true;
+			}
+			else
+			{
+				//cout << "not a fruit" << endl;
+				return false;
+			}
+		
+			
+		}
+
+		//eat works like this (for lemur)
+		//take in Food* object
+		//attempt to cast down to a Fruit* object
+		//if temp is null, return false.
+		//if temp is not null, output "ate fruit" or whatever
+		//get the fruit's calories (put a getCalories in Plant or something)
+		//add the fruit's calories to this animal's calories with {calories += energy} or something
+		//delete the object by using delete *food
+		//return true
+
+		/*
+		static bool eat(Food* food)
 		{
-			cout << "successfully got the food list" << endl;
-			return true;
-		};
+			string Fruits = "Fruits";
+			if (food.getName() == Fruits)
+			{
+				cout << "Animal: " << name << " ate a Plant of type: " << (food)->getName() << ". " << .size() << " Plants remain." << endl;
+				calories += food.energy;
+				delete food
+				return true;
+			}
+			else 
+				return false;
+		}
+		*/
+
+		
+		
+
+
 	
 	void PrintSelf()
 	{
 		cout << "i am a " << age << " year old, " << weight << " kilogram " << name << " with " << calories << " calories." << endl;
 	};
 
+	string& getName(){
+		return name;
+	};
        
         std::string name;
 		bool alive;
