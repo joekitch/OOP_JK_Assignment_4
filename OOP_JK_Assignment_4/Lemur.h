@@ -42,8 +42,9 @@ class Lemur : public Herbivore
 		{
 			
 			//Fruit* temp = dynamic_cast<Fruit*>(food);
-			Plant *food2 = static_cast<Plant*>(food);
-			if (Fruit* temp = dynamic_cast<Fruit*>(food2))
+			
+
+			if (Fruit* temp = dynamic_cast<Fruit*>(food))
 			{
 				//PROBLEM, it sees every plant as a fruit in this case. so the temp is always NULL when it encounters a fruit?
 				cout << "it's a fruit" << endl;
