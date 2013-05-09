@@ -20,17 +20,24 @@ public:
         Animal(string& animal_name, int animal_age, int animal_calories, double animal_weight) : 
 		name(animal_name), alive(true), age(animal_age), calories(animal_calories), weight(animal_weight), maxcalories(animal_calories) {}
 
-    ~Animal(){};
+    virtual ~Animal(){}
 
-	virtual bool eat(Food* food) {return true;};
+	virtual bool eat(Food* food) = 0;
+    virtual bool hunt(list<Food*> &foodlist) = 0;
+
+
 	
-	virtual bool hunt(list<Food*> &foodlist) {return true;};
+	/*bool hunt(list<Food*> &foodlist) 
+		{
+			cout << "successfully got the food list" << endl;
+			return true;
+		};
 	
 
 	void PrintSelf()
 	{
 		cout << "i am a " << age << " year old, " << weight << " kilogram " << name << " with " << calories << " calories." << endl;
-	};
+	};*/
 
 
 
@@ -39,7 +46,7 @@ public:
     //            return name;
     //};
 
-protected:	
+
         std::string name;
 		bool alive;
         int age, calories, maxcalories;

@@ -9,6 +9,7 @@
 #include "Carnivore.h"
 #include <iostream>
 #include <string>
+#include <list>
 using namespace std;
 
 class Tiger : public Carnivore
@@ -27,7 +28,7 @@ class Tiger : public Carnivore
 		name(animal_name), alive(true), age(animal_age), calories(animal_calories), weight(animal_weight), maxcalories(animal_calories) {}
 
     
-		~Tiger(){};
+		~Tiger(){}
 		bool eat(Food* food) 
 		{
 			if ( typeid(food).name() )

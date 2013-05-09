@@ -10,6 +10,7 @@
 #include "Omnivore.h"
 #include <iostream>
 #include <string>
+#include <list>
 using namespace std;
 
 class Raven : public Omnivore
@@ -29,7 +30,7 @@ class Raven : public Omnivore
 		name(animal_name), alive(true), age(animal_age), calories(animal_calories), weight(animal_weight), maxcalories(animal_calories) {}
 
     
-		~Raven(){};
+		~Raven(){}
 		bool eat(Food* food) 
 		{
 			if ( typeid(*food).name() )

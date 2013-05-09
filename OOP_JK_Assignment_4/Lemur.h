@@ -11,6 +11,7 @@
 #include "Herbivore.h"
 #include <iostream>
 #include <string>
+#include <list>
 using namespace std;
 
 class Lemur : public Herbivore
@@ -28,14 +29,15 @@ class Lemur : public Herbivore
 		name(animal_name), alive(true), age(animal_age), calories(animal_calories), weight(animal_weight), maxcalories(animal_calories) {}
 
     
-		~Lemur(){};
+		~Lemur(){}
+
 		bool eat(Food* food) 
 		{
 			if ( typeid(*food).name() )
 				cout << "food passed successfully, its a " << typeid(*food).name() << endl; //need the * in front of food otherwise it things it's a class Food* type
 			return true;
 		};
-	   bool hunt(list<Food*> &foodlist) 
+	   bool hunt(list<Food*>) 
 		{
 			cout << "successfully got the food list" << endl;
 			return true;
@@ -46,7 +48,7 @@ class Lemur : public Herbivore
 		cout << "i am a " << age << " year old, " << weight << " kilogram " << name << " with " << calories << " calories." << endl;
 	};
 
-        protected:	
+       
         std::string name;
 		bool alive;
         int age, calories, maxcalories;

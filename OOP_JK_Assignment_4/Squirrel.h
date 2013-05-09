@@ -11,6 +11,7 @@
 #include "Herbivore.h"
 #include <iostream>
 #include <string>
+#include <list>
 using namespace std;
 
 class Squirrel : public Herbivore
@@ -27,15 +28,19 @@ class Squirrel : public Herbivore
 		name(animal_name), alive(true), age(animal_age), calories(animal_calories), weight(animal_weight), maxcalories(animal_calories) {}
 
     
-		~Squirrel(){};
+		~Squirrel(){}
+
+
+		  
 		bool eat(Food* food) 
 		{
 			if ( typeid(food).name() )
 				cout << "food passed successfully" << endl;
 			return true;
 		};
-	    bool hunt() 
+	    bool hunt(list<Food *> &foodlist) 
 		{
+			cout << "hunt list passed successfully" << endl;
 			return true;
 		};
 	
@@ -44,7 +49,7 @@ class Squirrel : public Herbivore
 		cout << "i am a " << age << " year old, " << weight << " kilogram " << name << " with " << calories << " calories." << endl;
 	};
 
-        protected:	
+        
         std::string name;
 		bool alive;
         int age, calories, maxcalories;

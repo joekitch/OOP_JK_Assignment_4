@@ -156,8 +156,7 @@ int main()
 
 
 	(*it)->eat(*it);
-	it++;
-	(*it)->eat(*it);
+	
 	//PROBLEM, keeps saying eat does not take one arugments [SOLVED, had to put (Food* food) in all the virtual function definitions through food to herbivore/carnivore to omnivore]
 	//technically Food* food need only be in the food class' definition
 

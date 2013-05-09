@@ -7,6 +7,7 @@
 #include "Animal.h"
 #include <iostream>
 #include <string>
+#include <list>
 using namespace std;
 
 class Herbivore : public virtual Animal
@@ -14,11 +15,11 @@ class Herbivore : public virtual Animal
 	public:
 		//Herbivore(string& animal_name, int animal_age, int animal_calories, double animal_weight) : 
 		  // Animal (animal_name, animal_age, animal_calories, animal_weight) {} //constructor pased to base class
-		Herbivore() {};
-		~Herbivore(){};
+		Herbivore() {}
+		virtual ~Herbivore(){}
 		virtual bool eat(Food* food) {return true;};
 	
-	virtual bool hunt(list<Food*> &foodlist) {return true;};
+	bool hunt(list<Food*> &foodlist) {return true;};
 
 	//void PrintSelf()
 	//{

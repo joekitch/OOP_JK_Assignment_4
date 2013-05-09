@@ -11,6 +11,7 @@
 #include "Herbivore.h"
 #include <iostream>
 #include <string>
+#include <list>
 using namespace std;
 
 class Koala : public Herbivore
@@ -29,7 +30,7 @@ class Koala : public Herbivore
 		name(animal_name), alive(true), age(animal_age), calories(animal_calories), weight(animal_weight), maxcalories(animal_calories) {}
 
     
-		~Koala(){};
+		~Koala(){}
 		bool eat(Food* food) 
 		{
 			if ( typeid(food).name() )

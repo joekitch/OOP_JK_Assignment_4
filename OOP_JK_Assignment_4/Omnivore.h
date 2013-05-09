@@ -13,6 +13,7 @@
 #include "Herbivore.h"
 #include <iostream>
 #include <string>
+#include <list>
 using namespace std;
 
 
@@ -24,8 +25,8 @@ class Omnivore : public Carnivore, public Herbivore
 
 //PROBLEM, how to pass a constructor to multiple parent classes? [SOLVED; use Omnivore(int arguments) : Herbivore(arguments), Omnivore(Arguments) {} ]
 
-		Omnivore() : Herbivore(), Carnivore(){};
-		~Omnivore(){};
+		Omnivore() : Herbivore(), Carnivore(){}
+		virtual ~Omnivore(){}
 		virtual bool eat(Food* food) {return true;};
 	
 	virtual bool hunt(list<Food*> &foodlist) {return true;};
