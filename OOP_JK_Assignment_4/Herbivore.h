@@ -44,9 +44,11 @@ class Herbivore : public virtual Animal
 				{
 					//cout << "this is a " << cout << typeid(temp).name() << endl;
 				    plantcounter++;
-					//eat(*it);
-					if ( eat(*it) )
-                    fruitcounter++;
+
+					eat(it);
+
+					//if ( eat(*it) )
+				    //fruitcounter++;
 					//return true;
 				}
 				

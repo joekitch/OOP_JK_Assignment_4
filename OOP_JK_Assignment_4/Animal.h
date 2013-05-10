@@ -26,37 +26,12 @@ public:
 	virtual bool hunt(list<Food*> &foodlist){return false;};
 	//if i try to make either of these pure virtuals, as in virtual bool eat() =0;, it says "cannot instantiate base class" for every single class being instantiated in readFile()
 
-	//bool hunt(list<Food*>) 
-	//	{
-	//		cout << "successfully got the food list" << endl;
-	//		return true;
-	//	};
-
-
-	
-	/*bool hunt(list<Food*> &foodlist) 
-		{
-			cout << "successfully got the food list" << endl;
-			return true;
-		};
-	
-	*/
-	//virtual void PrintSelf()
-	//{
-	//	cout << "i am a " << age << " year old, " << weight << " kilogram " << name << " with " << calories << " calories." << endl;
-	//};
 	virtual void PrintSelf(){};
 	
 	virtual string& getName(){
 		return name;
 	};
 
-
-
-	//const std::string& getName()
-    //{
-    //            return name;
-    //};
 
 
         std::string name;
